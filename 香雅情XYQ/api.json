@@ -656,7 +656,16 @@
             "filterable": 1,
             "ext": "./json/好戏网.json"
         },
-       
+        {
+            "key": "csp_XYQHiker_量子影视",
+            "name": "量子影视(HM2)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/量子影视.json"
+        },
         {
             "key": "csp_非凡资源",
             "name": "非凡资源",
