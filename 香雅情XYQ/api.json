@@ -656,7 +656,26 @@
             "filterable": 1,
             "ext": "./json/好戏网.json"
         },
-       
+        {
+            "key": "lzi",
+            "name": "🎦量子资源",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/liangzi.json"
+        },
+        {
+            "key": "非凡资源",
+            "name": "🎦非凡资源",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/ffzy.json"
+        },
         {
             "key": "csp_非凡资源",
             "name": "非凡资源",
