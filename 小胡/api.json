@@ -29,39 +29,22 @@
             "name": "🀄自营┃剧集",
             "type": 1,
             "playerType": 3,
-            "api": "http://bb.xzam.cn/api.php/provide/vod/",
+            "api": "http://cc.xzam.cn/api.php/provide/vod/",
             "playUrl": ""
         },
         {
-            "key": "小文",
-            "name": "🐷小小┃赛文",
-            "type": 1,
-            "api": "https://cj.wanbu.cc/api.php/provide/vod/",
-            "playUrl": "https://cj.wanbu.cc/jmza.php?url=",
-            "categories": [
-                "电影",
-                "电视剧",
-                "动漫",
-                "综艺"
-            ]
+            "key": "tg",
+            "name": "🐄放牛┃影探",
+            "type": 3,
+            "api": "csp_Fangniu4k",
+            "jar": "./jars/tg.jar"
         },
         {
-            "key": "影探",
-            "name": "📺小小┃影探",
+            "key": "南瓜",
+            "name": "🎃南瓜┃影视",
             "type": 3,
-            "api": "csp_Yingtantv2",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "./jars/影探.jar"
-        },
-        {
-            "key": "追忆",
-            "name": "📺小小┃追忆",
-            "type": 3,
-            "api": "csp_Zhuiyitv",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "./jars/影探.jar"
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/南瓜.js"
         },
         {
             "key": "Bdys",
@@ -83,24 +66,13 @@
             "ext": "https://bo.czys.me/"
         },
         {
-            "key": "赛文",
-            "name": "🌏赛文┃资源",
+            "key": "Ddys",
+            "name": "🔅低端┃影视",
             "type": 3,
-            "api": "csp_AppYsV2",
-            "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
+            "api": "csp_Ddys",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "玩偶哥哥",
-            "name": "👼玩偶┃哥哥",
-            "type": 3,
-            "api": "csp_XYQHikerAL",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/玩偶哥哥.json"
+            "filterable": 1
         },
         {
             "key": "sh",
@@ -125,25 +97,26 @@
             "name": "😣耐看┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jars/耐看.jar",
+            "jar": "./jars/sh.jar",
             "ext": "./json/nk.json"
+        },
+        {
+            "key": "玩偶哥哥",
+            "name": "👼玩偶┃哥哥",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/玩偶哥哥.json"
         },
         {
             "key": "农民",
             "name": "🌾农民┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jars/耐看.jar",
+            "jar": "./jars/农民.jar",
             "ext": "./json/农民.json"
-        },
-        {
-            "key": "77",
-            "name": "🍪七七┃影视",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "荐片",
@@ -158,7 +131,7 @@
             "name": "😅短剧┃视频",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jars/耐看.jar",
+            "jar": "./jars/农民.jar",
             "ext": "./json/短剧.json"
         },
         {
@@ -171,31 +144,10 @@
             "filterable": 0
         },
         {
-            "key": "纸条",
-            "name": "🍼纸条┃阿里",
-            "type": 3,
-            "api": "csp_Gitcafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto"
-        },
-        {
             "key": "盘搜",
             "name": "🍼盘搜┃阿里",
             "type": 3,
             "api": "csp_AliPS",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto"
-        },
-        {
-            "key": "易搜",
-            "name": "🍼易搜┃阿里",
-            "type": 3,
-            "api": "csp_Yisou",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -229,14 +181,14 @@
             "name": "🦄非凡┃资源",
             "type": 1,
             "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
-            "playUrl": ""
+            "playUrl": "json:http://api.suxun.site/api/delad?url="
         },
         {
             "key": "量子",
             "name": "🦄量子┃资源",
             "type": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
-            "playUrl": ""
+            "playUrl": "json:http://api.suxun.site/api/delad?url="
         }
     ],
     "parses": [
@@ -253,35 +205,7 @@
         {
             "name": "解析1",
             "type": 1,
-            "url": "https://cache.json.icu/8520.php?url="
-        },
-        {
-            "name": "解析2",
-            "type": 1,
             "url": "http://119.91.123.253:2345/Api/yun.php?url="
-        },
-        {
-            "name": "赛文",
-            "type": 1,
-            "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
-            "ext": {
-                "flag": [
-                    "seven"
-                ],
-                "header": {
-                    "User-Agent": "Lavf/58.12.100"
-                }
-            }
-        },
-        {
-            "name": "西瓜1",
-            "type": 0,
-            "url": "https://t1.qlplayer.cyou/player/analysis.php?v="
-        },
-        {
-            "name": "西瓜2",
-            "type": 0,
-            "url": "https://t1.qlplayer.cyou/player/?url="
         },
         {
             "name": "嗅探1",
@@ -300,61 +224,6 @@
         }
     ],
     "rules": [
-        {
-            "name": "hwk",
-            "hosts": [
-                "haiwaikan"
-            ],
-            "regex": [
-                "10.0099",
-                "10.3333",
-                "16.0599",
-                "8.1748",
-                "12.33",
-                "10.85"
-            ]
-        },
-        {
-            "name": "yqk",
-            "hosts": [
-                "yqk88"
-            ],
-            "regex": [
-                "18.4",
-                "15.1666"
-            ]
-        },
-        {
-            "name": "sn",
-            "hosts": [
-                "suonizy"
-            ],
-            "regex": [
-                "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",
-                "15.1666",
-                "15.2666",
-                "16.333333",
-                "15.266667"
-            ]
-        },
-        {
-            "name": "bf",
-            "hosts": [
-                "bfzy"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            ]
-        },
-        {
-            "name": "xx",
-            "hosts": [
-                "aws.ulivetv.net"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            ]
-        },
         {
             "name": "lz",
             "hosts": [
@@ -378,41 +247,12 @@
             ]
         },
         {
-            "name": "hs",
-            "hosts": [
-                "huoshan.com"
-            ],
-            "regex": [
-                "item_id="
-            ]
-        },
-        {
-            "name": "dy",
-            "hosts": [
-                "douyin.com"
-            ],
-            "regex": [
-                "is_play_url="
-            ]
-        },
-        {
             "name": "nm",
             "hosts": [
                 "toutiaovod.com"
             ],
             "regex": [
                 "video/tos/cn"
-            ]
-        },
-        {
-            "name": "cl",
-            "hosts": [
-                "magnet"
-            ],
-            "regex": [
-                "最 新",
-                "直 播",
-                "更 新"
             ]
         }
     ]
