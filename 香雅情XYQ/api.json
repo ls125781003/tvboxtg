@@ -1395,7 +1395,7 @@
             "quickSearch": 1
         }
     ],
-    "parses": [
+   "parses": [
         {
             "name": "Web聚合",
             "type": 3,
@@ -1560,30 +1560,72 @@
             ]
         },
         {
-            "name": "非凡量子广告",
+            "name": "暴风",
             "hosts": [
-                "vip.ffzy",
-                "hd.ffzy",
-                "vip.lz",
-                "hd.lz",
-                ".cdnlz",
-                "bfzy"
+                "bfzy",
+                "bfbfvip"
             ],
             "regex": [
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
-                "#EXTINF.*?\\s+.*?11697777.*?\\.ts\\s+"
+                "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"
             ]
         },
         {
-            "name": "索尼广告",
+            "name": "量子",
+            "hosts": [
+                "vip.lz",
+                "hd.lz",
+                ".cdnlz"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "非凡",
+            "hosts": [
+                "vip.ffzy",
+                "hd.ffzy"
+            ],
+            "regex": [
+                "20.52",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+",
+                "#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "索尼",
             "hosts": [
                 "suonizy"
             ],
             "regex": [
-                "15",
-                "15.2666",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+",
                 "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "快看",
+            "hosts": [
+                "kuaikan"
+            ],
+            "regex": [
+                "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "海外看",
+            "hosts": [
+                "haiwaikan"
+            ],
+            "regex": [
+                "10.0099",
+                "10.3333",
+                "16.0599",
+                "8.1748",
+                "10.85"
             ]
         },
         {
@@ -1593,14 +1635,12 @@
             ],
             "regex": [
                 "更多",
-                "请访问",
-                "example",
                 "社 區",
                 "x u u",
                 "最 新",
-                "直 播",
                 "更 新",
                 "社 区",
+                "有趣",
                 "有 趣",
                 "英皇体育",
                 "全中文AV在线",
