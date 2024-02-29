@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "🧧饭祝大家新春快乐龙年大吉",
+            "name": "🌕公众号【神秘的哥哥们】",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
@@ -71,17 +71,6 @@
             "changeable": 1
         },
         {
-            "key": "率率",
-            "name": "🌸率率┃App",
-            "type": 3,
-            "api": "csp_AppLd",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjSZ1FapovNr0QF4QvEpcoxb5gWXdQJE2MXqLG6ykBcSsOR7TnDygTd5bXnCjGuLD/PknUhkn0yQ2NzCIxgZAkPAofMgEqVYlhBvnhU8N1VerP8K2NTNgP+NxESztO6"
-        },
-        {
             "key": "南瓜",
             "name": "🎃南瓜┃App",
             "type": 3,
@@ -119,6 +108,17 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.maolvys.com/"
+        },
+        {
+            "key": "率率",
+            "name": "🌸率率┃App",
+            "type": 3,
+            "api": "csp_AppLd",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjSZ1FapovNr0QF4QvEpcoxb5gWXdQJE2MXqLG6ykBcSsOR7TnDygTd5bXnCjGuLD/PknUhkn0yQ2NzCIxgZAkPAofMgEqVYlhBvnhU8N1VerP8K2NTNgP+NxESztO6"
         },
         {
             "key": "小柚",
@@ -360,7 +360,7 @@
             "name": "🐯虎牙┃直播",
             "type": 3,
             "api": "./api/drpy2.min.js",
-            "ext": "./js/huyazhibo.js",
+            "ext": "./js/huya2.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
