@@ -163,9 +163,27 @@
             "key": "二懒影视",
             "name": "🏍️┃二懒┃影视",
             "type": 3,
-            "api": "csp_Yingtantv2",
+            "api": "csp_Fangniu4k",
             "searchable": 1,
             "jar": "./jars/二懒影视.jar"
+        },
+        {
+            "key": "耐看",
+            "name": "🦁┃耐看┃影视",
+            "type": 3,
+            "api": "csp_Nkdy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "毛驴",
+            "name": "🦙┃毛驴┃影视",
+            "type": 3,
+            "api": "csp_MaoLv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "皮皮虾",
