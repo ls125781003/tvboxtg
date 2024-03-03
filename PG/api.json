@@ -763,7 +763,6 @@
 					"document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
 				]
 			},
-			
 		{"host":"www.iesdouyin.com","rule":["playwm/?video_id="]},
         {"host":"www.ysgc.vip","rule":["getm3u8?url=http"]},
         {"host":"v.douyin.com","rule":["playwm/?video_id="]},
