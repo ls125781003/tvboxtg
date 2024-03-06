@@ -109,7 +109,7 @@
 		{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.libvio.pro$$$null"},
 		{"key":"PanSearch","name":"PanSearch|网盘","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json"},
 		{"key":"88Pan","name":"88网盘|网盘","type":3,"api":"csp_EightEight","timeout":60, "ext":"./lib/tokenm.json$$$https://662688.xyz"},
-		{"key":"盘搜","name":"盘搜|网盘","type":3,"api":"csp_PanSou","timeout":60, "ext":"./lib/tokenm.json"},
+		{"key":"盘友圈","name":"盘友圈|网盘","type":3,"api":"csp_Panyq","timeout":60, "ext":"./lib/tokenm.json"},
 		{"key":"易搜","name":"易搜|网盘","type":3,"api":"csp_YiSo","timeout":60, "ext":"./lib/tokenm.json$$$./lib/yiso.txt"},
 		{"key":"混合盘","name":"混合盘|网盘","type":3,"api":"csp_HunHePan","timeout":60, "ext":"./lib/tokenm.json"},
 		{"key":"秒搜","name":"秒搜|网盘","type":3,"api":"csp_MiaoSou","timeout":60, "ext":"./lib/tokenm.json"},
