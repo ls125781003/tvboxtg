@@ -15,6 +15,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": 2,
+            "searchable": 0,
             "ext": {
                 "首页": "正在热映",
                 "图片代理": "",
@@ -117,6 +118,14 @@
             "ext": "https://m.emsdn.cn"
         },
         {
+            "key": "csp_Nkdy",
+            "name": "🏔耐看┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "csp_Nkdy",
+            "searchable": 0
+        },
+        {
             "key": "csp_Auete",
             "name": "🦝┃Aue┃影视",
             "type": 3,
@@ -160,27 +169,19 @@
             "playerType": "1"
         },
         {
-            "key": "二懒影视",
-            "name": "🏍️┃二懒┃影视",
+            "key": "毛驴",
+            "name": "🦙┃毛驴┃影视",
             "type": 3,
-            "api": "csp_Fangniu4k",
-            "searchable": 1,
-            "jar": "./jars/二懒影视.jar"
-        },
-        {
-            "key": "耐看",
-            "name": "🦁┃耐看┃影视",
-            "type": 3,
-            "api": "csp_Nkdy",
+            "api": "csp_MaoLv",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "毛驴",
-            "name": "🦙┃毛驴┃影视",
+            "key": "玖玖",
+            "name": "🌅┃玖玖┃影视",
             "type": 3,
-            "api": "csp_MaoLv",
+            "api": "csp_Cs1369",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -193,6 +194,13 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "JOJO",
+            "name": "🐺┃JOJO┃影视",
+            "type": 3,
+            "api": "./api/jiohub.js",
+            "playerType": 1
         },
         {
             "key": "saohuo",
@@ -231,7 +239,7 @@
             "name": "🐦┃视觉┃影视",
             "type": 3,
             "api": "csp_Xinsj",
-            "searchable": 1,
+            "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.80yy3.com/"
@@ -255,19 +263,6 @@
             "ext": {
                 "server": "https://4k.ysctv.cn/api.php/app/",
                 "mackey": "yingshichetvQ4Zi|PHRBxdt7PppocRJ5"
-            }
-        },
-        {
-            "key": "布蕾",
-            "name": "⚡┃布蕾┃影视",
-            "type": 3,
-            "api": "csp_Lvdou",
-            "playerType": 1,
-            "ext": {
-                "server": "http://38.12.25.109:158/api.php/app/",
-                "mackey": "weZtRbfJDgzyvHiG|YLdoqhUccdDmEPQU",
-                "parsekey": "mupfinBA986icmAZ|eV7YDmhgzThSiR1s",
-                "parseurl": "https://maya.x3322.net/api/index?parsesId=5&parsesUrl="
             }
         },
         {
@@ -363,14 +358,6 @@
             }
         },
         {
-            "key": "咕噜",
-            "name": "🦸┃咕噜┃影视",
-            "type": 3,
-            "api": "csp_Movie2",
-            "ext": "./json/Movie5.json",
-            "jar": "./jars/咕噜.jar"
-        },
-        {
             "key": "csp_SP360",
             "name": "📺┃360┃官源",
             "type": 3,
@@ -389,7 +376,8 @@
             "name": "🎭┃短剧┃视频",
             "type": 3,
             "api": "csp_Duanju",
-            "playerType": "2"
+            "playerType": "2",
+            "searchable": 0
         },
         {
             "key": "种子短剧",
@@ -415,6 +403,7 @@
             "type": 3,
             "playerType": "2",
             "api": "csp_BookTing",
+            "searchable": 0,
             "ext": "https://m.ting275.com",
             "style": {
                 "type": "rect",

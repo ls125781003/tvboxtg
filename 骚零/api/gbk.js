@@ -62,10 +62,4 @@ export function gbkTool() {
             });
         }
     };
-}[\w]{2}/g,function(a){
-                return decodeURIComponent(a);
-
-            });
-        }
-    };
 }

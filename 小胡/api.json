@@ -208,6 +208,11 @@
             "url": "http://119.91.123.253:2345/Api/yun.php?url="
         },
         {
+            "name": "嗅探0",
+            "type": 0,
+            "url": "http://101.132.136.85:233/?url="
+        },
+        {
             "name": "嗅探1",
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url="
