@@ -4,9 +4,8 @@ var rule = {
     homeUrl:'',
     searchUrl:'https://mobileso.bz.%6d%67%74%76.com/pc/search/v1?q=**&pn=fypage&pc=10',
     detailUrl:'https://pcweb.api.mgtv.com/episode/list?page=1&size=50&video_id=fyid',
-    searchable:2,
-    quickSearch:0,
-    filterable:1,
+    searchable:0,
+    changeable:0,
     multi:1,
     // 分类链接fypage参数支持1个()表达式
     // https://www.mgtv.com/lib/3?lastp=list_index&kind=a1&year=all&chargeInfo=a1&sort=c2
