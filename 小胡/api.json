@@ -30,9 +30,9 @@
             "key": "xh",
             "name": "🀄自营┃剧集",
             "type": 1,
-            "playerType": 2,
+            "playerType": 3,
             "api": "http://cc.xzam.cn/api.php/provide/vod/",
-            "playUrl": "http://pp.xzam.cn/player/?url=",
+            "playUrl": "",
             "style": {
                 "type": "list"
             }
@@ -207,14 +207,14 @@
     ],
     "parses": [
         {
-            "name": "聚合",
+            "name": "JSON",
             "type": 3,
             "url": "Demo"
         },
         {
-            "name": "并发",
-            "type": 2,
-            "url": "Parallel"
+            "name": "超嗅探",
+            "type": 3,
+            "url": "Web"
         },
         {
             "name": "解析1",
