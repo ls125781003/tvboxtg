@@ -51,26 +51,6 @@
             "ext": "./json/玩我哥哥.json"
         },
         {
-            "key": "开心HK影视",
-            "name": "🎦开心HK影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/开心HK影视.json"
-        },
-        {
-            "key": "开心影视",
-            "name": "🎦开心影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/开心影视.json"
-        },
-        {
             "key": "玩偶哥哥",
             "name": "🎦玩偶|哥哥",
             "type": 3,
@@ -331,26 +311,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/qiyou.json"
-        },
-        {
-            "key": "酷茶影视",
-            "name": "🎦酷茶┃秒播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/kucha.json"
-        },
-        {
-            "key": "光棍影视",
-            "name": "🎦光棍┃秒播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/guangun.json"
         },
         {
             "key": "csp_好戏",
