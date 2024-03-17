@@ -61,6 +61,16 @@
             "ext": "./json/运输阿里.json"
         },
         {
+            "key": "csp_xBPQ_白嫖",
+            "name": "🅱️白嫖影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/白嫖影视.json"
+        },
+        {
             "key": "csp_厂长",
             "name": "🅱️厂长影视|T追剧",
             "type": 3,

@@ -13,24 +13,9 @@
             "key": "豆瓣",
             "name": "🐼┃豆瓣┃预告",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_YGP",
             "playerType": 2,
-            "searchable": 0,
-            "ext": {
-                "首页": "正在热映",
-                "图片代理": "",
-                "分类url": "https://movie.douban.com/{cateId}/;;aRC",
-                "分类": "即将上映$cinema/later#正在热映$cinema/nowplaying",
-                "数组": "class=\"item mod &&</ul>||正在热映--class=\"list-item&&</ul>",
-                "图片": "src=\"&&\"",
-                "标题": "\"intro\">&&</a>",
-                "链接": "href=\"&&\"",
-                "副标题": "data-score=\"&&\"+class=\"release-date\">&&</li>",
-                "播放数组": "<li class=\"video&&</li>",
-                "播放列表": "<a&&</a>",
-                "播放标题": "alt=\"&&\"",
-                "播放链接": "https://m.douban.com+href=\"&&\""
-            }
+            "searchable": 0
         },
         {
             "key": "nangua",
@@ -39,6 +24,24 @@
             "playerType": "2",
             "api": "./api/drpy2.min.js",
             "ext": "./js/南瓜.js"
+        },
+        {
+            "key": "新视觉",
+            "name": "🐦┃视觉┃影视",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.80yy3.com/"
+        },
+        {
+            "key": "csp_Nkdy",
+            "name": "🏔┃耐看┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "csp_Nkdy",
+            "searchable": 0
         },
         {
             "key": "csp_Panda_玩偶哥哥",
@@ -115,15 +118,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://m.emsdn.cn"
-        },
-        {
-            "key": "csp_Nkdy",
-            "name": "🏔┃耐看┃影视",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_Nkdy",
-            "searchable": 0
+            "ext": "https://v.nmvod.cn"
         },
         {
             "key": "csp_Auete",
@@ -181,7 +176,7 @@
             "key": "兄弟",
             "name": "👯┃兄弟┃影视",
             "type": 3,
-            "api": "csp_BaiPiao",
+            "api": "csp_Xdys",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -194,22 +189,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "皮皮虾",
-            "name": "🦐┃皮皮┃影视",
-            "type": 3,
-            "api": "csp_PipiXia",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "JOJO",
-            "name": "🐺┃JOJO┃影视",
-            "type": 3,
-            "api": "./api/jiohub.js",
-            "playerType": 1
         },
         {
             "key": "saohuo",
@@ -231,9 +210,8 @@
             "key": "圣城影视",
             "name": "🏰┃圣城┃影视",
             "type": 3,
-            "playerType": "2",
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/SC1080.js"
+            "playerType": "1",
+            "api": "csp_SC1080"
         },
         {
             "key": "云播影视",
@@ -242,16 +220,6 @@
             "playerType": "2",
             "api": "./api/drpy2.min.js",
             "ext": "./js/TVB云播.js"
-        },
-        {
-            "key": "新视觉",
-            "name": "🐦┃视觉┃影视",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.80yy3.com/"
         },
         {
             "key": "csp_Xb6v",
