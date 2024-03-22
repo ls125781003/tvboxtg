@@ -19,23 +19,12 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🍓 新公众号：小胡不胡",
+            "name": "🍓 公众号：小胡不胡",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/豆瓣.js",
             "searchable": 0,
             "changeable": 0
-        },
-        {
-            "key": "xh",
-            "name": "🀄自营┃剧集",
-            "type": 1,
-            "playerType": 3,
-            "api": "http://cc.xzam.cn/api.php/provide/vod/",
-            "playUrl": "",
-            "style": {
-                "type": "list"
-            }
         },
         {
             "key": "蚂蚁",
@@ -53,16 +42,16 @@
             "jar": "./jars/bp.jar",
             "api": "csp_XBPQ",
             "ext": {
-                "主页url": "http://www.baipiaoys.cc/",
+                "主页url": "http://www.baipiaoys.com",
                 "副标题": "pic-text text-right\">&&</b>",
                 "搜索模式": "1",
-                "搜索url": "https://www.baipiaoys.cc/search.html?wd={wd}",
+                "搜索url": "https://www.baipiaoys.com/search.html?wd={wd}",
                 "图片": "data-original=\"&&\"",
                 "嗅探词": ".mp4#m3u8#.m3u8",
                 "线路标题": "公众号:小胡不胡",
                 "线路数组": "公众号:小胡不胡",
                 "分类": "电影$1#电视剧$2#动漫$3",
-                "分类url": "http://www.baipiaoys.cc/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
+                "分类url": "http://www.baipiaoys.com/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
             }
         },
         {
@@ -220,6 +209,11 @@
             "name": "解析1",
             "type": 1,
             "url": "http://119.91.123.253:2345/Api/yun.php?url="
+        },
+        {
+            "name": "蚂蚁1",
+            "type": 1,
+            "url": "http://121.62.61.51:6888/api/?key=Nl8dvvH05GrxDt5hYR&url="
         },
         {
             "name": "蚂蚁",
