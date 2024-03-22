@@ -43,10 +43,20 @@
             "changeable": 1
         },
         {
-            "key": "酷看",
+            "key": "csp_Kkys",
             "name": "💡酷看",
             "type": 3,
             "api": "csp_Kkys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_LiteApple",
+            "name": "🍎小苹果",
+            "type": 3,
+            "api": "csp_LiteApple",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -820,26 +830,26 @@
             ]
         },
         {
-            "name": "hwk",
+            "name": "kk",
             "hosts": [
-                "haiwaikan"
+                "kuaikan"
             ],
             "regex": [
-                "10.0099",
-                "10.3333",
-                "16.0599",
-                "8.1748",
-                "10.85"
+                "5",
+                "20.123",
+                "20.167",
+                "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
             "name": "yqk",
             "hosts": [
-                "yqk88"
+                "yqk"
             ],
             "regex": [
                 "18.4",
-                "15.1666"
+                "15.1666",
+                "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"
             ]
         },
         {
@@ -866,7 +876,8 @@
             "hosts": [
                 "vip.lz",
                 "v.cdnlz",
-                "hd.lz"
+                "hd.lz",
+                "yzzy1.play"
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",

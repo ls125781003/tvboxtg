@@ -44,6 +44,13 @@
             "searchable": 0
         },
         {
+            "key": "csp_LiteApple",
+            "name": "🍎┃苹果┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "csp_LiteApple"
+        },
+        {
             "key": "csp_Panda_玩偶哥哥",
             "name": "👲┃玩偶┃影视",
             "api": "csp_Wogg",
