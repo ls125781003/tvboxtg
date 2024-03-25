@@ -42,15 +42,6 @@
             "changeable": 1
         },
         {
-            "key": "短剧",
-            "name": "短剧",
-            "type": 3,
-            "api": "csp_Duanju",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "原创",
             "name": "原创",
             "type": 3,
@@ -138,7 +129,8 @@
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": "https://www.baipiaoys.com/"
         },
         {
             "key": "csp_Bttoo",
