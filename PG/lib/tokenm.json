@@ -1,5 +1,5 @@
 {
-"use_internal_storage":true,
+"use_internal_storage":false,
 "token":"",
 "open_token":"",
 "open_api_url":"get|https://adrive.xdow.net/oauth/access_token",
@@ -12,7 +12,7 @@
 "vip_thread_limit":10,
 "vod_flags":"4k|4kz|qhd|fhd|hd|sd|ld|auto",
 "quark_thread_limit":10,
-"quark_is_vip":false,
+"quark_is_vip":true,
 "quark_vip_thread_limit":10,
 "quark_flags":"4kz|4k|2k|super|high|low|normal|auto",
 "uc_thread_limit":0,
