@@ -42,7 +42,7 @@
             "jar": "./jars/bp.jar",
             "api": "csp_XBPQ",
             "ext": {
-                "主页url": "http://www.baipiaoys.com",
+                "主页url": "https://www.baipiaoys.com:9092/",
                 "副标题": "pic-text text-right\">&&</b>",
                 "搜索模式": "1",
                 "搜索url": "https://www.baipiaoys.com/search.html?wd={wd}",
@@ -51,7 +51,7 @@
                 "线路标题": "公众号:小胡不胡",
                 "线路数组": "公众号:小胡不胡",
                 "分类": "电影$1#电视剧$2#动漫$3",
-                "分类url": "http://www.baipiaoys.com/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
+                "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
             }
         },
         {
@@ -188,8 +188,8 @@
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/爱奇艺.js",
-            "searchable": 0,
-            "changeable": 0
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "yk",
@@ -197,8 +197,8 @@
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/优酷.js",
-            "searchable": 0,
-            "changeable": 0
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "mg",
@@ -206,8 +206,8 @@
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/芒果.js",
-            "searchable": 0,
-            "changeable": 0
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "tx",
@@ -215,8 +215,8 @@
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/腾讯.js",
-            "searchable": 0,
-            "changeable": 0
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "zb",
@@ -253,6 +253,11 @@
             "url": "http://119.91.123.253:2345/Api/yun.php?url="
         },
         {
+            "name": "ik",
+            "type": 1,
+            "url": "https://cache.json.icu/5555.php?url="
+        },
+        {
             "name": "蚂蚁",
             "type": 0,
             "url": "http://103.233.255.142:1133/?url=",
@@ -271,7 +276,7 @@
             "url": "https://110.42.2.247:9090/muiplayer/?url="
         },
         {
-            "name": "ik嗅探",
+            "name": "xy嗅探",
             "type": 0,
             "url": "http://101.132.136.85:233/?url="
         },

@@ -13,7 +13,7 @@
     "sites": [
         {
             "key": "js_豆瓣热播",
-            "name": "🏮荷城茶秀:祝您新年快乐!龙年大吉!🏮",
+            "name": "微信公众号：日后魔改",
             "type": 3,
             "api": "./api/Api.js",
             "searchable": 0,
@@ -49,16 +49,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "./json/玩我哥哥.json"
-        },
-        {
-            "key": "yscal",
-            "name": "🅱️运输阿里|T追剧",
-            "type": 3,
-            "api": "csp_XYQHikerAL",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "./json/运输阿里.json"
         },
         {
             "key": "csp_xBPQ_白嫖",
@@ -190,6 +180,15 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
+        },
+        {
+            "key": "push_agent",
+            "name": "🅱️辅助推送|T功能",
+            "type": 3,
+            "api": "csp_PushAgent",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
         },
         {
             "key": "Gitcafe",

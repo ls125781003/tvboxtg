@@ -4,7 +4,7 @@
     
     "站名":"白嫖影视",
     
-    "主页url":"http://www.baipiaoys.cc/",
+    "主页url":"https://www.baipiaoys.com:9092/",
     
     "简介":"【荷城茶秀】提醒您请勿相信影片中的广告，以免上当受骗！+col-pd\">&&</p>",
     
@@ -12,6 +12,6 @@
     
     "线路标题":"🌸荷城茶秀接口🌸+>&&",
     
-    "分类url":"http://www.baipiaoys.cc/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ax",
+    "分类url":"https://www.baipiaoys.com:9092/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ax",
     
     "分类":"电影$1#电视剧$2#动漫$3"}
