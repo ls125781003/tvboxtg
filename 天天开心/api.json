@@ -51,16 +51,6 @@
             "ext": "./json/玩我哥哥.json"
         },
         {
-            "key": "csp_xBPQ_白嫖",
-            "name": "🎦白嫖影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/白嫖影视.json"
-        },
-        {
             "key": "玩偶哥哥",
             "name": "🎦玩偶|哥哥",
             "type": 3,
@@ -71,14 +61,24 @@
             "ext": "./json/玩偶哥哥.json"
         },
         {
-            "key": "玩偶运输车",
-            "name": "🎦玩偶运输车",
+            "key": "土豆阿里",
+            "name": "🎦土豆阿里",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/玩偶运输车.json"
+            "ext": "./json/土豆阿里.json"
+        },
+        {
+            "key": "多多阿里",
+            "name": "🎦多多阿里",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/多多阿里.json"
         },
         {
             "key": "荐片",
@@ -936,34 +936,14 @@
             "filterable": 1
         },
         {
-            "key": "Gitcafe",
-            "name": "📀小纸条(搜索)",
+            "key": "csp_XYQHiker_影搜",
+            "name": "📀影搜(搜索)",
             "type": 3,
-            "api": "csp_Gitcafe",
+            "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto"
-        },
-        {
-            "key": "csp_Zhaozy",
-            "name": "📀找资源(搜索)",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "{\"username\":\"fanty\",\"password\":\"qqq111\",\"searchurl\":\"http://zhaoziyuan.pw/so?filename={wd}\"}"
-        },
-        {
-            "key": "csp_Yisou",
-            "name": "📀易搜(搜索)",
-            "type": 3,
-            "api": "csp_Yisou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto"
+            "ext": "./json/影搜.json"
         },
         {
             "key": "csp_Upyunso",
