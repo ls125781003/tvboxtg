@@ -28,7 +28,7 @@
             "api": "csp_AliYunPan",
             "searchable": 0,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto"
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt+4k|fhd|auto"
         },
         {
             "key": "wogg",
@@ -198,7 +198,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto"
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt+4k|fhd|auto"
         },
         {
             "key": "csp_AliPS",
@@ -208,7 +208,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto"
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt+4k|fhd|auto"
         },
         {
             "key": "csp_Yisou",
@@ -218,7 +218,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto"
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt+4k|fhd|auto"
         },
         {
             "key": "csp_Upyunso",
@@ -228,7 +228,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto"
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt+4k|fhd|auto"
         },
         {
             "key": "cctv",
