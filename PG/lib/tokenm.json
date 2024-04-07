@@ -54,5 +54,6 @@
 "wgcf_vless_optname":"cdn-all.xn--b6gac.eu.org",
 "wgcf_vless_worker":"",
 "wgcf_vless_path":"/?ed=2048",
-"wgcf_vless_protocol":"vless"
+"wgcf_vless_protocol":"vless",
+"wgcf_vless_tls":false
 }
