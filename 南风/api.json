@@ -125,6 +125,17 @@
             "ext": "https://www.maolvys.com/"
         },
         {
+            "key": "csp_Zxzj",
+            "name": "🏚️在线",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.zxzja.com/"
+        },
+        {
             "key": "csp_Xinsj",
             "name": "✨新视觉",
             "type": 3,
@@ -286,7 +297,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt---4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
         },
         {
             "key": "UpYun",
@@ -304,17 +315,6 @@
             "name": "🙀盘搜索",
             "type": 3,
             "api": "csp_PanSearch",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt---4k|auto|fhd"
-        },
-        {
-            "key": "Dovx",
-            "name": "😾七夜",
-            "type": 3,
-            "api": "csp_Dovx",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
