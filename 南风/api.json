@@ -125,17 +125,6 @@
             "ext": "https://www.maolvys.com/"
         },
         {
-            "key": "csp_Zxzj",
-            "name": "🏚️在线",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.zxzja.com/"
-        },
-        {
             "key": "csp_Xinsj",
             "name": "✨新视觉",
             "type": 3,
@@ -144,6 +133,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.80yy3.com/"
+        },
+        {
+            "key": "csp_Zxzj",
+            "name": "🏚️在线",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.zxzja.com/"
         },
         {
             "key": "csp_Bttwoo",
@@ -273,53 +272,66 @@
             "api": "csp_WoGG",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt---4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+            "ext": {
+                "aliToken": "XYQTVBox/token.txt",
+                "quarkCookie": "XYQTVBox/cookie.txt",
+                "from": "4k|auto|fhd",
+                "siteUrl": "https://api.wogg.xyz/",
+                "danMu": "弹"
+            }
         },
         {
-            "key": "YiSo",
+            "key": "csp_YiSo",
             "name": "🆎易搜",
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt---4k|auto|fhd"
+            "ext": {
+                "aliToken": "XYQTVBox/token.txt",
+                "from": "4k|auto|fhd"
+            }
         },
         {
-            "key": "PanSou",
+            "key": "csp_PanSou",
             "name": "📀盘搜",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
+            "ext": {
+                "aliToken": "XYQTVBox/token.txt",
+                "from": "4k|auto|fhd"
+            }
         },
         {
-            "key": "UpYun",
-            "name": "☁️UP云搜",
+            "key": "csp_UpYun",
+            "name": "☁️Up云搜",
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt---4k|auto|fhd"
+            "ext": {
+                "aliToken": "XYQTVBox/token.txt",
+                "from": "4k|auto|fhd"
+            }
         },
         {
-            "key": "PanSearch",
+            "key": "csp_PanSearch",
             "name": "🙀盘搜索",
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt---4k|auto|fhd"
+            "ext": {
+                "aliToken": "XYQTVBox/token.txt",
+                "from": "4k|auto|fhd"
+            }
         },
         {
             "key": "csp_QuarkPanso",
@@ -329,7 +341,10 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt---4k|auto|fhd"
+            "ext": {
+                "quarkCookie": "XYQTVBox/cookie.txt",
+                "from": "4k|auto|fhd"
+            }
         },
         {
             "key": "push_agent",
@@ -338,23 +353,17 @@
             "api": "csp_Push",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt---4k|auto|fhd"
+            "ext": {
+                "aliToken": "XYQTVBox/token.txt",
+                "quarkCookie": "XYQTVBox/cookie.txt",
+                "from": "4k|auto|fhd"
+            }
         },
         {
             "key": "csp_Nbys",
             "name": "👑泥巴(墙外)",
             "type": 3,
             "api": "csp_NiNi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_trj",
-            "name": "🛫唐人街(墙外)",
-            "type": 3,
-            "api": "csp_Tangrenjie",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
