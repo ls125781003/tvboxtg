@@ -808,21 +808,21 @@
     ],
     "lives": [
         {
-            "name": "多线ITV",
+            "name": "ITV",
             "type": 0,
-            "url": "./lives/多线ITV.txt",
+            "url": "./lives/ITV.txt",
             "epg": ""
         },
         {
-            "name": "高速V6",
+            "name": "IPV6",
             "type": 0,
-            "url": "./lives/高速V6.txt",
+            "url": "./lives/IPV6.txt",
             "epg": ""
         },
         {
-            "name": "嗅探",
+            "name": "XIUTAN",
             "type": 0,
-            "url": "./lives/嗅探.txt",
+            "url": "./lives/XIUTAN.txt",
             "epg": ""
         }
     ]
