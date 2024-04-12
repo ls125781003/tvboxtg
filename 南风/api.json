@@ -19,7 +19,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.czzy77.com/"
+            "ext": "https://www.czys01.com/"
         },
         {
             "key": "csp_AppTT",
@@ -274,7 +274,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "XYQTVBox/token.txt",
+                "aliToken": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
                 "quarkCookie": "XYQTVBox/cookie.txt",
                 "from": "4k|auto|fhd",
                 "siteUrl": "https://api.wogg.xyz/",
@@ -290,7 +290,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "XYQTVBox/token.txt",
+                "aliToken": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
                 "from": "4k|auto|fhd"
             }
         },
@@ -303,7 +303,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "XYQTVBox/token.txt",
+                "aliToken": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
                 "from": "4k|auto|fhd"
             }
         },
@@ -316,7 +316,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "XYQTVBox/token.txt",
+                "aliToken": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
                 "from": "4k|auto|fhd"
             }
         },
@@ -329,7 +329,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "XYQTVBox/token.txt",
+                "aliToken": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
                 "from": "4k|auto|fhd"
             }
         },
@@ -354,7 +354,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "ext": {
-                "aliToken": "XYQTVBox/token.txt",
+                "aliToken": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
                 "quarkCookie": "XYQTVBox/cookie.txt",
                 "from": "4k|auto|fhd"
             }
@@ -367,16 +367,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "农民",
-            "name": "🥝农民",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/农民影视.json"
         },
         {
             "key": "骚火",
