@@ -12,7 +12,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "关注公众号“天天开心2024”",
+            "name": "关注公众号“天天开心2024”QQ群642801802",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 0,
@@ -59,6 +59,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/白嫖影视.json"
+        },
+        {
+            "key": "csp_xBPQ可可",
+            "name": "🎦可可影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/可可影视.json"
         },
         {
             "key": "玩偶哥哥",
