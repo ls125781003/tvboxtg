@@ -19,7 +19,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.czys01.com/"
+            "ext": "https://www.czys03.com/"
         },
         {
             "key": "csp_AppTT",
@@ -808,15 +808,6 @@
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            ]
-        },
-        {
-            "name": "农民",
-            "hosts": [
-                "toutiaovod.com"
-            ],
-            "regex": [
-                "video/tos/cn"
             ]
         },
         {
