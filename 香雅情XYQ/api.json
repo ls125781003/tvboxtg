@@ -3,28 +3,26 @@
     "spider": "./spider.jar",
     "lives": [
         {
-            "name": "Yoursmile7",
-            "type": 0,
-            "url": "./lives/Yoursmile7.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "JUNDIE",
-            "type": 0,
-            "url": "./lives/JUNDIE.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "fanmingming",
-            "type": 0,
-            "url": "./lives/fanmingming.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "FMM_IPV6",
-            "type": 0,
-            "url": "./lives/FMM_IPV6.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
+          "name": "Yoursmile7",
+          "type":"0",
+          "pass": true,
+          "url": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/live.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "JUNDIE",
+          "type":"0",
+          "pass": true,
+          "url":"http://home.jundie.top:81/ray/tvlive.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "fanmingming(ipv6)",
+          "type":"0",
+          "pass": true,
+          "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
     "sites": [
