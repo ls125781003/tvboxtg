@@ -37,6 +37,15 @@
             "changeable": 0
         },
         {
+            "key": "短剧",
+            "name": "🌈上头┃短剧",
+            "type": 3,
+            "api": "csp_Djuu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "酷看",
             "name": "💡酷看┃秒播",
             "type": 3,
@@ -788,7 +797,7 @@
             ]
         }
     ],
-    "lives":[
+     "lives":[
 {"name":"XIUTAN","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","type":0,"url":"https://xhdwc.tk/xiutan.m3u"},
 {"name":"IPV6","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1}]
 }
