@@ -29,7 +29,7 @@
         },
         {
             "key": "YGP",
-            "name": "🚀叨观荐影┃新片",
+            "name": "🚀叨观荐影┃新 片",
             "type": 3,
             "api": "csp_YGP",
             "searchable": 0,
@@ -100,13 +100,13 @@
             "key": "厂长",
             "name": "📔厂长┃无广",
             "type": 3,
-            "api": "csp_Czsapp",
+            "api": "csp_NewCz",
             "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.cz233.com/"
+            "ext": "https://www.czys.top/"
         },
         {
             "key": "七七",
@@ -130,6 +130,17 @@
             "changeable": 1
         },
         {
+            "key": "糯米",
+            "name": "🍙糯米┃秒播",
+            "type": 3,
+            "api": "csp_Nmys",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "./json/nmys.json"
+        },
+        {
             "key": "低端",
             "name": "⏮️低端┃外剧",
             "type": 3,
@@ -138,17 +149,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "农民",
-            "name": "🌾农民┃秒播",
-            "type": 3,
-            "api": "csp_Nmys",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "./json/nmys.json"
         },
         {
             "key": "毛驴",
@@ -221,7 +221,7 @@
             "changeable": 1,
             "playerType": "1",
             "api": "./api/drpy2.min.js",
-            "ext": "./js/荐片.js"
+            "ext": "./js/jp.js"
         },
         {
             "key": "新6V",
@@ -797,7 +797,7 @@
             ]
         }
     ],
-     "lives":[
+    "lives":[
 {"name":"XIUTAN","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","type":0,"url":"https://xhdwc.tk/xiutan.m3u"},
 {"name":"IPV6","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1}]
 }
