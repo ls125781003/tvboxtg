@@ -111,7 +111,7 @@
 		{"key":"Wogg备用4","name":"玩偶哥哥|阿里备用4","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://tvfan.xxooo.cf/$$$null$$$1$$$./lib/wogg.json"},
 		{"key":"Wogg备用5","name":"玩偶哥哥|阿里备用5","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://wogg.888484.xyz/$$$null$$$1$$$./lib/wogg.json"},
 		
-		{"key":"Wo4k","name":"玩偶4K|磁力","type":3,"api":"csp_Wo4k","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.wo4k.com/$$$proxy$$$1$$$./lib/wogg.json"},
+		{"key":"Wo4k","name":"玩偶4K|磁力","type":3,"api":"csp_Wo4k","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.wo4k.net/$$$proxy$$$1$$$./lib/wogg.json"},
 		{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json"},
 		{"key":"yydsys","name":"玩你老哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"},
 		{"key":"Gaoqing","name":"中国高清网|网盘","type":3,"api":"csp_Gaoqing","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1"},
@@ -131,7 +131,7 @@
 			"searchable":0,
 			"quickSearch": 1,
 			"searchable": 1,
-			"ext": "https://www.bdys10.com/$$$null$$$1"
+			"ext": "https://www.yjys.me/$$$null$$$1"
 		},
 		{"key":"YunPan","name":"云盘资源|网盘","type":3,"api":"csp_YunPan","timeout":60, "ext":"./lib/tokenm.json$$$null$$$proxy$$$1"},
 		{"key":"YingSo","name":"影搜|网盘搜索","type":3,"api":"csp_YingSo","timeout":60, "ext":"./lib/tokenm.json"},
@@ -234,7 +234,6 @@
 			"ext": {
 				"地区":"[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]",
 				"分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
-				"强制嗅探词": "/csbp/e.php",
 				"分类url": "https://www.baipiaoys.com:9092/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
 				"页面代理": "proxy"
 			}
@@ -298,27 +297,6 @@
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
 		},
 		{
-			"key":"高清网",
-			"name":"📹高清网|4K磁力|XBPQ",
-			"type":3,
-			"api":"csp_XBPQ",
-			"jar": "./lib/XBPQ.jar",
-			"ext":{
-				"搜索链接":"https://gaoqing.la/?s={wd}",
-				"简介":"◎简*介</p>&&</p>",
-				"影片年代":"◎上映 日期&&<br>",
-				"影片地区":"◎产*地&&<br>",
-				"图片是否需要代理": "1",
-				"线路数组":"entry-content u-text-format u-clearfix&&\"content-template",
-				"线路标题":"磁力",
-				"播放数组":"entry-content u-text-format u-clearfix&&\"content-template",
-				"播放列表":"<p>&&</p>[包含:magnet]",
-				"播放链接":"</a>&&</a>",
-				"分类":"必看推荐$recommend#4K最高清$4k#BluRay蓝光原盘$bluray#1080p超清$1080P#720p高清$720p#WEB-DL标清$webdl",
-				"分类链接":"https://gaoqing.la/{cateId}/page/{catePg}[https://gaoqing.la/{cateId}]"
-			}
-		},
-		{
 			"key": "小白",
 			"name": "🧲 4小白磁力🧲 |XBPQ",
 			"type": 3,
@@ -347,7 +325,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext": "./ok/BT天堂.json",
+			"ext": "./lib/bttt.json",
 			"jar": "./lib/XBPQ.jar"
 		},
 		{"key":"布谷tv",
@@ -366,7 +344,9 @@
 				"播放数组": "entry-content u-text-format u-clearfix&&content-template[不包含:网盘]",
 				"播放列表":"<p>&&</p>[包含:magnet]",
 				"分类":"4KUHD电影$4kuhd#4K电影$4kmovie#4K剧集$4ktv#杜比视界$dolbyvision#4K纪录片$4kdocu#4K演示片$4kdemo/4ktv-4ktv#杜比演示片$4kdemo/dolbydomo#DTS演示片$4kdemo/dtsdomo#8K演示片$4kdemo/8kdemo#蓝光电影$bluraymovie/bluray-movie#蓝光剧集$bluraymovie/bluraytv#3D蓝光$bluraymovie/3dmovie#蓝光纪录片$bluraymovie/documentary#蓝光演唱会$bluraymovie/audiotest",
-				"分类链接":"https://www.bugutv.org/{cateId}/page/{catePg}"
+				"分类链接":"https://www.bugutv.org/{cateId}/page/{catePg}",
+				"搜索链接": "https://www.bugutv.org/?cat=&s={wd}",
+				"搜索数组": "class=\"entry-media\">&&</div"
 			}
 		},
 		{
