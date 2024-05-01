@@ -151,16 +151,6 @@
             "filterable": 1,
             "ext": "./json/玩偶哥哥备用.json"
         },
-        {   
-            "key": "csp_XYQHikerAL_玩偶妹妹",
-            "name":"📀玩偶妹妹(优)",
-            "type":3,
-            "api":"csp_XYQHikerAL",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./json/玩偶妹妹.json"
-        },
         {
             "key": "csp_XYQHikerAL_云盘资源",
             "name": "📀云盘资源(搜索)",
