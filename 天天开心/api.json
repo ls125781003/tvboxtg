@@ -251,16 +251,6 @@
             "ext": "https://www.libvio.pw/"
         },
         {
-            "key": "csp_红狐狸影视",
-            "name": "🎦红狐狸影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-            }
-        },
-        {
             "key": "csp_xBPQ可可",
             "name": "🎦可可影视",
             "type": 3,
@@ -595,7 +585,7 @@
             "key": "lzi",
             "name": "🎦量子资源",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,

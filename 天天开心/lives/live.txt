@@ -1,12 +1,14 @@
+//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
+//
 永久免费💝公告,#genre#
-💝天天💝请勿购买,http://live.dxms.top:80/dwy/mgak.php#https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8#http://1.62.64.76/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tlive-test-cdn.ysp.cctv.cn/ysp/2022576803.m3u8#https://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8?aliyun_uuid=b3b8e538-3470-4fa0-b6ed-2b138e5f5fef&auth_key=2145888000-0-0-fda7ddb73d3cb5ac5bddf4eeba9b665e#http://110.249.196.71/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
-💝开心💝谨防受骗,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8#https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-💝2024💝如果付款,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-💝告💝申请退款,http://diyp.112114.xyz/douyu/8770422
-👉👉把家里路由器,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-👉👉换成支持ipv6,http://113.98.122.166:9901/tsfile/live/1006_1.m3u8?key=txiptv
-👉👉支持所有线路,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-👉👉更换享受超清,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+💝关注💝请勿购买,http://live.dxms.top:80/dwy/mgak.php#https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8#http://1.62.64.76/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tlive-test-cdn.ysp.cctv.cn/ysp/2022576803.m3u8#https://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8?aliyun_uuid=b3b8e538-3470-4fa0-b6ed-2b138e5f5fef&auth_key=2145888000-0-0-fda7ddb73d3cb5ac5bddf4eeba9b665e#http://110.249.196.71/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
+💝天天💝谨防受骗,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8#https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+💝开心💝如果付款,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+💝2024💝申请退款,http://diyp.112114.xyz/douyu/8770422
+👉公众号👉把家里路由器,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+👉测试👉换成支持ipv6,http://113.98.122.166:9901/tsfile/live/1006_1.m3u8?key=txiptv
+👉接口👉支持所有线路,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+👉软件👉更换享受超清,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 
 💝中国港澳👉天天,#genre#
 
@@ -149,6 +151,60 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 💝央视频道👉开心,#genre#
 人民铁道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
 郑铁有线,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
+CCTV1,http://rihou.cc:55/lib/migu.php?id=cctv1 
+CCTV2,http://rihou.cc:55/lib/migu.php?id=cctv2 
+CCTV3,http://rihou.cc:55/lib/migu.php?id=cctv3 
+CCTV4,http://rihou.cc:55/lib/migu.php?id=cctv4 
+CCTV4,http://rihou.cc:55/lib/migu.php?id=cctv4a 
+ CCTV4,http://rihou.cc:55/lib/migu.php?id=cctv4o 
+CCTV5,http://rihou.cc:55/lib/migu.php?id=cctv5
+CCTV5+,http://rihou.cc:55/lib/migu.php?id=cctv5p
+CCTV6,http://rihou.cc:55/lib/migu.php?id=cctv6 
+CCTV7,http://rihou.cc:55/lib/migu.php?id=cctv7 
+CCTV8,http://rihou.cc:55/lib/migu.php?id=cctv8 
+CCTV9,http://rihou.cc:55/lib/migu.php?id=cctv9 
+CCTV10,http://rihou.cc:55/lib/migu.php?id=cctv10
+CCTV11,http://rihou.cc:55/lib/migu.php?id=cctv11 
+CCTV12,http://rihou.cc:55/lib/migu.php?id=cctv12 
+CCTV13,http://rihou.cc:55/lib/migu.php?id=cctv13 
+CCTV14,http://rihou.cc:55/lib/migu.php?id=cctv14 
+CCTV15,http://rihou.cc:55/lib/migu.php?id=cctv15 
+CCTV17,http://rihou.cc:55/lib/migu.php?id=cctv17 
+
+CCTV发现之旅,http://rihou.cc:55/lib/migu.php?id=fxzl
+CCTV老故事,http://rihou.cc:55/lib/migu.php?id=lgs 
+CCTV中学生,http://rihou.cc:55/lib/migu.php?id=zxs 
+
+CGTN,http://rihou.cc:55/lib/migu.php?id=cgtn 
+CGTN纪录,http://rihou.cc:55/lib/migu.php?id=cgtnjl 
+CCTV西班牙语,http://rihou.cc:55/lib/migu.php?id=cgtne 
+CCTV法语,http://rihou.cc:55/lib/migu.php?id=cgtnf
+CCTV阿拉伯语,http://rihou.cc:55/lib/migu.php?id=cgtna
+CCTV俄语,http://rihou.cc:55/lib/migu.php?id=cgtnr
+
+
+
+
+CCTV1,http://222.174.140.242:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV2,http://222.174.140.242:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV3,http://222.174.140.242:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV4,http://222.174.140.242:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV5,http://222.174.140.242:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV5+,http://222.174.140.242:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV6,http://222.174.140.242:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV7,http://222.174.140.242:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV8,http://222.174.140.242:9901/tsfile/live/0008_2.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV9,http://222.174.140.242:9901/tsfile/live/0009_2.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV10,http://222.174.140.242:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV11,http://222.174.140.242:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV12,http://222.174.140.242:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV13,http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
+CCTV14,http://222.174.140.242:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV15,http://222.174.140.242:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+
+CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
+CCTV2,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV1,http://114.249.18.134:4022/rtp/239.3.1.129:8008
 CCTV2,http://114.249.18.134:4022/rtp/239.3.1.60:8084
 CCTV3,http://114.249.18.134:4022/rtp/239.3.1.172:8001
@@ -337,7 +393,6 @@ CCTV14,http://iptv123.msns.cn:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1
 CCTV15,http://iptv123.msns.cn:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://iptv123.msns.cn:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://iptv123.msns.cn:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-卫视秒开,#genre#
 💝央视频道👉联通,#genre#
 CCTV1HD,http://mtw.so/6heoTA
 CCTV2HD,http://mtw.so/6oKBGx
@@ -1127,6 +1182,126 @@ Unknown@239.253.43.122:5146,http://ddns.cyruslee.top:8888/udp/239.253.43.122:514
 （信号传输故障）,http://ddns.cyruslee.top:8888/udp/239.77.1.155:5146
 （信号传输故障）高清,http://ddns.cyruslee.top:8888/udp/239.77.1.110:5146
 💝卫视频道👉全网,#genre#
+东方卫视,http://rihou.cc:55/lib/migu.php?id=dfws 
+重庆卫视,http://rihou.cc:55/lib/migu.php?id=cqws 
+吉林卫视,http://rihou.cc:55/lib/migu.php?id=jlws 
+辽宁卫视,http://rihou.cc:55/lib/migu.php?id=lnws 
+内蒙古卫视,http://rihou.cc:55/lib/migu.php?id=nmws 
+宁夏卫视,http://rihou.cc:55/lib/migu.php?id=nxws 
+甘肃卫视,http://rihou.cc:55/lib/migu.php?id=gsws 
+青海卫视,http://rihou.cc:55/lib/migu.php?id=qhws 
+陕西卫视,http://rihou.cc:55/lib/migu.php?id=sxws 
+山东卫视,http://rihou.cc:55/lib/migu.php?id=sdws 
+河南卫视,http://rihou.cc:55/lib/migu.php?id=hnws 
+湖北卫视,http://rihou.cc:55/lib/migu.php?id=hubws 
+湖南卫视x,http://rihou.cc:55/lib/migu.php?id=hunws 
+江西卫视,http://rihou.cc:55/lib/migu.php?id=jxws 
+江苏卫视,http://rihou.cc:55/lib/migu.php?id=jsws 
+东南卫视x,http://rihou.cc:55/lib/migu.php?id=dnws 
+海峡卫视,http://rihou.cc:55/lib/migu.php?id=hxws 
+广东卫视x,http://rihou.cc:55/lib/migu.php?id=gdws 
+大湾区卫视,http://rihou.cc:55/lib/migu.php?id=dwqws 
+广西卫视,http://rihou.cc:55/lib/migu.php?id=gxws 
+云南卫视,http://rihou.cc:55/lib/migu.php?id=ynws 
+贵州卫视,http://rihou.cc:55/lib/migu.php?id=gzws 
+新疆卫视,http://rihou.cc:55/lib/migu.php?id=xjws 
+西藏卫视,http://rihou.cc:55/lib/migu.php?id=xzws 
+海南卫视,http://rihou.cc:55/lib/migu.php?id=hinws 
+
+四海钓鱼,http://rihou.cc:55/lib/migu.php?id=shdy 
+
+CHC动作电影,http://rihou.cc:55/lib/migu.php?id=chcdzdy 
+CHC家庭影院,http://rihou.cc:55/lib/migu.php?id=chcjtdy 
+
+东方影视,http://rihou.cc:55/lib/migu.php?id=dfys 
+上海新闻综合,http://rihou.cc:55/lib/migu.php?id=shxwzh 
+上海第一财*,http://rihou.cc:55/lib/migu.php?id=dycj 
+上视纪实人文,http://rihou.cc:55/lib/migu.php?id=shjsrw 
+上海外语,http://rihou.cc:55/lib/migu.php?id=shics 
+法治天地,http://rihou.cc:55/lib/migu.php?id=fztd 
+劲爆体育,http://rihou.cc:55/lib/migu.php?id=jbty 
+魅力足球,http://rihou.cc:55/lib/migu.php?id=mlzq 
+乐游,http://rihou.cc:55/lib/migu.php?id=ly
+欢笑剧场,http://rihou.cc:55/lib/migu.php?id=hxjc 
+七彩戏剧,http://rihou.cc:55/lib/migu.php?id=qcxj
+游戏风云,http://rihou.cc:55/lib/migu.php?id=yxfy 
+
+临洮电视台,http://rihou.cc:55/lib/migu.php?id=lttv
+
+江苏城市,http://rihou.cc:55/lib/migu.php?id=jscs 
+江苏综艺,http://rihou.cc:55/lib/migu.php?id=jszy 
+江苏影视,http://rihou.cc:55/lib/migu.php?id=jsys
+江苏公共新闻,http://rihou.cc:55/lib/migu.php?id=jsggxw
+江苏国际,http://rihou.cc:55/lib/migu.php?id=jsgj
+江苏教育,http://rihou.cc:55/lib/migu.php?id=jsjy
+江苏体育休闲,http://rihou.cc:55/lib/migu.php?id=jstyxx 
+优漫卡通,http://rihou.cc:55/lib/migu.php?id=ymkt
+
+南京新闻综合,http://rihou.cc:55/lib/migu.php?id=njxwzh
+南京教科,http://rihou.cc:55/lib/migu.php?id=njkj
+南京十八,http://rihou.cc:55/lib/migu.php?id=njsb
+
+淮安新闻综合,http://rihou.cc:55/lib/migu.php?id=haxwzh 
+连云港新闻综合,http://rihou.cc:55/lib/migu.php?id=lygxwzh 
+苏州新闻综合,http://rihou.cc:55/lib/migu.php?id=szxwzh 
+泰州新闻综合,http://rihou.cc:55/lib/migu.php?id=tzxwzh 
+宿迁新闻综合,http://rihou.cc:55/lib/migu.php?id=sqxwzh 
+徐州新闻综合,http://rihou.cc:55/lib/migu.php?id=xzxwzh
+
+广东影视,http://rihou.cc:55/lib/migu.php?id=gdy
+嘉佳卡通,http://rihou.cc:55/lib/migu.php?id=jjkt 
+
+
+24小时亚洲杯频道,http://rihou.cc:55/lib/migu.php?id=24hyzb
+CBA经典,http://rihou.cc:55/lib/migu.php?id=cbajd
+掼蛋精英赛,http://rihou.cc:55/lib/migu.php?id=gdjys
+高清大片,http://rihou.cc:55/lib/migu.php?id=gqdp
+和平精英赛事,http://rihou.cc:55/lib/migu.php?id=hpjxss 
+红色轮播台,http://rihou.cc:55/lib/migu.php?id=hslbt
+经典动画大集合,http://rihou.cc:55/lib/migu.php?id=jddhdjh 
+经典深圳旁边电影,http://rihou.cc:55/lib/migu.php?id=jdxgdy
+军事迷必看大片,http://rihou.cc:55/lib/migu.php?id=jsdp
+历届春晚回顾,http://rihou.cc:55/lib/migu.php?id=ljcwhg
+咪咕24小时体育台,http://rihou.cc:55/lib/migu.php?id=mg24hty 
+玫瑰轮播台,http://rihou.cc:55/lib/migu.php?id=mglbt
+NBA经典,http://rihou.cc:55/lib/migu.php?id=nbajd
+欧洲足球风云,http://rihou.cc:55/lib/migu.php?id=ozzqfy
+全民乒乓,http://rihou.cc:55/lib/migu.php?id=qmpp 
+热剧联播,http://rihou.cc:55/lib/migu.php?id=rjlb
+赛事最经典,http://rihou.cc:55/lib/migu.php?id=sszjd
+体坛名栏汇,http://rihou.cc:55/lib/migu.php?id=ttmlh 
+UFC格斗精选,http://rihou.cc:55/lib/migu.php?id=ufcgdjx
+五大联赛经典,http://rihou.cc:55/lib/migu.php?id=wdlsjd
+乡村振兴,http://rihou.cc:55/lib/migu.php?id=xczx 
+幸福中国年,http://rihou.cc:55/lib/migu.php?id=xfzgn 
+新片放映厅,http://rihou.cc:55/lib/migu.php?id=xpfyt 
+英雄联盟赛事,http://rihou.cc:55/lib/migu.php?id=yxlmss 
+周杰伦现场,http://rihou.cc:55/lib/migu.php?id=zjlxc
+最强综艺趴,http://rihou.cc:55/lib/migu.php?id=zqzyp
+
+熊猫0,http://rihou.cc:55/lib/migu.php?id=xmpd 
+熊猫1,http://rihou.cc:55/lib/migu.php?id=xm1
+熊猫2,http://rihou.cc:55/lib/migu.php?id=xm2
+熊猫3,http://rihou.cc:55/lib/migu.php?id=xm3 
+熊猫4,http://rihou.cc:55/lib/migu.php?id=xm4
+熊猫5,http://rihou.cc:55/lib/migu.php?id=xm5 
+熊猫6,http://rihou.cc:55/lib/migu.php?id=xm6
+熊猫7,http://rihou.cc:55/lib/migu.php?id=xm7 
+熊猫8,http://rihou.cc:55/lib/migu.php?id=xm8 
+熊猫9,http://rihou.cc:55/lib/migu.php?id=xm9 
+熊猫10,http://rihou.cc:55/lib/migu.php?id=xm10
+
+龙胜龙脊梯田,http://rihou.cc:55/lib/migu.php?id=lsljtt 
+大藤峡,http://rihou.cc:55/lib/migu.php?id=dtx 
+邕城,http://rihou.cc:55/lib/migu.php?id=yc 
+遇龙河,http://rihou.cc:55/lib/migu.php?id=ylh
+开封金明广场,http://rihou.cc:55/lib/migu.php?id=kfjmgc 
+开封清明上河园西门,http://rihou.cc:55/lib/migu.php?id=kfqmshyxm 
+开封连霍高速路口,http://rihou.cc:55/lib/migu.php?id=kflhgsgl 
+开封鼓楼,http://rihou.cc:55/lib/migu.php?id=kfg 
+武汉光谷,http://rihou.cc:55/lib/migu.php?id=whgg 
+武汉江汉关,http://rihou.cc:55/lib/migu.php?id=whjhg 
+武汉黄鹤楼,http://rihou.cc:55/lib/migu.php?id=whhhl 
 湖南卫视,http://114.249.18.134:4022/rtp/239.3.1.132:8012
 东方卫视,http://114.249.18.134:4022/rtp/239.3.1.136:8032
 浙江卫视,http://114.249.18.134:4022/rtp/239.3.1.137:8036
@@ -1773,6 +1948,39 @@ iHOT爱体育,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000000
 爱幼教,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000049
 爱院线,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000034
 💝体育频道👉全网,#genre#
+纬来篮球,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+纬来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
+纬来篮球,https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
+纬来篮球,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
+ELEV体育,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+TVS-体育,http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8 
+安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+先锋乒羽,http://182.32.204.113:9901/tsfile/live/1006_1.m3u8?by=angtv
+天空格斗,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15097/index.m3u8
+FOX体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
+美国摔角,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+欧洲体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
+欧洲体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
+MAT体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
+天空体台,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7341/index.m3u8#http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
+天空板球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
+天空体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
+极限格斗,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
+BT 体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2505/index.m3u8
+俄罗体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
+老李直播不定时,https://pull.lianggexinxi.xyz/live/stream-8012947_lhd.flv?auth_key=1703303485-0-0-a6e6aa38ff203e63847209cba5d6b818
+NBa直播不定时,https://ff.chgdst.com/live/maidi99.m3u8
+NBA直播不定时,https://ff.chgdst.com/live/xiaoling99.m3u8
+阿伦直播不定时,https://pull.lianggexinxi.xyz/live/stream-676201_lhd.flv?auth_key=1697009064-0-0-0f43b82816ab23e1a7d9c05c444bda79
+王中直播不定时,https://pull.lianggexinxi.xyz/live/stream-505246_lhd.flv?auth_key=1697008824-0-0-c004071c191a3bd0928215ed175f1647
+小七直播不定时,https://pull.lianggexinxi.xyz/live/stream-418311_lsd.m3u8?_=1698249099856
+叨叨直播不定时,https://pull.lianggexinxi.xyz/live/stream-507928_lhd.flv?auth_key=1697008644-0-0-109717475c07bf7a012644ef823765af
+大邱直播不定时,https://pull.lianggexinxi.xyz/live/stream-600428_lsd.m3u8?_=1697006121706
+大神直播不定时,https://pull.lianggexinxi.xyz/live/stream-600428_lsd.m3u8?_=1697004264631
+酷迪直播不定时,https://pull.lianggexinxi.xyz/live/stream-705956_lhd.flv?auth_key=1697008884-0-0-6da68819d1e2ebac3b52ad78589ea297
+老师直播不定时,https://pull.lianggexinxi.xyz/live/stream-600428_lhd.flv?auth_key=1697008944-0-0-c25e48e127303de01e525604574b3511
+米哥直播不定时,https://pull.lianggexinxi.xyz/live/stream-431228_lsd.m3u8?_=1698248787521
+
 纬来篮球,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来篮球,rtmp://f13h.mine.nu/sat/tv721
