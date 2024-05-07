@@ -1,51 +1,51 @@
 { 
 	"urls": [
         { 
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/饭太硬/api.json", 
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/test1_so1/饭太硬/api.json", 
             "name": "饭太硬" 
         },
         { 
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/小米/api.json", 
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/test1_so1/小米/api.json", 
             "name": "小米" 
         },
         { 
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/肥猫/api.json", 
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/test1_so1/肥猫/api.json", 
             "name": "肥猫" 
         },
         { 
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/香雅情XYQ/api.json", 
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/test1_so1/香雅情XYQ/api.json", 
             "name": "香雅情XYQ" 
         },
         { 
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/xyqonlinerule/main/XYQTVBox.json", 
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/xyqonlinerule/test1_so1/XYQTVBox.json", 
             "name": "香雅情演示线路" 
         },
         {  
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/南风/api.json", 
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/test1_so1/南风/api.json", 
             "name": "南风" 
         },
         { 
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/OK/api.json", 
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/test1_so1/OK/api.json", 
             "name": "OK" 
         },
         { 
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/PG/api.json", 
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/test1_so1/PG/api.json", 
             "name": "PG" 
         },
         { 
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/天天开心/api.json", 
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/test1_so1/天天开心/api.json", 
             "name": "天天开心" 
         },
         { 
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/荷城茶秀/api.json", 
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/test1_so1/荷城茶秀/api.json", 
             "name": "荷城茶秀" 
         },
         {   
-        	"url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/少儿频道/api.json", 
+        	"url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/test1_so1/少儿频道/api.json", 
             "name": "少儿频道" 
         },
         { 
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/动漫频道/api.json", 
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/test1_so1/动漫频道/api.json", 
             "name": "动漫频道" 
         }
     ]
