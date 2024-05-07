@@ -345,14 +345,15 @@
             }
         },
         {
-            "key": "csp_QuarkPanso",
+            "key": "QuarkPanso",
             "name": "🐺夸搜",
             "type": 3,
-            "api": "csp_QuarkPanso",
+            "api": "csp_PanSearch",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
+                "pan": "quark",
                 "quarkCookie": "XYQTVBox/cookie.txt",
                 "from": "4k|auto|fhd"
             }
@@ -787,9 +788,14 @@
             }
         }
     ],
-    "lives":[
-{"name":"live","type":0,"url":"http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
-],
+    "lives": [
+        {
+            "name": "live",
+            "type": 0,
+            "url": "./lives/live.txt",
+            "epg": "http://diyp.112114.xyz/?ch={name}&date={date}"
+        }
+    ],
     "doh": [
         {
             "name": "Google",
