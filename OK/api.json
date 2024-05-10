@@ -1,6 +1,7 @@
 {
     "spider": "./spider.jar",
-    "wallpaper": "https://jihulab.com/okcaptain/kko/-/raw/main/w1.jpg",
+    "wallpaper": "https://gitee.com/okjack/okk/raw/master/w1.jpg",
+    "logo": "https://gitee.com/okjack/okk/raw/master/ol.txt",
     "sites": [
         {
             "key": "豆瓣",
@@ -51,7 +52,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "timeout": 20
+            "timeout": 10
         },
         {
             "key": "小苹果",
@@ -61,7 +62,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "timeout": 15
+            "timeout": 10
         },
         {
             "key": "玩偶",
@@ -86,7 +87,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "timeout": 25
+            "timeout": 10
         },
         {
             "key": "厂长",
@@ -96,7 +97,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "timeout": 25
+            "timeout": 10
         },
         {
             "key": "荐片",
@@ -106,7 +107,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "timeout": 20
+            "timeout": 10
         },
         {
             "key": "JOJO",
@@ -122,7 +123,7 @@
             "key": "无忧短剧",
             "name": "🌈无忧┃短剧",
             "type": 3,
-            "api": "csp_Duanju",
+            "api": "csp_Duanj",
             "searchable": 1,
             "changeable": 0,
             "style": {
@@ -484,7 +485,7 @@
             },
             "ext": {
                 "cookie": "file://TV/bili_cookie.txt",
-                "json": "https://jihulab.com/okcaptain/kko/-/raw/main/bili.json"
+                "json": "https://gitee.com/okjack/okk/raw/master/bili.json"
             },
             "timeout": 20
         },
@@ -502,7 +503,7 @@
             },
             "ext": {
                 "cookie": "file://TV/bili_cookie.txt",
-                "json": "https://jihulab.com/okcaptain/kko/-/raw/main/biliych.json"
+                "json": "https://gitee.com/okjack/okk/raw/master/biliych.json"
             },
             "timeout": 20
         },
@@ -844,31 +845,13 @@
         "mozai.4gtv.tv"
     ],
     "lives": [
-        {
-            "name": "live",
-            "type": 0,
-            "url": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/live.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "tvzb",
-            "type": 0,
-            "url": "http://我不是.肥猫.live/TV/tvzb.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-        },
+        
         {
             "name": "fanmingming",
             "type": 0,
             "url": "./lives/fanmingming.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "ipv6",
-            "type": 0,
-            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
-       
     ],
     "ijk": [
         {
