@@ -20,8 +20,8 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "XYQTVBox/token.txt",
-                "quarkCookie": "XYQTVBox/cookie.txt",
+                "aliToken": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
+                "quarkCookie": "http://127.0.0.1:9978/file/XYQTVBox/cookie.txt",
                 "from": "4k|auto|fhd",
                 "siteUrl": "https://www.wogg.link/",
                 "danMu": "弹"
@@ -35,6 +35,15 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
+        },
+        {
+            "key": "短剧",
+            "name": "🌈上头┃短剧",
+            "type": 3,
+            "api": "csp_Djuu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "酷看",
@@ -110,16 +119,6 @@
             "ext": "https://czzy.top/"
         },
         {
-            "key": "七七",
-            "name": "👒七七┃秒播",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "南瓜",
             "name": "🎃南瓜┃多线",
             "type": 3,
@@ -150,6 +149,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
+        },
+        {
+            "key": "热播",
+            "name": "📺热播┃多线",
+            "type": 3,
+            "api": "csp_AppTT",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
         },
         {
             "key": "毛驴",
@@ -350,15 +361,6 @@
             "ext": "./json/MTV.json"
         },
         {
-            "key": "短剧",
-            "name": "🌈上头┃短剧",
-            "type": 3,
-            "api": "csp_Djuu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_Yj1211",
             "name": "📽️网红┃直播",
             "type": 3,
@@ -445,7 +447,7 @@
             "changeable": 0,
             "ext": {
                 "pan": "quark",
-                "quarkCookie": "XYQTVBox/cookie.txt",
+                "quarkCookie": "http://127.0.0.1:9978/file/XYQTVBox/cookie.txt",
                 "from": "4k|auto|fhd"
             }
         },
@@ -458,7 +460,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "XYQTVBox/token.txt",
+                "aliToken": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
                 "from": "4k|auto|fhd"
             }
         },
@@ -471,7 +473,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "XYQTVBox/token.txt",
+                "aliToken": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
                 "from": "4k|auto|fhd"
             }
         },
@@ -484,7 +486,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "XYQTVBox/token.txt",
+                "aliToken": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
                 "from": "4k|auto|fhd"
             }
         },
@@ -497,7 +499,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "XYQTVBox/token.txt",
+                "aliToken": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
                 "from": "4k|auto|fhd"
             }
         },
@@ -509,8 +511,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "ext": {
-                "aliToken": "XYQTVBox/token.txt",
-                "quarkCookie": "XYQTVBox/cookie.txt",
+                "aliToken": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
+                "quarkCookie": "http://127.0.0.1:9978/file/XYQTVBox/cookie.txt",
                 "from": "4k|auto|fhd"
             }
         },
