@@ -79,11 +79,11 @@
             "timeout": 30
         },
         {
-            "key": "白票",
-            "name": "🦄白票|直连",
+            "key": "韩圈",
+            "name": "🦄韩圈┃App",
             "type": 3,
-            "api": "csp_Cs1369",
-            "playerType": 1,
+            "api": "csp_HanXiaoQuan",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -844,15 +844,13 @@
     "ads": [
         "mozai.4gtv.tv"
     ],
-    "lives": [
-        
-        {
-            "name": "fanmingming",
-            "type": 0,
-            "url": "./lives/fanmingming.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-        }
-    ],
+    "lives":[
+{"name":"live","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/li.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":10},
+{"name":"iptv","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/ip.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":10},
+{"name":"fanmingming","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":10},
+{"name":"mitv","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/mt.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":10},
+{"name":"ddns","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=http://mywlkj.ddns.net:754/tv.php","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":10}
+],
     "ijk": [
         {
             "group": "软解码",

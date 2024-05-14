@@ -33,6 +33,10 @@
             "name": "PG" 
         },
         { 
+            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/骚零/api.json", 
+            "name": "骚零" 
+        },
+        { 
             "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/天天开心/api.json", 
             "name": "天天开心" 
         },
