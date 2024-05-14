@@ -33,6 +33,10 @@
             "name": "PG" 
         },
         { 
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/骚零/api.json", 
+            "name": "骚零" 
+        },
+        { 
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/天天开心/api.json", 
             "name": "天天开心" 
         },
