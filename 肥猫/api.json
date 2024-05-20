@@ -112,7 +112,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.cz233.com/"
+            "ext": "https://czzy.top/"
         },
         {
             "key": "csp_AppRZ",
@@ -515,7 +515,7 @@
             "api": "csp_AiPanSo",
             "timeout": 30,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt"
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/cookie.txt"
         },
         {
             "key": "drpy_哔哩",
