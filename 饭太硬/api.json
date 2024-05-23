@@ -427,8 +427,22 @@
             }
         },
         {
+            "key": "米搜",
+            "name": "🦋米搜┃搜索",
+            "type": 3,
+            "api": "csp_MIPanSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "pan": "quark",
+                "quarkCookie": "http://127.0.0.1:9978/file/XYQTVBox/cookie.txt",
+                "from": "4k|auto|fhd"
+            }
+        },
+        {
             "key": "夸搜",
-            "name": "🐺夸搜┃搜索",
+            "name": "🐌夸搜┃搜索",
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
