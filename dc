@@ -40,10 +40,7 @@
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/天天开心/api.json", 
             "name": "天天开心" 
         },
-        { 
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/荷城茶秀/api.json", 
-            "name": "荷城茶秀" 
-        },
+       
         {   
         	"url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/少儿频道/api.json", 
             "name": "少儿频道" 
