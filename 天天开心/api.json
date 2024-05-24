@@ -12,7 +12,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "豆瓣热播请关注公众号：天天开心2024",
+            "name": "豆瓣热播请关注公众号：“开心软件”",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 0,
