@@ -1,5 +1,6 @@
 {
     "spider": "./spider.jar",
+    "logo": "https://www.xit.edu.cn/wlaq/UploadFiles_4283/202110/2021102616050834.gif",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
@@ -299,7 +300,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt"
+            "ext": ".http://127.0.0.1:9978/file/XYQTVBox/token.txt"
         }
     ],
     "parses": [

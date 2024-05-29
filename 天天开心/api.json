@@ -59,24 +59,34 @@
             "ext": "./js/jianpian.js"
         },
         {
-            "key": "茶狐杯",
-            "name": "🎦茶狐杯",
+            "key": "美柏",
+            "name": "🎦美柏",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/茶狐杯.json"
+            "ext": "./json/美柏.json"
         },
         {
-            "key": "文才",
-            "name": "🎦文才",
+            "key": "胖虎",
+            "name": "🎦胖虎",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/文才.json"
+            "ext": "./json/胖虎.json"
+        },
+        {
+            "key": "剧圈圈",
+            "name": "🎦剧圈圈",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/剧圈圈.json"
         },
         {
             "key": "csp_xBPQ_九八",
@@ -266,6 +276,36 @@
                 "分类": "电影&剧集&综艺&动漫&少儿&短剧",
                 "分类值": "dianying&lianxuju&zongyi&dongman&shaoer&duanju"
             }
+        },
+        {
+            "key": "子子影视",
+            "name": "🎦子子影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/子子.json"
+        },
+        {
+            "key": "茶狐杯",
+            "name": "🎦茶狐杯",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/茶狐杯.json"
+        },
+        {
+            "key": "文才",
+            "name": "🎦文才",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/文才.json"
         },
         {
             "key": "三米ys",
