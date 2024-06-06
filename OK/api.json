@@ -827,6 +827,7 @@
         "mozai.4gtv.tv"
     ],
     "lives": [
+        
         {
             "name": "live-2",
             "type": 0,
@@ -845,6 +846,7 @@
             "url": "./lives/fanmingming.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
+        
     ],
     "ijk": [
         {
