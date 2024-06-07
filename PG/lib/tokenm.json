@@ -6,11 +6,11 @@
 "oauth_client_secret":"",
 "oauth_auth_url":"",
 "oauth_refresh_url":"",
-"thread_limit":32,
+"thread_limit":10,
 "is_vip":true,
 "vip_thread_limit":10,
 "vod_flags":"4kz|auto",
-"quark_thread_limit":32,
+"quark_thread_limit":10,
 "quark_is_vip":false,
 "quark_vip_thread_limit":32,
 "quark_flags":"4kz|auto",
@@ -57,5 +57,6 @@
 "wgcf_vless_protocol":"vless",
 "wgcf_vless_network":"ws",
 "wgcf_vless_tls":false,
-"libxl_url":"./libxl_thunder_sdk.so"
+"libxl_url":"./libxl_thunder_sdk.so",
+"youtube_proxy":""
 }
