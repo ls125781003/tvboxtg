@@ -40,7 +40,10 @@
             "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/天天开心/api.json", 
             "name": "天天开心" 
         },
-       
+        {   
+        	"url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/王二小/api.json", 
+            "name": "王二小" 
+        },
         {   
         	"url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/少儿频道/api.json", 
             "name": "少儿频道" 
