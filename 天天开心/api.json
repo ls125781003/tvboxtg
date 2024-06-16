@@ -1330,7 +1330,7 @@
         },
         {
             "key": "py_cntv央视",
-            "name": "🌔央视大全",
+            "name": "🌔cntv央视",
             "type": 3,
             "api": "py_cctv",
             "searchable": 0,
