@@ -184,7 +184,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.libvio.pw/"
+            "ext": "https://www.libvio.cc/"
         },
         {
             "key": "csp_Kuaikan",
@@ -392,6 +392,16 @@
             }
         },
         {
+            "key": "csp_Yisou",
+            "name": "🆎XYQ易搜",
+            "type": 3,
+            "api": "csp_Yisou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "./txt/token.txt"
+        },
+        {
             "key": "csp_XYQHikerAL_阿里土豆",
             "name": "🥔阿里土豆",
             "type": 3,
@@ -400,6 +410,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/土豆.json"
+        },
+        {
+            "key": "csp_Gitcafe",
+            "name": "📜小纸条",
+            "type": 3,
+            "api": "csp_Gitcafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "./txt/token.txt"
         },
         {
             "key": "csp_XYQHikerAL__影搜",
