@@ -45,6 +45,10 @@
             "name": "王二小" 
         },
         {   
+        	"url": "https://ghproxy.cc/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/菜妮丝/api.json", 
+            "name": "菜妮丝" 
+        },
+        {   
         	"url": "https://ghproxy.cc/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/少儿频道/api.json", 
             "name": "少儿频道" 
         },
