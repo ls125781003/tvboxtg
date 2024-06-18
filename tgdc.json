@@ -45,6 +45,10 @@
             "name": "王二小" 
         },
         {   
+        	"url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/菜妮丝/api.json", 
+            "name": "菜妮丝" 
+        },
+        {   
         	"url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/少儿频道/api.json", 
             "name": "少儿频道" 
         },
