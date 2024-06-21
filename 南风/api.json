@@ -125,7 +125,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.80yy3.com/"
+            "ext": "https://www.6080yy3.com/"
         },
         {
             "key": "csp_DiDuan",
@@ -399,7 +399,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "./txt/token.txt"
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt"
         },
         {
             "key": "csp_XYQHikerAL_阿里土豆",
@@ -419,7 +419,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "./txt/token.txt"
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt"
         },
         {
             "key": "csp_XYQHikerAL__影搜",
@@ -620,8 +620,8 @@
             "ext": "./json/奇优.json"
         },
         {
-            "key": "云播",
-            "name": "💢云播",
+            "key": "TVB云播",
+            "name": "💢TVB云播",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -645,7 +645,6 @@
                 "搜索标题": "\"name\":\"&&\"",
                 "搜索图片": "\"pic\":\"&&\"",
                 "搜索链接": "http://www.hktvyun.com/vod/detail/id/+\"id\":&&,+html",
-                "嗅探词": ".m3u8#mp4",
                 "线路数组": "</a><h3&&/h3>",
                 "线路标题": "title\">&&<",
                 "播放数组": "<ul class=\"myui-content__list scrollbar&&</ul>",
