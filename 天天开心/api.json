@@ -1635,16 +1635,6 @@
             "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt"
         },
         {
-            "key": "py_cntv央视",
-            "name": "cntv央视",
-            "type": 3,
-            "api": "py_cctv",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./py/cntv央视.py"
-        },
-        {
             "key": "py_cctv",
             "name": "🌔央视大全",
             "type": 3,
@@ -1653,6 +1643,16 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./py/cctv.py"
+        },
+        {
+            "key": "py_cctv1",
+            "name": "🌔央视大全.py",
+            "type": 3,
+            "api": "./api/cctv.py",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": ""
         },
         {
             "key": "相声小品",

@@ -101,7 +101,7 @@
         },
         {
             "key": "荐片",
-            "name": "🐭荐片┃手机",
+            "name": "⚔️荐片┃手机",
             "type": 3,
             "api": "csp_Jianpian",
             "searchable": 1,
@@ -412,7 +412,10 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "timeout": 10
+            "timeout": 10,
+            "header": {
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+            }
         },
         {
             "key": "310js",
@@ -561,32 +564,6 @@
             "timeout": 15
         },
         {
-            "key": "找資源",
-            "name": "🐺找资源┃搜索",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": {
-                "token": "file://TV/ali_token.txt"
-            },
-            "timeout": 15
-        },
-        {
-            "key": "盘搜",
-            "name": "🦊盘搜┃搜索",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": {
-                "token": "file://TV/ali_token.txt"
-            },
-            "timeout": 15
-        },
-        {
             "key": "易搜",
             "name": "😹易搜┃搜索",
             "type": 3,
@@ -597,19 +574,6 @@
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"
-            },
-            "timeout": 15
-        },
-        {
-            "key": "Up云搜",
-            "name": "😻Up搜┃搜索",
-            "type": 3,
-            "api": "csp_Upys",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": {
-                "token": "file://TV/ali_token.txt"
             },
             "timeout": 15
         },
@@ -631,19 +595,6 @@
             "name": "🐚夸克盘搜┃搜索",
             "type": 3,
             "api": "csp_Qkpanso",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": {
-                "cookie": "file://TV/quark_cookie.txt"
-            },
-            "timeout": 15
-        },
-        {
-            "key": "csp_AiPanSou",
-            "name": "🥰爱盘搜┃搜索",
-            "type": 3,
-            "api": "csp_AiPanSou",
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
@@ -837,7 +788,7 @@
         "mozai.4gtv.tv"
     ],
     "lives": [
-
+        
         {
             "name": "live-2",
             "type": 0,
@@ -856,7 +807,6 @@
             "url": "./lives/fanmingming.txt",
             "epg": ""
         }
-        
     ],
     "ijk": [
         {
