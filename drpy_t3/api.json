@@ -73,39 +73,6 @@
 			},
 			"order_num": 9999
 		},
-        {
-			"key": "DaPanSo",
-			"name": "大盘搜|网盘搜索",
-			"type": 3,
-			"api": "csp_DaPanSo",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./json/tokenm.json$$$https://dapanso.com$$$proxy$$$1",
-			"order_num": 9999
-		},
-		{
-			"key": "YunPan",
-			"name": "云盘资源|网盘",
-			"type": 3,
-			"api": "csp_YunPan",
-			"timeout": 60,
-			"ext": "./json/tokenm.json$$$None$$$proxy$$$1",
-			"order_num": 9999
-		},
-		{
-			"key": "YunPanOne",
-			"name": "云盘One|网盘搜索",
-			"type": 3,
-			"api": "csp_YunPanOne",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./json/tokenm.json$$$None$$$proxy$$$1",
-			"order_num": 9999
-		},
 		{
 			"key": "秒搜",
 			"name": "秒搜|网盘搜索",
@@ -149,56 +116,6 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"order_num": 9999
-		},
-        {
-			"key": "88Pan",
-			"name": "88网盘|网盘搜索",
-			"type": 3,
-			"api": "csp_EightEight",
-			"timeout": 60,
-			"ext": "./json/tokenm.json$$$https://662688.xyz$$$",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			},
-			"order_num": 9999
-		},
-		{
-			"key": "盘友圈",
-			"name": "盘友圈|网盘搜索",
-			"type": 3,
-			"api": "csp_Panyq",
-			"timeout": 60,
-			"ext": "./json/tokenm.json$$$site$$$proxy",
-			"order_num": 9999
-		},
-		{
-			"key": "PikaSo",
-			"name": "皮卡搜|网盘搜索",
-			"type": 3,
-			"api": "csp_PikaSo",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./json/tokenm.json$$$https://www.pikaso.top/$$$None",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			},
-			"order_num": 9999
-		},
-		{
-			"key": "Ppxzy",
-			"name": "皮皮虾|网盘",
-			"type": 3,
-			"api": "csp_Ppxzy",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./json/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1",
 			"order_num": 9999
 		},
         {
