@@ -1013,6 +1013,12 @@
 	],
 	"lives": [
         {
+            "name": "飞龙",
+            "type": 0,
+            "url": "./lives/feilong.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
             "name": "cntv",
             "type": 0,
             "url": "./lives/live_cntv.txt",
@@ -1024,12 +1030,7 @@
             "url": "./lives/nanfeng.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
-        {
-            "name": "飞龙",
-            "type": 0,
-            "url": "./lives/feilong.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-        },
+        
         {
             "name": "开心",
             "type": 0,
