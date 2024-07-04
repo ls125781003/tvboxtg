@@ -124,7 +124,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://rzys.xyz/"
+            "ext": "http://www.rzys.cc/"
         },
         {
             "key": "csp_FreeOK",
@@ -355,7 +355,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://www.xb6v.com/"
+            "ext": "https://www.xb6v.com/"
         },
         {
             "key": "csp_XYQHikerAL_4KHDR",
@@ -405,10 +405,10 @@
             "filterable": 1
         },
         {
-            "key": "csp_Djuu",
+            "key": "csp_Djtt",
             "name": "🌈短剧",
             "type": 3,
-            "api": "csp_Djuu",
+            "api": "csp_Djtt",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -457,7 +457,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt"
+            "ext": "./txt/token.txt"
+        },
+        {
+            "key": "csp_Gitcafe",
+            "name": "📜小纸条",
+            "type": 3,
+            "api": "csp_Gitcafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "./txt/token.txt"
         },
         {
             "key": "csp_XYQHikerAL_阿里土豆",
@@ -470,14 +480,14 @@
             "ext": "./json/土豆.json"
         },
         {
-            "key": "csp_Gitcafe",
-            "name": "📜小纸条",
+            "key": "csp_XYQHikerAL_六趣",
+            "name": "6️⃣六趣",
             "type": 3,
-            "api": "csp_Gitcafe",
+            "api": "csp_XYQHikerAL",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt"
+            "filterable": 1,
+            "ext": "./json/六趣.json"
         },
         {
             "key": "csp_XYQHikerAL__影搜",
@@ -602,15 +612,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Nbys",
-            "name": "👑泥巴(墙外)",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "骚火",
             "name": "💢骚火",
             "type": 3,
@@ -690,6 +691,26 @@
                 "分类url": "http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
             }
+        },
+        {
+            "key": "虎牙",
+            "name": "🐯虎牙",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/虎牙直播.json"
+        },
+        {
+            "key": "斗鱼",
+            "name": "🐠斗鱼",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/斗鱼直播.json"
         },
         {
             "key": "虎牙直播",

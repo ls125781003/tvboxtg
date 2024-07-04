@@ -141,14 +141,6 @@
             "changeable": 1
         },
         {
-            "key": "Wexwencai",
-            "name": "🎇文才┃秒播🎇",
-            "type": 3,
-            "api": "csp_Wexwencai",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "Wexbaipiao",
             "name": "🎇星星┃秒播🎇",
             "type": 3,
@@ -398,6 +390,22 @@
             "searchable": 1,
             "changeable": 1,
             "playerType": 1
+        },
+        {
+            "key": "葵花",
+            "name": "🌺葵花┃自建🌺‍",
+            "type": 3,
+            "api": "csp_Wexkuihuatv",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexwencai",
+            "name": "🌺文才┃秒播🌺",
+            "type": 3,
+            "api": "csp_Wexwencai",
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "Wexxpgtv",
