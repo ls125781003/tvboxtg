@@ -18,11 +18,12 @@ globalThis.getRandomItem = function (items) {//从列表随机取出一个元素
 var rule = {
     title: '采集之王[合]',
     author: '道长',
-    version: '20240705 beta14',
+    version: '20240705 beta15',
     update_info: `
 20240705:
 1.支持传参json后面增加#1 这样的额外标识，用于搜索结果精准匹配
-2.支持传参json后面增加#1#1 这样的额外标识，用于强制获取搜索图片。#1#不显示图片。默认是搜索强制有图片的[待实现详情页请求使用批量]
+2.支持传参json后面增加#1#1 这样的额外标识，用于强制获取搜索图片。#1#不显示图片。默认是搜索强制有图片的[已实现详情页请求使用批量]
+3.修复二级数据无序匹配搜索列表图片的问题
 20240703:
 1.采集json支持"searchable": 0,用于搜索时排除这个源
 20240604:
@@ -355,11 +356,13 @@ var rule = {
                             if (!results_list[k].has_pic) {
                                 try {
                                     let detailJson = JSON.parse(rets2[results_list[k].detailUrlCount]);
+                                    log('二级数据列表元素数:' + detailJson.list.length);
                                     result_data.forEach((d, _seq) => {
-                                        log('二级数据列表元素数:' + detailJson.list.length);
-                                        let detailVodPic = detailJson.list[_seq].vod_pic;
+                                        // let detailVodPic = detailJson.list[_seq].vod_pic;
+                                        // log(detailJson);
+                                        let detailVodPic = detailJson.list.find(vod => vod.vod_id.toString() === d.vod_id.split('$')[1]);
                                         if (detailVodPic) {
-                                            Object.assign(d, {vod_pic: detailVodPic});
+                                            Object.assign(d, {vod_pic: detailVodPic.vod_pic});
                                         }
                                     });
                                 } catch (e) {
@@ -389,11 +392,12 @@ var rule = {
                                         let detailUrl = urls[idx].split('wd=')[0] + 'ac=detail&ids=' + data.map(k => k.vod_id.split('$')[1]).join(',');
                                         try {
                                             let detailJson = JSON.parse(request(detailUrl));
+                                            log('二级数据列表元素数:' + detailJson.list.length);
                                             data.forEach((d, _seq) => {
-                                                log('二级数据列表元素数:' + detailJson.list.length);
-                                                let detailVodPic = detailJson.list[_seq].vod_pic;
+                                                // let detailVodPic = detailJson.list[_seq].vod_pic;
+                                                let detailVodPic = detailJson.list.find(vod => vod.vod_id.toString() === d.vod_id.split('$')[1]);
                                                 if (detailVodPic) {
-                                                    Object.assign(d, {vod_pic: detailVodPic});
+                                                    Object.assign(d, {vod_pic: detailVodPic.vod_pic});
                                                 }
                                             });
                                         } catch (e) {
