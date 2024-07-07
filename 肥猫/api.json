@@ -35,6 +35,13 @@
             "api": "./api/ng_open.js"
         },
         {
+            "key": "csp_KmeiJu",
+            "name": "🌎┃美剧┃影视",
+            "type": 3,
+            "api": "csp_KmeiJu",
+            "playerType": 2
+        },
+        {
             "key": "新视觉",
             "name": "🐦┃视觉┃影视",
             "type": 3,
@@ -51,17 +58,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "胖虎",
-            "name": "🐯┃胖虎┃影视",
-            "type": 3,
-            "api": "csp_Panghu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 1,
-            "ext": "https://physvod.com"
         },
         {
             "key": "csp_FengGo",
@@ -272,14 +268,6 @@
             "api": "csp_SP360"
         },
         {
-            "key": "csp_Voflix",
-            "name": " 🎋┃Voflix┃影视",
-            "type": 3,
-            "api": "csp_Voflix",
-            "playerType": "2",
-            "ext": "https://www.voflix.me/"
-        },
-        {
             "key": "alist",
             "name": "🍰┃小鸭┃网盘",
             "type": 3,
@@ -460,24 +448,6 @@
             "type": 3,
             "api": "csp_PanSearch",
             "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt"
-        },
-        {
-            "key": "csp_UpYun",
-            "name": "🍒┃Up搜┃网盘",
-            "type": 3,
-            "api": "csp_UpYun",
-            "timeout": 30,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt"
-        },
-        {
-            "key": "csp_aisou",
-            "name": "🔭┃爱搜┃夸克",
-            "type": 3,
-            "api": "csp_AiPanSo",
-            "timeout": 30,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/cookie.txt"
         },
         {
             "key": "drpy_哔哩",

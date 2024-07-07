@@ -1,7 +1,7 @@
 {
     "spider": "./spider.jar",
-    "wallpaper": "https://raw.gitcode.com/okjackcaptain/okk/raw/main/w1.jpg",
-    "logo": "https://raw.gitcode.com/okjackcaptain/okk/raw/main/ol.txt",
+    "wallpaper": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314187703/w1.jpg",
+    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
     "sites": [
         {
             "key": "豆瓣",
@@ -243,8 +243,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/dadagui.js",
+            "api": "./api/drpy2.min.txt?file=drpy2.min.js",
+            "ext": "./txt/dadagui.txt",
             "timeout": 15
         },
         {
@@ -254,7 +254,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "./api/drpy2.min.js",
+            "api": "./api/drpy2.min.txt?file=drpy2.min.js",
             "ext": "./js/libvio.js",
             "timeout": 15
         },
@@ -265,8 +265,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/ddys.js",
+            "api": "./api/drpy2.min.txt?file=drpy2.min.js",
+            "ext": "./txt/ddys.txt",
             "timeout": 15
         },
         {
@@ -421,7 +421,7 @@
             "key": "jrsjs",
             "name": "⚽Jrs┃球迷",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "./api/drpy2.min.txt?file=drpy2.min.js",
             "ext": "./js/jrs.js",
             "style": {
                 "type": "list"
@@ -438,8 +438,8 @@
             "key": "310js",
             "name": "⚽310┃看球",
             "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/310.js",
+            "api": "./api/drpy2.min.txt?file=drpy2.min.js",
+            "ext": "./txt/310.txt",
             "style": {
                 "type": "list"
             },
@@ -452,7 +452,7 @@
             "key": "虎牙直播js",
             "name": "🐯虎牙┃直播",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "./api/drpy2.min.txt?file=drpy2.min.js",
             "ext": "./js/huyazhibo.js",
             "style": {
                 "type": "rect",
@@ -467,7 +467,7 @@
             "key": "斗鱼js",
             "name": "🐟斗鱼┃直播",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "./api/drpy2.min.txt?file=drpy2.min.js",
             "ext": "./js/douyuzhibo.js",
             "style": {
                 "type": "rect",
@@ -482,7 +482,7 @@
             "key": "聚短视频js",
             "name": "📽️聚短┃视频",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "./api/drpy2.min.txt?file=drpy2.min.js",
             "ext": "./js/duanshipin.js",
             "searchable": 0,
             "quickSearch": 0,
@@ -493,7 +493,7 @@
             "key": "海洋听书js",
             "name": "🎧海洋┃听书",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "./api/drpy2.min.txt?file=drpy2.min.js",
             "ext": "./js/haiyangtingshu.js",
             "style": {
                 "type": "rect",
@@ -518,7 +518,7 @@
             },
             "ext": {
                 "cookie": "file://TV/bili_cookie.txt",
-                "json": "https://raw.gitcode.com/okjackcaptain/okk/raw/main/bili.json"
+                "json": "https://raw.gitcode.com/okjackcaptain/kko/raw/main/bili.json"
             },
             "timeout": 20
         },
@@ -536,7 +536,7 @@
             },
             "ext": {
                 "cookie": "file://TV/bili_cookie.txt",
-                "json": "https://raw.gitcode.com/okjackcaptain/okk/raw/main/biliych.json"
+                "json": "https://raw.gitcode.com/okjackcaptain/kko/raw/main/biliych.json"
             },
             "timeout": 20
         },
@@ -794,8 +794,13 @@
             "type": 0,
             "url": "./lives/live-3.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "fanmingming",
+            "type": 0,
+            "url": "./lives/fanmingming.txt",
+            "epg": ""
         }
-        
     ],
     "ijk": [
         {
