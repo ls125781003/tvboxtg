@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "全接口智能过滤广告",
+            "name": "玩偶新添加优汐线路",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
@@ -20,9 +20,8 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
-                "quarkCookie": "http://127.0.0.1:9978/file/XYQTVBox/cookie.txt",
-                "from": "4k|auto|fhd",
+                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "from": "4k|auto",
                 "siteUrl": "https://www.wogg.link/",
                 "danMu": "弹"
             }
@@ -64,8 +63,8 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": {
-                "quarkCookie": "http://127.0.0.1:9978/file/XYQTVBox/cookie.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
@@ -112,15 +111,24 @@
             "ext": "https://czzy.top/"
         },
         {
-            "key": "视觉",
-            "name": "👓视觉┃多线",
+            "key": "小点",
+            "name": "💥小点┃多线",
             "type": 3,
-            "api": "csp_Xinsj",
-            "timeout": 15,
+            "api": "csp_Xdys",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.6080yy3.com/"
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "文采",
+            "name": "💮文采┃秒播",
+            "type": 3,
+            "api": "csp_Jpys",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "蛋蛋",
@@ -128,16 +136,6 @@
             "type": 3,
             "api": "csp_Cddys",
             "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "文采",
-            "name": "💮文采┃秒播",
-            "type": 3,
-            "api": "csp_Jpys",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -185,16 +183,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "小点",
-            "name": "💥小点┃多线",
-            "type": 3,
-            "api": "csp_Xdys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
         },
         {
             "key": "热播",
@@ -438,9 +426,8 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "pan": "quark",
-                "quarkCookie": "http://127.0.0.1:9978/file/XYQTVBox/cookie.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive\"": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
@@ -452,9 +439,8 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "pan": "quark",
-                "quarkCookie": "http://127.0.0.1:9978/file/XYQTVBox/cookie.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive\"": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
@@ -466,8 +452,8 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
@@ -479,8 +465,8 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
@@ -492,8 +478,8 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
@@ -505,8 +491,8 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
@@ -517,9 +503,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "ext": {
-                "aliToken": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
-                "quarkCookie": "http://127.0.0.1:9978/file/XYQTVBox/cookie.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
@@ -639,57 +624,13 @@
             "changeable": 0
         }
     ],
-    "doh": [
-        {
-            "name": "Google",
-            "url": "https://dns.google/dns-query",
-            "ips": [
-                "8.8.4.4",
-                "8.8.8.8"
-            ]
-        },
-        {
-            "name": "Cloudflare",
-            "url": "https://cloudflare-dns.com/dns-query",
-            "ips": [
-                "1.1.1.1",
-                "1.0.0.1",
-                "2606:4700:4700::1111",
-                "2606:4700:4700::1001"
-            ]
-        },
-        {
-            "name": "AdGuard",
-            "url": "https://dns.adguard.com/dns-query",
-            "ips": [
-                "94.140.14.140",
-                "94.140.14.141"
-            ]
-        },
-        {
-            "name": "DNSWatch",
-            "url": "https://resolver2.dns.watch/dns-query",
-            "ips": [
-                "84.200.69.80",
-                "84.200.70.40"
-            ]
-        },
-        {
-            "name": "Quad9",
-            "url": "https://dns.quad9.net/dns-quer",
-            "ips": [
-                "9.9.9.9",
-                "149.112.112.112"
-            ]
-        }
-    ],
     "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
     "lives": [
         {
             "name": "live",
             "type": 0,
             "url": "./lives/live.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         },
         {
             "name": "XIUTAN",
