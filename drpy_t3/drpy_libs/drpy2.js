@@ -6,7 +6,18 @@ import './pako.min.js';
 // import JSEncrypt from './jsencrypt.js'; // 会导致壳子崩溃的
 import 模板 from './模板.js'
 import {gbkTool} from './gbk.js'
+// 下面是尝试对jinja2库进行更换
+import './jinja.js'
 
+const _jinja2 = cheerio.jinja2;
+cheerio.jinja2 = function (template, obj) {
+    try {
+        return jinja.render(template, obj);
+    } catch (e) {
+        console.log('新的jinja2库渲染失败,换回原始cheerio:' + e.message);
+        return _jinja2(template, obj)
+    }
+};
 // import cheerio from "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/cheerio.min.js";
 // import "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/crypto-js.js";
 // import 模板 from"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/模板.js";
@@ -264,7 +275,7 @@ function pre() {
 
 let rule = {};
 let vercode = typeof (pdfl) === 'function' ? 'drpy2.1' : 'drpy2';
-const VERSION = vercode + ' 3.9.50beta32 20240625';
+const VERSION = vercode + ' 3.9.51beta1 20240711';
 /** 已知问题记录
  * 1.影魔的jinjia2引擎不支持 {{fl}}对象直接渲染 (有能力解决的话尽量解决下，支持对象直接渲染字符串转义,如果加了|safe就不转义)[影魔牛逼，最新的文件发现这问题已经解决了]
  * Array.prototype.append = Array.prototype.push; 这种js执行后有毛病,for in 循环列表会把属性给打印出来 (这个大毛病需要重点排除一下)
@@ -2202,7 +2213,7 @@ function categoryParse(cateObj) {
             }
         }
         let new_url;
-        new_url = cheerio.jinja2(url, {fl: fl});
+        new_url = cheerio.jinja2(url, {fl: fl, fyclass: cateObj.tid});
         // console.log('jinjia2执行后的new_url类型为:'+typeof(new_url));
         url = new_url;
     }
