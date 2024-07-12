@@ -426,7 +426,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive\"": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -439,7 +439,8 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive\"": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "pan": "quark",
+                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -626,12 +627,6 @@
     ],
     "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
     "lives": [
-        {
-            "name": "live",
-            "type": 0,
-            "url": "./lives/live.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        },
         {
             "name": "XIUTAN",
             "type": 0,
