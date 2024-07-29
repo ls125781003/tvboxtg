@@ -12,7 +12,7 @@
 "vod_flags":"4kz|auto",
 "quark_thread_limit":10,
 "quark_is_vip":false,
-"quark_vip_thread_limit":10,
+"quark_vip_thread_limit":32,
 "quark_flags":"4kz|auto",
 "uc_thread_limit":0,
 "uc_is_vip":false,
@@ -69,5 +69,6 @@
 "pan115_is_vip":false,
 "pan115_flags":"4kz",
 "pan115_auto_delete":true,
-"pan115_delete_code":""
+"pan115_delete_code":"",
+"pan_order":"ali|quark|uc|115|yd|thunder|pikpak"
 }
