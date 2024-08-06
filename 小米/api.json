@@ -11,13 +11,17 @@
             "searchable": 0
         },
         {
-            "key": "csp_Netfixtv",
-            "name": "👀至臻┃自建4K",
+            "key": "csp_zhizhen",
+            "name": "🌹至臻┃4K4K",
             "type": 3,
             "api": "csp_Duopan",
-            "playerType": 2,
             "filterable": 1,
-            "ext": "http://mpanso.com/"
+            "ext": {
+                "site_urls": [
+                    "http://mihdr.top",
+                    "http://mpanso.com"
+                ]
+            }
         },
         {
             "key": "csp_wanou",
@@ -28,7 +32,13 @@
             "playerType": 2,
             "timeout": 30,
             "changeable": 0,
-            "ext": "https://wogg.xxooo.cf/"
+            "ext": {
+                "site_urls": [
+                    "https://wogg.xxooo.cf/",
+                    "https://www.wogg.bf/",
+                    "https://www.wogg.net/"
+                ]
+            }
         },
         {
             "key": "csp_LiteApple",
@@ -398,5 +408,5 @@
                 }
             }
         }
-    ] 
+    ]
 }
