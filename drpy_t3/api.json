@@ -78,7 +78,7 @@
 				"ratio": 1.1
 			}
 		},
-		{"key":"Wogg","name":"|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./json/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./json/wogg.json$$$WOGG"},
+		{"key":"Wogg","name":"玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./json/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./json/wogg.json$$$WOGG"},
 		{"key":"Wogg0","name":"玩偶哥哥[备1]|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./json/tokenm.json$$$https://www.wogg.net/$$$noproxy$$$1$$$./json/wogg.json"},
 		{"key":"Wogg1","name":"玩偶哥哥[备2]|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./json/tokenm.json$$$http://wogg.xxooo.cf/$$$noproxy$$$1$$$./json/wogg.json"},	
 		
