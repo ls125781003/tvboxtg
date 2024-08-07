@@ -340,19 +340,10 @@
             "changeable": 1
         },
         {
-            "key": "Wexjiazitv",
-            "name": "🌺甲子┃4K🌺",
-            "type": 3,
-            "api": "csp_Wexjiazitv",
-            "searchable": 1,
-            "changeable": 1,
-            "playerType": 1
-        },
-        {
             "key": "Wexkoukou",
             "name": "🌺扣扣┃4K🌺",
             "type": 3,
-            "api": "csp_Wexkoukou2",
+            "api": "csp_Wexkoukou",
             "searchable": 1,
             "changeable": 1
         },
