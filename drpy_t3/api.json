@@ -165,8 +165,7 @@
 			}
 		},
 		{"key":"YunPanOne","name":"云盘One|网盘搜索","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./json/tokenm.json$$$null$$$proxy$$$1"},
-		{"key":"XBPQ_文才","name":"文才|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./json/XBPQ.jar",
-        {
+		{
 			"key": "hipy_js_玩偶哥哥[盘]",
 			"name": "玩偶哥哥[盘](drpy_t3)",
 			"type": 3,
