@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "添加网盘自定排序",
+            "name": "公众号【神秘的哥哥们】",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
@@ -78,15 +78,6 @@
             "changeable": 1
         },
         {
-            "key": "小点",
-            "name": "💥小点┃多线",
-            "type": 3,
-            "api": "csp_Appxdys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
             "key": "煤球",
             "name": "🍓煤球┃多线",
             "type": 3,
@@ -105,6 +96,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
+        },
+        {
+            "key": "小点",
+            "name": "💥小点┃多线",
+            "type": 3,
+            "api": "csp_Appxdys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "原创",

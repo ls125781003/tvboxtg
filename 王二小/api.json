@@ -415,8 +415,16 @@
             "changeable": 1
         },
         {
-            "key": "Wexduanjuvip",
+            "key": "Wexduanju001",
             "name": "🍉短剧┃极品🍉",
+            "type": 3,
+            "api": "csp_Wexduanju001",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexduanjuvip",
+            "name": "🍉短剧┃精品🍉",
             "type": 3,
             "api": "csp_Wexduanjuvip",
             "searchable": 1,
