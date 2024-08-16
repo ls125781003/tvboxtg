@@ -61,17 +61,6 @@
             "changeable": 1
         },
         {
-            "key": "csp_Zx4k",
-            "name": "🚝专线",
-            "type": 3,
-            "api": "csp_Zx4k",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_LiteApple",
             "name": "🍎小苹果",
             "type": 3,
@@ -171,16 +160,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_csp_Appxdys",
-            "name": "💥兄弟",
-            "type": 3,
-            "api": "csp_csp_Appxdys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
         },
         {
             "key": "csp_Appmq",
@@ -290,6 +269,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://auete.pro/"
+        },
+        {
+            "key": "csp_Zx4k",
+            "name": "🚝专线",
+            "type": 3,
+            "api": "csp_Zx4k",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "农民",

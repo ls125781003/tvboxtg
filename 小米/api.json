@@ -5,7 +5,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🌈豆瓣┃反馈QQ群:665981772",
+            "name": "🌈豆瓣┃反馈QQ群:665981772 公众号：叨观荐影",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -94,14 +94,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_官源",
-            "name": "🥛官源┃APP",
-            "type": 1,
-            "api": "https://jx.yingshi.xyz/caiji.php",
-            "playerType": 2,
-            "filterable": 1
-        },
-        {
             "key": "csp_Nkdy",
             "name": "🥛耐看┃APP",
             "type": 3,
@@ -113,7 +105,6 @@
             "key": "huohuo",
             "name": "💥火火┃独家",
             "type": 3,
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "api": "csp_SaoHuo"
         },
         {
@@ -142,6 +133,22 @@
             "type": 3,
             "api": "csp_Quanwk",
             "ext": "https://888.qkw1.cc/"
+        },
+        {
+            "key": "csp_Jqq2",
+            "name": "🎃圈圈┃影视",
+            "type": 3,
+            "api": "csp_Jqq",
+            "playerType": 2,
+            "filterable": 1
+        },
+        {
+            "key": "csp_pptv",
+            "name": "🫧泡泡┃影视",
+            "type": 3,
+            "api": "csp_Pptv",
+            "playerType": 2,
+            "filterable": 1
         },
         {
             "key": "csp_SP360",
@@ -189,13 +196,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_DADAG",
-            "name": "⭕️剧圈┃影视",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_Dadag"
         },
         {
             "key": "QIYIU",
@@ -254,7 +254,7 @@
         },
         {
             "key": "小米",
-            "name": "📺小米┃独家",
+            "name": "📺米米┃独家",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -294,7 +294,7 @@
         },
         {
             "key": "小MI",
-            "name": "📺米搜┃独家",
+            "name": "📺搜搜┃独家",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -401,7 +401,7 @@
         {
             "name": "小米无敌",
             "type": 1,
-            "url": "http://www.mpanso.com/62-2.php?url=",
+            "url": "http://www.mpanso.com/woainiba.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -428,9 +428,38 @@
             }
         },
         {
-            "name": "小米",
+            "name": "小米无敌2",
             "type": 1,
-            "url": "http://www.mpanso.com/62-1.php?url=",
+            "url": "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+        {
+            "name": "腾4K",
+            "type": 1,
+            "url": "http://www.mpanso.com/woaini.php?url=",
             "ext": {
                 "flag": [
                     "qq",
