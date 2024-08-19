@@ -36,13 +36,30 @@
             "changeable": 0
         },
         {
-            "key": "短剧",
-            "name": "🌈上头┃短剧",
+            "key": "米搜",
+            "name": "🦋小米┃盘搜",
             "type": 3,
-            "api": "csp_Djtt",
+            "api": "csp_MIPanSo",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "抠搜",
+            "name": "🍄抠抠┃搜搜",
+            "type": 3,
+            "api": "csp_KkSs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
         },
         {
             "key": "酷看",
@@ -98,17 +115,6 @@
             "changeable": 1
         },
         {
-            "key": "原创",
-            "name": "☀原创┃不卡",
-            "type": 3,
-            "api": "csp_YCyz",
-            "timeout": 15,
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "苹果",
             "name": "🍎苹果┃不卡",
             "type": 3,
@@ -128,6 +134,17 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.czys.pro/"
+        },
+        {
+            "key": "原创",
+            "name": "☀原创┃不卡",
+            "type": 3,
+            "api": "csp_YCyz",
+            "timeout": 15,
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "zxzj",
@@ -224,6 +241,15 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "https://www.xb6v.com/"
+        },
+        {
+            "key": "短剧",
+            "name": "🌈上头┃短剧",
+            "type": 3,
+            "api": "csp_Djtt",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "Dm84",
@@ -387,34 +413,8 @@
             }
         },
         {
-            "key": "米搜",
-            "name": "🦋米搜┃夸父",
-            "type": 3,
-            "api": "csp_MIPanSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "盘他",
-            "name": "🍄盘他┃U夸",
-            "type": 3,
-            "api": "csp_PanTa",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
             "key": "夸搜",
-            "name": "🐟夸搜┃夸父",
+            "name": "🐟夸搜┃狸夸",
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
