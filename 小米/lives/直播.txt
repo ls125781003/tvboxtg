@@ -512,38 +512,40 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝟝「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 #INSERT_HERE
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」15:50 夏季联赛 天津先行者vs新疆伊力特 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「意甲」00:20 联赛 博洛尼亚vs乌迪内斯 解说
 https://tv.iill.top/Migu/1
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」15:50 清流播出
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「意甲」00:20 联赛 维罗纳vs那不勒斯 解说
 https://tv.iill.top/Migu/2
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」18:45 联赛 河南俱乐部酒祖杜康vs沧州雄狮 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「西甲」00:50 联赛 皇家社会vs巴列卡诺 解说
 https://tv.iill.top/Migu/3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」18:45 联赛 河南俱乐部酒祖杜康vs沧州雄狮 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「意甲」02:35 联赛 卡利亚里vs罗马 解说
 https://tv.iill.top/Migu/4
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「UFC」19:00 激战前夜：阿迪萨亚特辑 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「意甲」02:35 联赛 拉齐奥vs威尼斯 解说
 https://tv.iill.top/Migu/5
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「NBL」19:20 香港金牛vs广西威壮 现场解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「法甲」02:35 联赛 雷恩vs里昂 解说
 https://tv.iill.top/Migu/6
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「NBL」19:20 香港金牛vs广西威壮 原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「西甲」03:15 联赛 马略卡vs皇家马德里 解说
 https://tv.iill.top/Migu/7
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 夏季联赛 深圳马可波罗vs浙江稠州金租 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「NBL」19:20 江苏汤沟国藏vs广西威壮 现场解说
 https://tv.iill.top/Migu/8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 清流播出
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「NBL」19:20 江苏汤沟国藏vs广西威壮 原声
 https://tv.iill.top/Migu/9
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 联赛 天津津门虎vs武汉三镇 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「NBL」19:20 长沙湾田勇胜vs江西赣驰 现场解说
 https://tv.iill.top/Migu/10
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 联赛 天津津门虎vs武汉三镇 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「NBL」19:20 长沙湾田勇胜vs江西赣驰 原声
 https://tv.iill.top/Migu/11
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:20 联赛 天津津门虎vs武汉三镇 央视解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「NBL」19:20 武汉锟鹏vs香港金牛 现场解说
 https://tv.iill.top/Migu/12
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:45 联赛 北京国安vs浙江俱乐部 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「NBL」19:20 武汉锟鹏vs香港金牛 原声
 https://tv.iill.top/Migu/13
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:45 联赛 北京国安vs浙江俱乐部 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「NBL」19:20 合肥狂风峻茂vs河南赊店老酒 现场解说
 https://tv.iill.top/Migu/14
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:45 联赛 南通支云vs青岛西海岸 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「NBL」19:20 合肥狂风峻茂vs河南赊店老酒 原声
 https://tv.iill.top/Migu/15
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中超」19:45 联赛 南通支云vs青岛西海岸 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「NBL」19:20 安徽文一vs石家庄翔蓝 现场解说
 https://tv.iill.top/Migu/16
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「NBL」19:20 安徽文一vs石家庄翔蓝 原声
+https://tv.iill.top/Migu/17
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
 https://tv.iill.top/migu/cctv1
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经
