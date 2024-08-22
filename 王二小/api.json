@@ -221,6 +221,14 @@
             "changeable": 1
         },
         {
+            "key": "Wexbaozitv",
+            "name": "🎇包子┃秒播🎇",
+            "type": 3,
+            "api": "csp_Wexbaozitv",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "csp_Nmys",
             "name": "🎇伯伯┃秒播🎇",
             "type": 3,
@@ -361,6 +369,14 @@
             "name": "🌺扣扣┃4K🌺",
             "type": 3,
             "api": "csp_Wexkoukou",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexjiazitv",
+            "name": "🌺甲子┃4K🌺",
+            "type": 3,
+            "api": "csp_Wexjiazitv",
             "searchable": 1,
             "changeable": 1
         },
