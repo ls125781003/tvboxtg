@@ -30,12 +30,12 @@
             "name": "🖍︎┃蜡笔┃影视",
             "type": 3,
             "api": "csp_Duopan",
-            "playerType": 2,
             "filterable": 1,
             "ext": {
                 "site_urls": [
                     "https://duopan.fun",
-                    "http://labipan.com"
+                    "http://labipan.com",
+                    "http://mpanso.com"
                 ]
             }
         },
@@ -146,7 +146,6 @@
             "name": "💌┃至臻┃影视",
             "type": 3,
             "api": "csp_Netfixtv",
-            "playerType": 2,
             "filterable": 1,
             "ext": "http://mpanso.com"
         },
@@ -493,7 +492,7 @@
             "name": "🌖┃米搜┃网盘",
             "type": 3,
             "api": "csp_MiSou",
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/cookie.txt"
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/kk.txt"
         },
         {
             "key": "csp_Pansou",
