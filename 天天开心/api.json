@@ -112,12 +112,6 @@
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
         },
         {
-            "name": "⑥蓝影兔源",
-            "type": 0,
-            "url": "./lives/⑥蓝影兔源.txt",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
-        },
-        {
             "name": "⑦限时线路",
             "type": 0,
             "url": "./lives/⑦限时线路.txt",
@@ -322,7 +316,7 @@
             "filterable": 0,
             "changeable": 0,
             "jar": "./jars/csp_KungFu404.jar",
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt+4k|fhd|auto"
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tok.txt+4k|fhd|auto"
         },
         {
             "key": "Alist",
@@ -411,7 +405,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": {
-                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -467,7 +461,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "./api/apiv435drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "ext": "./js/jp.js"
         },
         {
@@ -1692,7 +1686,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt"
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
         },
         {
             "key": "csp_XYQHiker_影搜",
@@ -1712,7 +1706,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt"
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
         },
         {
             "key": "csp_XYQHikerAL_云盘资源",
@@ -1733,7 +1727,7 @@
             "quickSearch": 1,
             "playerType": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt"
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
         },
         {
             "key": "py_cctv",
