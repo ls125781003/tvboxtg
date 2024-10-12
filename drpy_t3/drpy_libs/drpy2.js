@@ -279,7 +279,7 @@ function pre() {
 
 let rule = {};
 let vercode = typeof (pdfl) === 'function' ? 'drpy2.1' : 'drpy2';
-const VERSION = vercode + ' 3.9.51beta2 20240711';
+const VERSION = vercode + ' 3.9.51beta3 20241012';
 /** 已知问题记录
  * 1.影魔的jinjia2引擎不支持 {{fl}}对象直接渲染 (有能力解决的话尽量解决下，支持对象直接渲染字符串转义,如果加了|safe就不转义)[影魔牛逼，最新的文件发现这问题已经解决了]
  * Array.prototype.append = Array.prototype.push; 这种js执行后有毛病,for in 循环列表会把属性给打印出来 (这个大毛病需要重点排除一下)
@@ -3148,8 +3148,12 @@ function init(ext) {
         if (typeof ext == 'object') {
             rule = ext;
         } else if (typeof ext == 'string') {
-            if (ext.startsWith('http') || ext.startsWith('file://')) {
+            let is_file = ext.startsWith('file://');
+            if (ext.startsWith('http') || is_file) {
                 let query = getQuery(ext); // 获取链接传参
+                if(is_file){
+                    ext = ext.split('?')[0];
+                }
                 let js = request(ext, {'method': 'GET'});
                 if (js) {
                     js = getOriginalJs(js);
@@ -3158,7 +3162,11 @@ function init(ext) {
                     eval("(function(){" + js.replace('var rule', 'rule') + "})()");
                 }
                 if (query.type === 'url' && query.params) { // 指定type是链接并且传了params支持简写如 ./xx.json
-                    rule.params = urljoin(ext, query.params);
+                    if(is_file && /^http/.test(query.params)){
+                        rule.params = query.params;
+                    }else {
+                        rule.params = urljoin(ext, query.params);
+                    }
                 } else if (query.params) { // 没指定type直接视为字符串
                     rule.params = query.params;
                 }
