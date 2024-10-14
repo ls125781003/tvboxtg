@@ -5,7 +5,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "🌕️豆瓣┃首页┃推荐",
+            "name": "🥹新地址：http:我不是.摸鱼儿.com",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
@@ -74,7 +74,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bilibili.txt"
+                "cookie": "file://tvbox/bilibili.txt"
             },
             "timeout": 10
         },
