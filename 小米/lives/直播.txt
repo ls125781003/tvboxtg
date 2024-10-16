@@ -414,98 +414,58 @@ http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contenti
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟜𝟝「IPV4」
 http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 #INSERT_HERE
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」07:55 季前赛 凯尔特人 vs 76人 季孟年
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」06:55 季前赛 步行者 vs 灰熊 李天宇
 https://tv.iill.top/NBA/1
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」07:55 季前赛 公牛 vs 灰熊 刘圳展
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」07:25 季前赛 篮网 vs 奇才 孔德昕
 https://tv.iill.top/NBA/2
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」07:55 季前赛 马刺 vs 爵士 吴博文
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」07:25 季前赛 老鹰 vs 76人 孙博
 https://tv.iill.top/NBA/3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「亚乒赛」13:00 亚洲乒乓球锦标赛：女双、男单半决赛 小马哥
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」07:55 季前赛 雄鹿 vs 公牛 张浩岳
+https://tv.iill.top/NBA/4
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」10:25 季前赛 快船 vs 独行侠 连睿
+https://tv.iill.top/NBA/5
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「咪咕」08:00 《体育日报》第8期 《体育日报》第八期
 https://tv.iill.top/Migu/1
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「KPL」13:30 武汉eStarPro vs 西安WE 武汉eStarPro vs 西安WE 官方解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第2轮 浙江方兴渡 vs 南京头排苏酒 孙博
 https://tv.iill.top/Migu/2
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTA」17:00 2024武汉网球公开赛女单决赛 郑钦文 vs 萨巴伦卡
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第2轮 浙江方兴渡 vs 南京头排苏酒 清流播出3
 https://tv.iill.top/Migu/3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「KPL」17:30 苏州KSG vs 北京WB 苏州KSG vs 北京WB 官方解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第2轮 宁波町渥 vs 北京北汽 连睿
 https://tv.iill.top/Migu/4
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「亚乒赛」18:00 亚洲乒乓球锦标赛：男女单打、女双决赛 周冠达
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第2轮 宁波町渥 vs 北京北汽 宁波主队
 https://tv.iill.top/Migu/5
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「亚乒赛」18:00 亚洲乒乓球锦标赛：男女单打、女双决赛 清流
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第2轮 宁波町渥 vs 北京北汽 刘芳宇
 https://tv.iill.top/Migu/6
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」18:30 常规赛第1轮 北京北汽 vs 上海久事 杨健 徐咏 焦健
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第2轮 宁波町渥 vs 北京北汽 清流播出2
 https://tv.iill.top/Migu/7
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」18:30 常规赛第1轮 北京北汽 vs 上海久事 谭成国
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第2轮 北京控股 vs 江苏肯帝亚 吕程 殳海
 https://tv.iill.top/Migu/8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」18:30 常规赛第1轮 北京北汽 vs 上海久事 张俊卿
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第2轮 北京控股 vs 江苏肯帝亚 清流播出1
 https://tv.iill.top/Migu/9
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」18:30 常规赛第1轮 北京北汽 vs 上海久事 山西vs广东
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第2轮 山东高速 vs 广东东阳光 李天宇 王润陶 张兆旭
 https://tv.iill.top/Migu/10
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」18:30 常规赛第1轮 北京北汽 vs 上海久事 新疆vs江苏
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第2轮 山东高速 vs 广东东阳光 罗森
 https://tv.iill.top/Migu/11
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」18:30 常规赛第1轮 北京北汽 vs 上海久事 清流播出
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第2轮 山东高速 vs 广东东阳光 广东主队
 https://tv.iill.top/Migu/12
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第1轮 九台农商银行 vs 北京控股 蔡凯臣
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第2轮 山东高速 vs 广东东阳光 清流播出4
 https://tv.iill.top/Migu/13
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第1轮 九台农商银行 vs 北京控股 房峰浩
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第2轮 山西汾酒 vs 四川丰谷酒业 张浩岳
 https://tv.iill.top/Migu/14
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第1轮 九台农商银行 vs 北京控股 周赫
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第2轮 山西汾酒 vs 四川丰谷酒业 石楷文
 https://tv.iill.top/Migu/15
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第1轮 九台农商银行 vs 北京控股 清流播出
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第2轮 山西汾酒 vs 四川丰谷酒业 字诚
 https://tv.iill.top/Migu/16
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第1轮 宁波町渥 vs 四川丰谷酒业 寇逸豪
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第2轮 山西汾酒 vs 四川丰谷酒业 清流播出5
 https://tv.iill.top/Migu/17
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第1轮 宁波町渥 vs 四川丰谷酒业 宁波主队
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:25 常规赛第2轮 新疆伊力特 vs 深圳马可波罗 庄宁宇
 https://tv.iill.top/Migu/18
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第1轮 宁波町渥 vs 四川丰谷酒业 四川主队
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:25 常规赛第2轮 新疆伊力特 vs 深圳马可波罗 新疆主队
 https://tv.iill.top/Migu/19
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第1轮 宁波町渥 vs 四川丰谷酒业 清流播出
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:25 常规赛第2轮 新疆伊力特 vs 深圳马可波罗 李嘉伟
 https://tv.iill.top/Migu/20
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第1轮 南京头排苏酒 vs 深圳马可波罗 王冠证
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:25 常规赛第2轮 新疆伊力特 vs 深圳马可波罗 清流播出6
 https://tv.iill.top/Migu/21
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第1轮 南京头排苏酒 vs 深圳马可波罗 王港
-https://tv.iill.top/Migu/22
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第1轮 南京头排苏酒 vs 深圳马可波罗 李嘉伟
-https://tv.iill.top/Migu/23
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第1轮 南京头排苏酒 vs 深圳马可波罗 清流播出
-https://tv.iill.top/Migu/24
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第1轮 山西汾酒 vs 广东东阳光 李天宇 陈正昊 王羽希
-https://tv.iill.top/Migu/25
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第1轮 山西汾酒 vs 广东东阳光 石楷文
-https://tv.iill.top/Migu/26
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第1轮 山西汾酒 vs 广东东阳光 莫俊祺
-https://tv.iill.top/Migu/27
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第1轮 山西汾酒 vs 广东东阳光 北京vs上海
-https://tv.iill.top/Migu/28
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第1轮 山西汾酒 vs 广东东阳光 新疆vs江苏
-https://tv.iill.top/Migu/29
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第1轮 山西汾酒 vs 广东东阳光 清流播出
-https://tv.iill.top/Migu/30
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第1轮 山东高速 vs 浙江方兴渡 解说
-https://tv.iill.top/Migu/31
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第1轮 山东高速 vs 浙江方兴渡 王新通
-https://tv.iill.top/Migu/32
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第1轮 山东高速 vs 浙江方兴渡 郭知昊
-https://tv.iill.top/Migu/33
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第1轮 山东高速 vs 浙江方兴渡 清流播出
-https://tv.iill.top/Migu/34
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:30 常规赛第1轮 新疆伊力特 vs 江苏肯帝亚 徐秦威
-https://tv.iill.top/Migu/35
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:30 常规赛第1轮 新疆伊力特 vs 江苏肯帝亚 新疆主队
-https://tv.iill.top/Migu/36
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:30 常规赛第1轮 新疆伊力特 vs 江苏肯帝亚 洪超
-https://tv.iill.top/Migu/37
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:30 常规赛第1轮 新疆伊力特 vs 江苏肯帝亚 北京vs上海
-https://tv.iill.top/Migu/38
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:30 常规赛第1轮 新疆伊力特 vs 江苏肯帝亚 山西vs广东
-https://tv.iill.top/Migu/39
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:30 常规赛第1轮 新疆伊力特 vs 江苏肯帝亚 清流播出
-https://tv.iill.top/Migu/40
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「KPL」19:40 成都AG超玩会 vs 佛山DRG 成都AG超玩会 vs 佛山DRG 官方解说
-https://tv.iill.top/Migu/41
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「KPL」19:40 成都AG超玩会 vs 佛山DRG 成都AG超玩会 vs 佛山DRG 清流
-https://tv.iill.top/Migu/42
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「lol」19:40 英雄联盟S14瑞士轮Day9 官方解说
-https://tv.iill.top/Migu/43
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
 https://tv.iill.top/migu/cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经

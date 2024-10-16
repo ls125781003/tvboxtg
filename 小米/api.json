@@ -5,14 +5,14 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🌈豆瓣┃反馈QQ群:665981772 公众号：叨观荐影 接口只兼容OK影视或者影视",
+            "name": "🌈豆瓣┃QQ群已满 公众号：叨观荐影 ",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
         {
             "key": "配置",
-            "name": "⚙️网盘┃配置4K",
+            "name": "⚙️网盘┃配置4K 修复弹窗 夸夸非会员3G可播",
             "type": 3,
             "changeable": 0,
             "searchable": 0,
@@ -109,14 +109,7 @@
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
-            "api": "./api/appys.js",
-            "ext": {
-                "host": "http://110.42.37.106:7788/api.php/app/",
-                "*": [
-                    "http://122.228.85.203:7979/api/?key=29a5e65c75bf3d339dec1bf50155cf87&url=",
-                    ""
-                ]
-            }
+            "api": "csp_Gz360"
         },
         {
             "key": "csp_subaobai",
@@ -277,12 +270,12 @@
             "ext": "http://api2.rinhome.com"
         },
         {
-            "key": "csp_农民",
+            "key": "csp_Wwys",
             "name": "🐶汪汪┃1080P",
             "type": 3,
             "playerType": 1,
             "changeable": 0,
-            "api": "csp_Nongm",
+            "api": "csp_Wwys",
             "ext": "https://www.wwgz.cn/"
         },
         {
@@ -292,14 +285,6 @@
             "changeable": 0,
             "api": "csp_Pptv",
             "ext": "https://yigeg.pro/"
-        },
-        {
-            "key": "csp_全网",
-            "name": "🥣全网┃1080P",
-            "type": 3,
-            "changeable": 0,
-            "api": "csp_Quanwk",
-            "ext": "https://888.qkw2.cc/"
         },
         {
             "key": "csp_SP360",
