@@ -13,7 +13,7 @@
 "quark_thread_limit":10,
 "quark_thread_limit_night":"19-23=10",
 "quark_is_guest":false,
-"quark_vip_thread_limit":16,
+"quark_vip_thread_limit":32,
 "quark_vip_thread_limit_night":"19-23=10",
 "quark_flags":"4kz|auto",
 "uc_thread_limit":0,
@@ -81,5 +81,7 @@
 "tgsearch_api_session":"",
 "tgsearch_api_session_v1":"",
 "tgsearch_api_proxy":"proxy",
-"tgsearch_api_url":"http://127.0.0.1:10199/"
+"tgsearch_api_url":"http://127.0.0.1:10199/",
+"tgsearch_media_url":"http://127.0.0.1:10199/",
+"allinone_url":"./allinone.gz"
 }
