@@ -25,7 +25,7 @@
 			},
 			"style": {
 				"type": "rect",
-				"ratio": 1.77
+				"ratio": 0.8
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 				"ratio": 1.77
 			}
 		},
-		{"key":"TGYunPan","name":"TG群组搜索","type":3,"api":"csp_TGYunPan","timeout":120,
+		{"key":"TGYunPan","name":"TG群组搜索","type":3,"api":"csp_TGYunPan","timeout":120, 
 			"ext":{
 				"token":"./lib/tokenm.json",
 				"json":"./lib/tgsearch.json",
