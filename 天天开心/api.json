@@ -58,15 +58,33 @@
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
         },
         {
-            "name": "⑮梅州线路",
+            "name": "⑬ipv6线路",
             "type": 0,
-            "url": "./lives/⑮梅州线路.txt",
+            "url": "./lives/⑬ipv6线路.txt",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
         },
         {
             "name": "⑱欧华线路",
             "type": 0,
             "url": "./lives/⑱欧华线路.txt",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+        {
+            "name": "②①综合线路",
+            "type": 0,
+            "url": "./lives/②①综合线路.txt",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+        {
+            "name": "②②综合二线",
+            "type": 0,
+            "url": "./lives/②②综合二线.txt",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+        {
+            "name": "②③综合三线",
+            "type": 0,
+            "url": "./lives/②③综合三线.txt",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
         },
         {
@@ -82,22 +100,70 @@
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
         },
         {
+            "name": "②⑥范明线路",
+            "type": 0,
+            "url": "./lives/②⑥范明线路.txt",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+        {
+            "name": "②⑦范明电台",
+            "type": 0,
+            "url": "./lives/②⑦范明电台.txt",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+        {
             "name": "②⑨肥猫线路",
             "type": 0,
             "url": "./lives/②⑨肥猫线路.txt",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
         },
         {
-            "name": "③⓪俊于线路",
+            "name": "③①斗鱼线路",
             "type": 0,
-            "url": "./lives/③⓪俊于线路.txt",
+            "url": "./lives/③①斗鱼线路.txt",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+        {
+            "name": "肥羊斗鱼",
+            "type": 0,
+            "url": "./lives/肥羊斗鱼.txt",
+            "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "肥羊虎牙",
+            "type": 0,
+            "url": "./lives/肥羊虎牙.txt",
+            "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "③②备用虎牙",
+            "type": 0,
+            "url": "./lives/③②备用虎牙.txt",
+            "epg": ""
+        },
+        {
+            "name": "③③备用斗鱼",
+            "type": 0,
+            "url": "./lives/③③备用斗鱼.txt",
+            "epg": ""
+        },
+        {
+            "name": "③④16万MV",
+            "type": 0,
+            "url": "./lives/③④16万MV.txt",
+            "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "③⑤MV专线",
+            "type": 0,
+            "url": "./lives/③⑤MV专线.txt",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
         }
     ],
     "sites": [
         {
             "key": "豆瓣",
-            "name": "豆瓣热播请关注公众号：“开心软件”",
+            "name": "豆瓣热播请关注公众号：“开心软件”不迷路",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -127,12 +193,15 @@
             }
         },
         {
-            "key": "开心直播点播",
-            "name": "📺︎开心直播点播",
+            "key": "lf_live10_min",
+            "name": "📺︎开心软件直播",
             "type": 3,
-            "api": "./api/sdtv.js",
-            "ext": "./txt/kxzb1.txt",
-            "jar": "./jars/开心直播点播.jar"
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "./api/lf_live10_min-output.js",
+            "ext": "./json/lf_live.json"
         },
         {
             "key": "好趣网",
@@ -344,6 +413,28 @@
                 "ratio": 1.433
             },
             "timeout": 10
+        },
+        {
+            "key": "csp_AppRZ",
+            "name": "🕵忍者┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "csp_AppRZ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://rzys.xyz/"
+        },
+        {
+            "key": "csp_AppDaMi",
+            "name": "🍚大米┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "csp_AppDaMi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://app-v1.ecoliving168.com/"
         },
         {
             "key": "ddys_js",
@@ -2223,6 +2314,14 @@
             "ext": "./js/六月听书.js"
         },
         {
+            "key": "csp_Kugou",
+            "name": "🐶┃酷狗",
+            "type": 3,
+            "api": "csp_Kugou",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
             "key": "hipy_js_KTV歌厅[听]",
             "name": "🎤KTV歌厅(drpy_t3)",
             "type": 3,
@@ -2278,6 +2377,11 @@
             "name": "聚合0",
             "type": 3,
             "url": "Web"
+        },
+        {
+            "name": "虾米1",
+            "type": 0,
+            "url": "https://150.138.78.37:4399/api/?key=94b07e0b2c0e8244&url="
         },
         {
             "name": "-777-",
