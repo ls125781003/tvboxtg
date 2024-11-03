@@ -12,7 +12,7 @@
             "changeable": 1,
             "ext": {
                 "commonConfig": "http://127.0.0.1:9978/file/XYQTVBox/peizhi.json",
-                "filter": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/douban.json"
+                "filter": "./json/douban.json"
             }
         },
         {
@@ -34,6 +34,16 @@
             "ext": {
                 "commonConfig": "http://127.0.0.1:9978/file/XYQTVBox/peizhi.json"
             }
+        },
+        {
+            "key": "csp_Jpys",
+            "name": "🥇金牌",
+            "type": 3,
+            "api": "csp_Jpys",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "csp_TianTian",
@@ -327,8 +337,7 @@
             "changeable": 0,
             "ext": {
                 "commonConfig": "http://127.0.0.1:9978/file/XYQTVBox/peizhi.json",
-                "siteUrl": "https://www.wogg.net/",
-                "filter": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"
+                "siteUrl": "./json/wogg.json"
             }
         },
         {
@@ -340,8 +349,7 @@
             "changeable": 0,
             "ext": {
                 "commonConfig": "http://127.0.0.1:9978/file/XYQTVBox/peizhi.json",
-                "siteUrl": "http://labipan.com/",
-                "filter": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"
+                "siteUrl": "./json/wogg.json"
             }
         },
         {
@@ -401,7 +409,7 @@
             "switchable": 0,
             "ext": {
                 "commonConfig": "http://127.0.0.1:9978/file/XYQTVBox/peizhi.json",
-                "share": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/网盘集合.json"
+                "share": "./json/网盘集合.json"
             }
         },
         {
@@ -416,8 +424,8 @@
                 "ratio": 1.433
             },
             "ext": {
-                "json": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/youtube.json",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/youtubecookie.json"
+                "json": "./json/youtube.json",
+                "cookie": "./json/youtubecookie.json"
             }
         },
         {
