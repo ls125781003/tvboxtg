@@ -20,7 +20,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "Cloud-drive": "file://TV/Cloud-drive.txt",
                 "from": "4k|auto",
                 "siteUrl": "https://www.wogg.net/",
                 "danMu": "弹"
@@ -54,7 +54,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "Cloud-drive": "file://TV/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -67,7 +67,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "Cloud-drive": "file://TV/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -80,7 +80,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": {
-                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "Cloud-drive": "file://TV/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -122,16 +122,6 @@
             "changeable": 1
         },
         {
-            "key": "原创",
-            "name": "☀原创┃不卡",
-            "type": 3,
-            "api": "csp_YCyz",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "厂长",
             "name": "📔厂长┃不卡",
             "type": 3,
@@ -140,7 +130,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://czzy.top/"
+            "ext": "https://www.czzy77.com/"
+        },
+        {
+            "key": "木星",
+            "name": "🌞木星┃多线",
+            "type": 3,
+            "api": "csp_AppSx",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjDcUxPqpfNr0QF4QvEpcoxZIYRQNwQCG8Otba0yUlXQMqbvyrYj1rF/ef6Syy5Zj/ZkmAqgHsuU3lxEs8zPFZMXNqLxA+MbSlPxmlA1/58U/OgZ2I7cEW5ZHV6hg=="
         },
         {
             "key": "热播",
@@ -430,7 +430,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "Cloud-drive": "file://TV/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -444,7 +444,7 @@
             "changeable": 0,
             "ext": {
                 "pan": "quark",
-                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "Cloud-drive": "file://TV/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -457,7 +457,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "Cloud-drive": "file://TV/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -470,7 +470,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "Cloud-drive": "file://TV/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -482,7 +482,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "ext": {
-                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "Cloud-drive": "file://TV/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },

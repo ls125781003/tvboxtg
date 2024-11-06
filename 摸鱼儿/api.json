@@ -54,7 +54,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "Cloud-drive": "file://TV/Cloud-drive.txt",
                 "from": "4k|auto",
                 "siteUrl": "https://www.wogg.net/",
                 "danMu": "弹"
@@ -70,9 +70,9 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/XYQTVBox/uc.txt",
+                "token": "file://TV/token.txt",
+                "cookie": "file://TV/quark.txt",
+                "uc_cookie": "file://TV/uc.txt",
                 "site": "http://mogg.小胡.top",
                 "danmu": true
             }
@@ -110,8 +110,8 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
+                "token": "file://TV/token.txt",
+                "cookie": "file://TV/quark.txt",
                 "site": "https://yunpan.yunpay.cc",
                 "danmu": true
             }
@@ -126,8 +126,8 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
+                "token": "file://TV/token.txt",
+                "cookie": "file://TV/quark.txt",
                 "site": "http://labipan.com/",
                 "danmu": true
             }
@@ -142,9 +142,9 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/XYQTVBox/uc.txt",
+                "token": "file://TV/token.txt",
+                "cookie": "file://TV/quark.txt",
+                "uc_cookie": "file://TV/uc.txt",
                 "site": "https://mihdr.top",
                 "danmu": true
             }
@@ -159,9 +159,9 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/XYQTVBox/uc.txt",
+                "token": "file://TV/token.txt",
+                "cookie": "file://TV/quark.txt",
+                "uc_cookie": "file://TV/uc.txt",
                 "site": "https://vip.omii.top",
                 "danmu": true
             }
@@ -180,7 +180,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "cookie": "file://tvbox/bilibili.txt"
+                "cookie": "file://TV/bilibili.txt"
             },
             "timeout": 10
         },
@@ -392,7 +392,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": {
-                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "Cloud-drive": "file://TV/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -631,6 +631,116 @@
             "changeable": 1
         },
         {
+            "key": "Bili",
+            "name": "🆙哔哩┃合集┃弹幕",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=哔哩合集"
+            }
+        },
+        {
+            "key": "Biliych",
+            "name": "🆙哔哩┃歌曲┃弹幕",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=mtv"
+            }
+        },
+        {
+            "key": "有声小说js",
+            "name": "📚有声┃小说┃娱乐",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/有声小说吧.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "少儿教育",
+            "name": "📚少儿┃学识┃教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=少儿教育"
+            }
+        },
+        {
+            "key": "小学课堂",
+            "name": "📚小学┃课堂┃教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=小学教育"
+            }
+        },
+        {
+            "key": "初中课堂",
+            "name": "📚初中┃课堂┃教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=初中课堂"
+            }
+        },
+        {
+            "key": "高中教育",
+            "name": "📚高中┃课堂┃教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=高中课堂"
+            }
+        },
+        {
             "key": "南瓜弹幕",
             "name": "🎃南瓜┃蓝光┃弹幕",
             "type": 3,
@@ -706,9 +816,9 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/XYQTVBox/uc.txt",
+                "token": "file://TV/token.txt",
+                "cookie": "file://TV/quark.txt",
+                "uc_cookie": "file://TV/uc.txt",
                 "site": "https://libvio.link"
             }
         },
@@ -761,9 +871,9 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/XYQTVBox/uc.txt",
+                "token": "file://TV/token.txt",
+                "cookie": "file://TV/quark.txt",
+                "uc_cookie": "file://TV/uc.txt",
                 "site": "https://wogg.xxooo.cf",
                 "danmu": true
             }
@@ -778,8 +888,8 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
+                "token": "file://TV/token.txt",
+                "cookie": "file://TV/quark.txt",
                 "site": "https://tv.yydsys.top",
                 "danmu": true
             }
@@ -794,9 +904,9 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/XYQTVBox/uc.txt",
+                "token": "file://TV/token.txt",
+                "cookie": "file://TV/quark.txt",
+                "uc_cookie": "file://TV/uc.txt",
                 "site": "https://4k.4u4.cn",
                 "danmu": true
             }
@@ -811,8 +921,8 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
+                "token": "file://TV/token.txt",
+                "cookie": "file://TV/quark.txt",
                 "danmu": true
             }
         },
@@ -825,7 +935,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "Cloud-drive": "file://TV/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -838,7 +948,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
+                "Cloud-drive": "file://TV/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -862,8 +972,8 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
+                "token": "file://TV/token.txt",
+                "cookie": "file://TV/quark.txt",
                 "danmu": true
             }
         },
@@ -877,7 +987,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
+                "token": "file://TV/token.txt",
                 "danmu": true
             }
         },
@@ -891,7 +1001,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
+                "token": "file://TV/token.txt",
                 "danmu": true
             }
         },
@@ -905,7 +1015,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
+                "token": "file://TV/token.txt",
                 "danmu": true
             }
         },
@@ -919,7 +1029,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
+                "token": "file://TV/token.txt",
                 "danmu": true
             }
         },
@@ -933,7 +1043,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
+                "token": "file://TV/token.txt",
                 "danmu": true,
                 "cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf"
             }
@@ -948,8 +1058,8 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
+                "token": "file://TV/token.txt",
+                "cookie": "file://TV/quark.txt",
                 "danmu": true
             }
         },
@@ -963,7 +1073,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
+                "cookie": "file://TV/quark.txt",
                 "site": "https://www.misou.fun",
                 "danmu": true
             }
@@ -978,7 +1088,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
+                "cookie": "file://TV/quark.txt",
                 "danmu": true
             }
         },
@@ -992,7 +1102,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
+                "token": "file://TV/token.txt",
                 "danmu": true
             }
         },
@@ -1007,7 +1117,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
+                "cookie": "file://TV/quark.txt",
                 "danmu": true
             }
         },
@@ -1022,7 +1132,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
+                "cookie": "file://TV/quark.txt",
                 "danmu": true
             }
         },
@@ -1036,7 +1146,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
+                "cookie": "file://TV/quark.txt",
                 "danmu": true
             }
         },
@@ -1129,7 +1239,7 @@
             "filterable": 0,
             "indexs": 0,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/XYQTVBox/token.txt"
+                "token": "file://TV/token.txt"
             },
             "style": {
                 "type": "list"
@@ -1146,7 +1256,7 @@
             "filterable": 0,
             "indexs": 0,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt"
+                "cookie": "file://TV/quark.txt"
             },
             "style": {
                 "type": "list"
@@ -1163,123 +1273,11 @@
             "filterable": 0,
             "indexs": 0,
             "ext": {
-                "uc_cookie": "http://127.0.0.1:9978/file/XYQTVBox/uc.txt"
+                "uc_cookie": "file://TV/uc.txt"
             },
             "style": {
                 "type": "list"
             }
-        },
-        {
-            "key": "MTV",
-            "name": "🎧明星┃MV┃蓝光",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=mtv"
-        },
-        {
-            "key": "Bili",
-            "name": "🆙哔哩┃合集┃蓝光",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=哔哩合集"
-        },
-        {
-            "key": "Biliych",
-            "name": "🆙哔哩┃歌曲┃蓝光",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=哔哩歌曲"
-        },
-        {
-            "key": "有声小说js",
-            "name": "📚有声┃小说┃娱乐",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/有声小说吧.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "少儿教育",
-            "name": "📚少儿┃学识┃教育",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=少儿教育"
-        },
-        {
-            "key": "小学课堂",
-            "name": "📚小学┃课堂┃教育",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=小学教育"
-        },
-        {
-            "key": "初中课堂",
-            "name": "📚初中┃课堂┃教育",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=初中课堂"
-        },
-        {
-            "key": "高中教育",
-            "name": "📚高中┃课堂┃教育",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=高中课堂"
         },
         {
             "key": "Aid",
@@ -1342,9 +1340,9 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/XYQTVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/XYQTVBox/uc.txt",
+                "token": "file://TV/token.txt",
+                "cookie": "file://TV/quark.txt",
+                "uc_cookie": "file://TV/uc.txt",
                 "danmu": true
             }
         }

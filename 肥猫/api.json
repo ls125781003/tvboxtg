@@ -45,19 +45,28 @@
             "name": "⭐｜追更｜专区",
             "type": 3,
             "api": "./api/9121b57512b75f996d3122a424b04355.js",
-            "ext": "./txt/9d68d4ce43a3ec0cf97ed4633f979e15.txt"
+            "ext": "./txt/b274f252614cde727532dee18088c64e.txt"
         },
         {
             "key": "csp_SuBaiBai",
             "name": "🏳️┃素白┃影视",
             "type": 3,
-            "api": "csp_SuBaiBai"
+            "api": "csp_SuBaiBai",
+            "ext": "http://subaibai.com"
         },
         {
             "key": "csp_Jpyy",
             "name": "🥇️┃金牌┃影视",
             "type": 3,
             "api": "csp_Jpyy"
+        },
+        {
+            "key": "csp_Netfixtv",
+            "name": "💌┃至臻┃影视",
+            "type": 3,
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "ext": "http://mpanso.com"
         },
         {
             "key": "csp_Nkdy",
@@ -70,14 +79,6 @@
             "name": "🛳️┃看客┃影视",
             "type": 3,
             "api": "csp_Kanke"
-        },
-        {
-            "key": "csp_Feifys",
-            "name": "🐒️┃狒狒┃影视",
-            "type": 3,
-            "api": "csp_Feifys",
-            "playerType": 2,
-            "ext": "https://www.ffys.top"
         },
         {
             "key": "csp_Qiyou",
@@ -136,14 +137,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_Netfixtv",
-            "name": "💌┃至臻┃影视",
-            "type": 3,
-            "api": "csp_Duopan",
-            "filterable": 1,
-            "ext": "http://mpanso.com"
         },
         {
             "key": "csp_Panda_玩偶哥哥",
@@ -360,21 +353,21 @@
             "name": "🌖┃米搜┃网盘",
             "type": 3,
             "api": "csp_MiSou",
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/kk.txt"
+            "ext": "file://TV/kk.txt"
         },
         {
             "key": "csp_Pansou",
             "name": "🚢┃盘搜┃网盘",
             "type": 3,
             "api": "csp_Pansou",
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt"
+            "ext": "file://TV/token.txt"
         },
         {
             "key": "csp_PanSearch",
             "name": "🚃┃盘搜┃网盘",
             "type": 3,
             "api": "csp_PanSearch",
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt"
+            "ext": "file://TV/token.txt"
         },
         {
             "key": "drpy_哔哩",
@@ -461,7 +454,7 @@
             "api": "csp_Push",
             "playerType": "1",
             "searchable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt"
+            "ext": "file://TV/token.txt"
         }
     ],
     "parses": [
@@ -517,11 +510,8 @@
         }
     ],
     "lives": [
-        {
-            "name": "live",
-            "type": 0,
-            "url": "",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-        }
+        {"name":"TV直播","type":0,"url":"https://tv.iill.top/m3u/Gather","ua":"okhttp/3.15","playerType":2},
+        {"name":"平台直播","type":0,"url":"https://tv.iill.top/m3u/Live","ua":"okhttp/3.15","playerType":2},
+        {"name":"体育直播","type":0,"url":"https://tv.iill.top/m3u/Sport","ua":"okhttp/3.15","playerType":2}
     ]
 }
