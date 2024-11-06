@@ -3,15 +3,15 @@
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
-            "key": "csp_Douban",
+            "key": "csp_DouDou",
             "name": "🔍豆瓣┃本接口免费-🈲贩卖",
             "type": 3,
-            "api": "csp_Douban",
+            "api": "csp_DouDou",
             "searchable": 0,
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "commonConfig": "http://127.0.0.1:9978/file/XYQTVBox/peizhi.json",
+                "commonConfig": "file://TV/peizhi.json",
                 "filter": "./json/douban.json"
             }
         },
@@ -32,7 +32,7 @@
             "searchable": 0,
             "changeable": 0,
             "ext": {
-                "commonConfig": "http://127.0.0.1:9978/file/XYQTVBox/peizhi.json"
+                "commonConfig": "file://TV/peizhi.json"
             }
         },
         {
@@ -131,15 +131,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_SuBaiBai",
-            "name": "⛅️素白白",
-            "type": 3,
-            "api": "csp_SuBaiBai",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Tvyb",
             "name": "☁️TVB云播",
             "type": 3,
@@ -149,15 +140,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://www.tvyun01.com/"
-        },
-        {
-            "key": "csp_FengGo",
-            "name": "🐶疯狗",
-            "type": 3,
-            "api": "csp_FengGo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "csp_Jiaozi",
@@ -336,7 +318,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "http://127.0.0.1:9978/file/XYQTVBox/peizhi.json",
+                "commonConfig": "file://TV/peizhi.json",
                 "siteUrl": "./json/wogg.json"
             }
         },
@@ -348,7 +330,19 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "http://127.0.0.1:9978/file/XYQTVBox/peizhi.json",
+                "commonConfig": "file://TV/peizhi.json",
+                "siteUrl": "./json/wogg.json"
+            }
+        },
+        {
+            "key": "木偶",
+            "name": "🧸木偶",
+            "type": 3,
+            "api": "csp_kongbai",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "file://TV/peizhi.json",
                 "siteUrl": "./json/wogg.json"
             }
         },
@@ -361,7 +355,7 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "commonConfig": "http://127.0.0.1:9978/file/XYQTVBox/peizhi.json"
+                "commonConfig": "file://TV/peizhi.json"
             }
         },
         {
@@ -374,7 +368,7 @@
             "switchable": 0,
             "ext": {
                 "cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf",
-                "commonConfig": "http://127.0.0.1:9978/file/XYQTVBox/peizhi.json"
+                "commonConfig": "file://TV/peizhi.json"
             }
         },
         {
@@ -385,7 +379,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "http://127.0.0.1:9978/file/XYQTVBox/peizhi.json"
+                "commonConfig": "file://TV/peizhi.json"
             }
         },
         {
@@ -396,7 +390,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "http://127.0.0.1:9978/file/XYQTVBox/peizhi.json"
+                "commonConfig": "file://TV/peizhi.json"
             }
         },
         {
@@ -408,7 +402,7 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "commonConfig": "http://127.0.0.1:9978/file/XYQTVBox/peizhi.json",
+                "commonConfig": "file://TV/peizhi.json",
                 "share": "./json/网盘集合.json"
             }
         },
@@ -429,6 +423,18 @@
             }
         },
         {
+            "key": "Tg | 豆瓣",
+            "name": "🅿Tg|豆瓣（墙外）",
+            "type": 3,
+            "api": "csp_TgYunDouBanPan",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "siteUrl": "file://TV/peizhi.json",
+                "filter": "./json/douban.json"
+            }
+        },
+        {
             "key": "TgYunPan|本地",
             "name": "🅿TgYunPan|本地（墙外）",
             "type": 3,
@@ -438,7 +444,7 @@
             "switchable": 0,
             "ext": {
                 "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-                "commonConfig": "http://127.0.0.1:9978/file/XYQTVBox/peizhi.json"
+                "commonConfig": "file://TV/peizhi.json"
             }
         },
         {
@@ -449,7 +455,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "ext": {
-                "commonConfig": "http://127.0.0.1:9978/file/XYQTVBox/peizhi.json"
+                "commonConfig": "file://TV/peizhi.json"
             }
         },
         {
@@ -752,7 +758,10 @@
             "type": 0,
             "url": "./lives/Yoursmile.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        }
+        },
+        {"name":"TV直播","type":0,"url":"https://tv.iill.top/m3u/Gather","ua":"okhttp/3.15","playerType":2},
+        {"name":"平台直播","type":0,"url":"https://tv.iill.top/m3u/Live","ua":"okhttp/3.15","playerType":2},
+        {"name":"体育直播","type":0,"url":"https://tv.iill.top/m3u/Sport","ua":"okhttp/3.15","playerType":2}
     ],
     "logo": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/NanFeng.gif",
     "rules": [

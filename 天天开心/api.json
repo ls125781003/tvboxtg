@@ -64,6 +64,12 @@
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
         },
         {
+            "name": "⑮梅州线路",
+            "type": 0,
+            "url": "./lives/⑮梅州线路.txt",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+        {
             "name": "⑱欧华线路",
             "type": 0,
             "url": "./lives/⑱欧华线路.txt",
@@ -121,12 +127,6 @@
             "name": "②⑨肥猫线路",
             "type": 0,
             "url": "./lives/②⑨肥猫线路.txt",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
-        },
-        {
-            "name": "③⓪俊于线路",
-            "type": 0,
-            "url": "./lives/③⓪俊于线路.txt",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
         },
         {
@@ -214,6 +214,20 @@
             "changeable": 1,
             "api": "./api/lf_live10_min-output.js",
             "ext": "./json/lf_live.json"
+        },
+        {
+            "key": "alllive",
+            "name": "📽️一直播┃LIVE",
+            "type": 3,
+            "api": "csp_Alllive",
+            "playerType": 2,
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 10
         },
         {
             "key": "好趣网",
@@ -401,6 +415,23 @@
             "timeout": 10
         },
         {
+            "key": "立播弹幕版",
+            "name": "🐰立播┃弹幕",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "token": "file://TV/tok.txt",
+                "cookie": "file://TV/quark.txt",
+                "uc_cookie": "file://TV/uc.txt",
+                "site": "https://libvio.link",
+                "danmu": true
+            },
+            "timeout": 25
+        },
+        {
             "key": "无忧短剧",
             "name": "🌈无忧┃短剧",
             "type": 3,
@@ -425,6 +456,17 @@
                 "ratio": 1.433
             },
             "timeout": 10
+        },
+        {
+            "key": "csp_Nongm",
+            "name": "🕵农民┃APP",
+            "type": 3,
+            "playerType": "2",
+            "api": "csp_Nongm",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.wwgz.cn/"
         },
         {
             "key": "csp_AppRZ",
@@ -1091,16 +1133,6 @@
             "ext": "./js/素白白[优].js"
         },
         {
-            "key": "csp_XYQHiker_农民影视",
-            "name": "🎦农民影视",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/农民影视.json"
-        },
-        {
             "key": "csp_XYQHiker_七新影视",
             "name": "🎦七新影视",
             "type": 3,
@@ -1540,9 +1572,9 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": ".http://127.0.0.1:9978/file/XYQTVBox/tok.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/XYQTVBox/uc.txt",
+                "token": "file://TV/tok.txt",
+                "cookie": "file://TV/quark.txt",
+                "uc_cookie": "file://TV/uc.txt",
                 "site": "https://mogg.top",
                 "danmu": true
             },
@@ -1557,9 +1589,9 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": ".http://127.0.0.1:9978/file/XYQTVBox/tok.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/XYQTVBox/uc.txt",
+                "token": "file://TV/tok.txt",
+                "cookie": "file://TV/quark.txt",
+                "uc_cookie": "file://TV/uc.txt",
                 "wogg": true,
                 "danmu": true
             },
@@ -1574,9 +1606,9 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": ".http://127.0.0.1:9978/file/XYQTVBox/tok.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/XYQTVBox/uc.txt",
+                "token": "file://TV/tok.txt",
+                "cookie": "file://TV/quark.txt",
+                "uc_cookie": "file://TV/uc.txt",
                 "site": "https://mihdr.top",
                 "danmu": true
             },
@@ -1591,9 +1623,9 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": ".http://127.0.0.1:9978/file/XYQTVBox/tok.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/XYQTVBox/uc.txt",
+                "token": "file://TV/tok.txt",
+                "cookie": "file://TV/quark.txt",
+                "uc_cookie": "file://TV/uc.txt",
                 "site": "https://vip.omii.top/",
                 "danmu": true
             },
@@ -1608,9 +1640,9 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": ".http://127.0.0.1:9978/file/XYQTVBox/tok.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/XYQTVBox/uc.txt",
+                "token": "file://TV/tok.txt",
+                "cookie": "file://TV/quark.txt",
+                "uc_cookie": "file://TV/uc.txt",
                 "site": "https://woog.nxog.top/",
                 "danmu": true
             },
@@ -1625,30 +1657,13 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": ".http://127.0.0.1:9978/file/XYQTVBox/tok.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/XYQTVBox/uc.txt",
+                "token": "file://TV/tok.txt",
+                "cookie": "file://TV/quark.txt",
+                "uc_cookie": "file://TV/uc.txt",
                 "site": "http://labipan.com/",
                 "danmu": true
             },
             "timeout": 25
-        },
-        {
-            "key": "立播网盘",
-            "name": "📀立播┃网盘",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": ".http://127.0.0.1:9978/file/XYQTVBox/tok.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/XYQTVBox/uc.txt",
-                "site": "https://libvio.link",
-                "danmu": true
-            },
-            "timeout": 30
         },
         {
             "key": "土豆网盘",
@@ -1659,9 +1674,9 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": ".http://127.0.0.1:9978/file/XYQTVBox/tok.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/XYQTVBox/uc.txt",
+                "token": "file://TV/tok.txt",
+                "cookie": "file://TV/quark.txt",
+                "uc_cookie": "file://TV/uc.txt",
                 "site": "https://yunpan.yunpay.cc/",
                 "danmu": true
             },
@@ -1676,9 +1691,9 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": ".http://127.0.0.1:9978/file/XYQTVBox/tok.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/XYQTVBox/uc.txt",
+                "token": "file://TV/tok.txt",
+                "cookie": "file://TV/quark.txt",
+                "uc_cookie": "file://TV/uc.txt",
                 "site": "https://4k.4u4.cn/",
                 "danmu": true
             },
@@ -1749,7 +1764,7 @@
             "filterable": 0,
             "indexs": 0,
             "ext": {
-                "token": ".http://127.0.0.1:9978/file/XYQTVBox/tok.txt",
+                "token": "file://TV/tok.txt",
                 "share": "./json/阿里集合.json"
             },
             "style": {
@@ -1766,7 +1781,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "token": ".http://127.0.0.1:9978/file/XYQTVBox/tok.txt",
+                "token": "file://TV/tok.txt",
                 "danmu": true
             },
             "timeout": 15
@@ -1780,7 +1795,7 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-                "token": ".http://127.0.0.1:9978/file/XYQTVBox/tok.txt",
+                "token": "file://TV/tok.txt",
                 "danmu": true
             },
             "timeout": 15
@@ -1794,7 +1809,7 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-                "token": ".http://127.0.0.1:9978/file/XYQTVBox/tok.txt",
+                "token": "file://TV/tok.txt",
                 "danmu": true
             },
             "timeout": 15
@@ -1808,7 +1823,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
+                "cookie": "file://TV/quark.txt",
                 "danmu": true
             },
             "timeout": 15
@@ -1822,7 +1837,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
+                "cookie": "file://TV/quark.txt",
                 "danmu": true
             },
             "timeout": 15
@@ -1836,7 +1851,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
+                "cookie": "file://TV/quark.txt",
                 "danmu": true,
                 "site": "https://www.misou.fun"
             },
@@ -1851,7 +1866,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
+                "cookie": "file://TV/quark.txt",
                 "danmu": true
             },
             "timeout": 15
@@ -1865,8 +1880,8 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-                "token": ".http://127.0.0.1:9978/file/XYQTVBox/tok.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
+                "token": "file://TV/tok.txt",
+                "cookie": "file://TV/quark.txt",
                 "danmu": true
             },
             "timeout": 15
@@ -1880,8 +1895,8 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-                "token": ".http://127.0.0.1:9978/file/XYQTVBox/tok.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
+                "token": "file://TV/tok.txt",
+                "cookie": "file://TV/quark.txt",
                 "danmu": true
             },
             "timeout": 15
@@ -1895,9 +1910,9 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-                "token": ".http://127.0.0.1:9978/file/XYQTVBox/tok.txt",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/XYQTVBox/uc.txt",
+                "token": "file://TV/tok.txt",
+                "cookie": "file://TV/quark.txt",
+                "uc_cookie": "file://TV/uc.txt",
                 "danmu": true
             },
             "timeout": 5
@@ -1912,7 +1927,7 @@
             "filterable": 0,
             "indexs": 0,
             "ext": {
-                "token": ".http://127.0.0.1:9978/file/XYQTVBox/tok.txt"
+                "token": "file://TV/tok.txt"
             },
             "style": {
                 "type": "list"
@@ -1929,7 +1944,7 @@
             "filterable": 0,
             "indexs": 0,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/quark.txt"
+                "cookie": "file://TV/quark.txt"
             },
             "style": {
                 "type": "list"
@@ -1946,7 +1961,7 @@
             "filterable": 0,
             "indexs": 0,
             "ext": {
-                "uc_cookie": "http://127.0.0.1:9978/file/XYQTVBox/uc.txt"
+                "uc_cookie": "file://TV/uc.txt"
             },
             "style": {
                 "type": "list"
@@ -1977,7 +1992,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt",
+                "cookie": ".file://TV/bili_cookie.txt",
                 "json": "./json/哔哩戏曲.json"
             },
             "timeout": 20
@@ -1995,7 +2010,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt",
+                "cookie": ".file://TV/bili_cookie.txt",
                 "json": "./json/哔哩相声.json"
             },
             "timeout": 20
@@ -2013,7 +2028,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt",
+                "cookie": ".file://TV/bili_cookie.txt",
                 "json": "./json/哔哩综合.json"
             },
             "timeout": 20
@@ -2031,7 +2046,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt",
+                "cookie": ".file://TV/bili_cookie.txt",
                 "json": "./json/演唱会.json"
             },
             "timeout": 20
@@ -2049,7 +2064,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt",
+                "cookie": ".file://TV/bili_cookie.txt",
                 "json": "./json/女团热舞.json"
             },
             "timeout": 20
@@ -2067,7 +2082,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt"
+                "cookie": ".file://TV/bili_cookie.txt"
             },
             "timeout": 10
         },
@@ -2084,7 +2099,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt",
+                "cookie": ".file://TV/bili_cookie.txt",
                 "json": "./txt/哔哩合集.txt"
             },
             "timeout": 20
@@ -2102,7 +2117,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt",
+                "cookie": ".file://TV/bili_cookie.txt",
                 "json": "./json/学习园地.json"
             },
             "timeout": 20
@@ -2120,7 +2135,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt",
+                "cookie": ".file://TV/bili_cookie.txt",
                 "json": "./json/学外语.json"
             },
             "timeout": 20
