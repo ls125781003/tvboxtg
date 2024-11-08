@@ -454,7 +454,7 @@
             "api": "csp_Push",
             "playerType": "1",
             "searchable": 0,
-            "ext": "file://TV/token.txt"
+            "ext": "file://TV/ken.txt"
         }
     ],
     "parses": [
