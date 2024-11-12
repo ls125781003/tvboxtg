@@ -28,12 +28,6 @@
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
         },
         {
-            "name": "新AKTV港台",
-            "type": 0,
-            "url": "./lives/新AKTV港台.txt",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
-        },
-        {
             "name": "猫TV线路",
             "type": 0,
             "url": "./lives/猫TV线路.txt",
@@ -61,12 +55,6 @@
             "name": "⑬ipv6线路",
             "type": 0,
             "url": "./lives/⑬ipv6线路.txt",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
-        },
-        {
-            "name": "⑮梅州线路",
-            "type": 0,
-            "url": "./lives/⑮梅州线路.txt",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
         },
         {
@@ -146,18 +134,6 @@
             "type": 0,
             "url": "./lives/肥羊虎牙.txt",
             "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "③②备用虎牙",
-            "type": 0,
-            "url": "./lives/③②备用虎牙.txt",
-            "epg": ""
-        },
-        {
-            "name": "③③备用斗鱼",
-            "type": 0,
-            "url": "./lives/③③备用斗鱼.txt",
-            "epg": ""
         },
         {
             "name": "③④16万MV",
@@ -1889,7 +1865,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./js/大全央视.js"
+            "ext": "./js/央视大全.js"
         },
         {
             "key": "bili_戏曲",
