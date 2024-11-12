@@ -103,7 +103,7 @@
             "type": 3,
             "api": "csp_Frong",
             "playerType": 2,
-            "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTZ8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc=",
+            "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTd8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc=",
             "jar": "./jars/天天.jar"
         },
         {
@@ -168,7 +168,7 @@
             "filterable": 1,
             "order_num": 0,
             "changeable": 0,
-            "ext": "./js/ttt.js"
+            "ext": "./js/tm.js"
         },
         {
             "key": "guoguo",

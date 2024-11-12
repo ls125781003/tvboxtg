@@ -151,16 +151,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_YCyz",
-            "name": "☀原创",
-            "type": 3,
-            "api": "csp_YCyz",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_SC1080",
             "name": "⛪圣城",
             "type": 3,
@@ -319,7 +309,8 @@
             "changeable": 0,
             "ext": {
                 "commonConfig": "file://TV/peizhi.json",
-                "siteUrl": "./json/wogg.json"
+                "siteUrl": "https://www.wogg.net/",
+                "filter": "./json/wogg.json"
             }
         },
         {
@@ -331,7 +322,8 @@
             "changeable": 0,
             "ext": {
                 "commonConfig": "file://TV/peizhi.json",
-                "siteUrl": "./json/wogg.json"
+                "siteUrl": "http://labipan.com/",
+                "filter": "./json/wogg.json"
             }
         },
         {
@@ -343,7 +335,8 @@
             "changeable": 0,
             "ext": {
                 "commonConfig": "file://TV/peizhi.json",
-                "siteUrl": "./json/wogg.json"
+                "siteUrl": "http://mogg.xn--yetu07f.top/",
+                "filter": "./json/wogg.json"
             }
         },
         {
@@ -419,7 +412,7 @@
             },
             "ext": {
                 "json": "./json/youtube.json",
-                "cookie": "./json/youtubecookie.json"
+                "cookie": "file://TV/youtubecookie.json"
             }
         },
         {
@@ -430,7 +423,9 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "siteUrl": "file://TV/peizhi.json",
+                "siteUrl": "http://127.0.0.1:9999",
+                "channelUsername": "hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+                "commonConfig": "file://TV/peizhi.json",
                 "filter": "./json/douban.json"
             }
         },

@@ -2,15 +2,19 @@ var rule = {
     title:'央视频',
     host:'https://api.cntv.cn',
     homeUrl: '/lanmu/columnSearch?&fl=&fc=&cid=&p=1&n=500&serviceId=tvcctv&t=json',
+             //lanmu/columnSearch?&fl=&fc=&cid=&p=1&n=20&serviceId=tvcctv&t=jsonp&cb=Callback
     url:'/list/getVideoAlbumList?fyfilter&area=&letter=&n=24&serviceId=tvcctv&t=json',
-    searchUrl:'',
-    searchable:0,
-    quickSearch:0,
-    class_name: '栏目大全&特别节目&纪录片&电视剧&动画片',
-    class_url: '栏目大全&特别节目&纪录片&电视剧&动画片',
+  //  searchUrl:'https://search.cctv.com/search.php?qtext=**&type=video',
+//    https://search.cctv.com/m/if3g_search.php?page=fypage&qtext=**&type=video&sort=SCORE&pageSize=20&channel=
+   searchUrl:'https://search.cctv.com/m/if3g_search.php?page=fypage&qtext=**&type=video&sort=SCORE&pageSize=20&channel=',
+    searchable:1,
+    quickSearch:1,
+    class_name: '4K专区&栏目大全&特别节目&纪录片&电视剧&动画片',
+    class_url: '4K专区&栏目大全&特别节目&纪录片&电视剧&动画片',
     filterable: 1,
     filter_url: 'channel={{fl.channel}}&sc={{fl.sc}}&year={{fl.year}}',
     filter: {
+
 		"纪录片":[
             {"key":"channel","name":"频道","value":[{"n":"全部","v":""},{"n":"CCTV-1综合","v":"CCTV-1综合,CCTV-1高清,CCTV-1综合高清"},{"n":"CCTV-2财经","v":"CCTV-2财经,CCTV-2高清,CCTV-2财经高清"},{"n":"CCTV-3综艺","v":"CCTV-3综艺,CCTV-3高清,CCTV-3综艺高清"},{"n":"CCTV-4中文国际","v":"CCTV-4中文国际,CCTV-4高清,CCTV-4中文国际(亚)高清"},{"n":"CCTV-5体育","v":"CCTV-5体育,CCTV-5高清,CCTV-5体育高清"},{"n":"CCTV-6电影","v":"CCTV-6电影,CCTV-6高清,CCTV-6电影高清"},{"n":"CCTV-7国防军事","v":"CCTV-7国防军事,CCTV-7高清,CCTV-7国防军事高清"},{"n":"CCTV-8电视剧","v":"CCTV-8电视剧,CCTV-8高清,CCTV-8电视剧高清"},{"n":"CCTV-9纪录","v":"CCTV-9纪录,CCTV-9高清,CCTV-9纪录高清"},{"n":"CCTV-10科教","v":"CCTV-10科教,CCTV-10高清,CCTV-10科教高清"},{"n":"CCTV-11戏曲","v":"CCTV-11戏曲,CCTV-11高清,CCTV-11戏曲高清"},{"n":"CCTV-12社会与法","v":"CCTV-12社会与法,CCTV-12高清,CCTV-12社会与法高清"},{"n":"CCTV-13新闻","v":"CCTV-13新闻,CCTV-13高清,CCTV-13新闻高清"},{"n":"CCTV-14少儿","v":"CCTV-14少儿,CCTV-14高清,CCTV-14少儿高清"},{"n":"CCTV-15音乐","v":"CCTV-15音乐,CCTV-15高清,CCTV-15音乐高清"},{"n":"CCTV-17农业农村","v":"CCTV-17农业农村,高清,高清"}]},
             {"key":"sc","name":"类型","value":[{"n":"全部","v":""},{"n":"人文历史","v":"人文历史"},{"n":"人物","v":"人物"},{"n":"军事","v":"军事"},{"n":"探索","v":"探索"},{"n":"社会","v":"社会"},{"n":"时政","v":"时政"},{"n":"经济","v":"经济"},{"n":"科技","v":"科技"}]},
@@ -18,6 +22,7 @@ var rule = {
         ],
 		"特别节目":[
             {"key":"channel","name":"频道","value":[{"n":"全部","v":""},{"n":"CCTV-1综合","v":"CCTV-1综合,CCTV-1高清,CCTV-1综合高清"},{"n":"CCTV-2财经","v":"CCTV-2财经,CCTV-2高清,CCTV-2财经高清"},{"n":"CCTV-3综艺","v":"CCTV-3综艺,CCTV-3高清,CCTV-3综艺高清"},{"n":"CCTV-4中文国际","v":"CCTV-4中文国际,CCTV-4高清,CCTV-4中文国际(亚)高清"},{"n":"CCTV-5体育","v":"CCTV-5体育,CCTV-5高清,CCTV-5体育高清"},{"n":"CCTV-6电影","v":"CCTV-6电影,CCTV-6高清,CCTV-6电影高清"},{"n":"CCTV-7国防军事","v":"CCTV-7国防军事,CCTV-7高清,CCTV-7国防军事高清"},{"n":"CCTV-8电视剧","v":"CCTV-8电视剧,CCTV-8高清,CCTV-8电视剧高清"},{"n":"CCTV-9纪录","v":"CCTV-9纪录,CCTV-9高清,CCTV-9纪录高清"},{"n":"CCTV-10科教","v":"CCTV-10科教,CCTV-10高清,CCTV-10科教高清"},{"n":"CCTV-11戏曲","v":"CCTV-11戏曲,CCTV-11高清,CCTV-11戏曲高清"},{"n":"CCTV-12社会与法","v":"CCTV-12社会与法,CCTV-12高清,CCTV-12社会与法高清"},{"n":"CCTV-13新闻","v":"CCTV-13新闻,CCTV-13高清,CCTV-13新闻高清"},{"n":"CCTV-14少儿","v":"CCTV-14少儿,CCTV-14高清,CCTV-14少儿高清"},{"n":"CCTV-15音乐","v":"CCTV-15音乐,CCTV-15高清,CCTV-15音乐高清"},{"n":"CCTV-17农业农村","v":"CCTV-17农业农村,高清,高清"}]},
+            
             {"key":"sc","name":"类型","value":[{"n":"全部","v":""},{"n":"新闻","v":"新闻"},{"n":"经济","v":"经济"},{"n":"综艺","v":"综艺"},{"n":"体育","v":"体育"},{"n":"军事","v":"军事"},{"n":"影视","v":"影视"},{"n":"科教","v":"科教"},{"n":"戏曲","v":"戏曲"},{"n":"青少","v":"青少"},{"n":"音乐","v":"音乐"},{"n":"社会","v":"社会"},{"n":"公益","v":"公益"},{"n":"其他","v":"其他"}]},
         ],
         "电视剧":[
@@ -26,35 +31,34 @@ var rule = {
         ],
     },
     headers:{
-        'User-Agent':'Mozilla/5.0 (Linux; Android 11; M2012K11AC Build/RKQ1.210614.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36'
+        'User-Agent':'PC_UA'
     },
     timeout:10000,
     play_parse:true,
-    
-    //海阔
-    /*
-    lazy: $js.toString(() => { 
-   input=JSON.parse(request('https://vdn.apps.cntv.cn/api/getHttpVideoInfo.do?pid='+input)).hls_url;
-    id = input.split('/')[9];
-  input = 'https://hls.cntv.myalicdn.com//asp/hls/2000/0303000a/3/default/' + id + '/2000.m3u8';
-  https://dh5.cntv.lxdns.com/asp/h5e/hls/main/0303000a/3/default/c01380637f034cb3bd5d01279b17c4cb/main.m3u8?maxbr=1400&contentid=15120519184043
-  https://dh5.cntv.myalicdn.com/asp//hls/2000/0303000a/3/default/4920eda3fbba4f279ce2aa341efafc02/2000.m3u8
-  https://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/7a37e9c82ae4488bb408456f579a61b2/2000.m3u8?maxbr=2048
-  }),
-  */
-//影视
+
+  
+  
 lazy: $js.toString(() => {
-input=JSON.parse(request('https://vdn.apps.cntv.cn/api/getHttpVideoInfo.do?pid='+input)).hls_url.replaceAll('main','2000')
-.replaceAll('cntv.lxdns','cntv.myalicdn')
-.replaceAll('hls.cntv.','dh5.cntv.').
-replaceAll('n.cn','n.com').replaceAll('myhwcdn','myalicdn').replaceAll('kcdnvip','myalicdn').replaceAll('newcntv.qcloudcdn','cntv.myalicdn').
- replaceAll('asp/hls','asp//hls')
-;
+    let id = input.split("|")[0];
+    let k4 = input.split("|")[1];
+    let fc = input.split("|")[2];
+if (k4 === '7' && fc!== '体育'){
+        input = 'https://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/' + id + '/4000.m3u8';
+    } else {
+        input = 'https://cntv.playdreamer.cn/proxy/asp/hls/2000/0303000a/3/default/' + id + '/2000.m3u8';
+        
+    }
+    
+    
+    
+    
+
+
 }),
 
     limit:6,
     double:false,
-
+/*
     推荐: $js.toString(() => {
         var d = [];
         var list = JSON.parse(request(input)).response.docs;
@@ -79,7 +83,7 @@ replaceAll('n.cn','n.com').replaceAll('myhwcdn','myalicdn').replaceAll('kcdnvip'
         setResult(d);
     }),
 
-    
+    */
     一级: $js.toString(() => {
         var d = [];
         if(MY_CATE==='栏目大全') {
@@ -101,6 +105,27 @@ replaceAll('n.cn','n.com').replaceAll('myhwcdn','myalicdn').replaceAll('kcdnvip'
                 })
             })
         }
+     else   if(MY_CATE==='4K专区') {
+     var list = JSON.parse(request(HOST+'/NewVideo/getLastVideoList4K?serviceId=cctv4k&cid=&p='+MY_PAGE+'&n=500&serviceId=tvcctv&t=json')).data.list;
+            list.forEach(it => {
+                // 一级标题
+                let title1 = it.title;
+                // 一级描述
+                let desc1 = it.sc + ((typeof it.year==='undefined' || it.year==='')?'':('•'+it.year)) + ((typeof it.count==='undefined' || it.count==='')?'':('•共' + it.count + '集'));
+                // 一级图片URL
+                let picUrl1 = it.image;
+                // 一级URL（id 地区 类型 标题 演员 年份 频道 简介 图片 集数）
+                let url1 = it.id + '|' + it.area + '|' + it.sc + '|' + it.title + '|' + it.actors + '|' + it.year + '|' + it.channel + '|' + it.brief + '|' + it.image + '|' + it.count + '|' + '' + '|' + MY_CATE;
+                d.push({
+                    desc : desc1,
+                    title : title1,
+                    pic_url : picUrl1,
+                    url : url1
+                })
+            })
+     
+     }
+    
         else {
             var channelMap = {
                 "特别节目": "CHAL1460955953877151",
@@ -142,18 +167,21 @@ replaceAll('n.cn','n.com').replaceAll('myhwcdn','myalicdn').replaceAll('kcdnvip'
             vod_remarks: info[9]===''?('更新至'+info[10]):('共'+info[9]+'集'),
             vod_director: info[6]==='undefined'?'':info[6],
             vod_actor: info[4]==='undefined'?'':info[4],
-            vod_content: info[7]==='undefined'?'':info[7],
+          vod_content: info[7]==='undefined'?'':info[7],
+
         };
         var modeMap = {
+            "4K专区": "0",
             "特别节目": "0",
             "纪录片": "0",
             "电视剧": "0",
             "动画片": "1",
+            
         };
         var ctid = info[0].replace('https://api.cntv.cn/lanmu/','');
         var link = 'https://api.cntv.cn/NewVideo/getVideoListByAlbumIdNew?id='+ctid+'&serviceId=tvcctv&p=1&n=100&mode='+modeMap[info[11]]+'&pub=1';
         var html = JSON.parse(request(link));
-        var playUrls;
+        var playUrls;     
         if(html.errcode==='1001'){
             var guid = info[0].replace('https://api.cntv.cn/lanmu/','');
             var link1 = 'https://api.cntv.cn/video/videoinfoByGuid?guid='+guid+'&serviceId=tvcctv';
@@ -190,11 +218,12 @@ replaceAll('n.cn','n.com').replaceAll('myhwcdn','myalicdn').replaceAll('kcdnvip'
         playFrom.append('央视频');
         playUrls.forEach(it => {
             playList.append(playUrls.map(function(it) {
-                return it.title + "$" + it.guid
+                return it.title + "$" + it.guid + "|" + it.type + "|" + it.fc
             }).join("#"))
         });
 
         // 最后封装所有线路
+    //    let  vod_content = playUrls;
         let vod_play_from = playFrom.join('$$$');
         let vod_play_url = playList.join('$$$');
         VOD['vod_play_from'] = vod_play_from;
