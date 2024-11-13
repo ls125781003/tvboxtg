@@ -38,7 +38,7 @@
         },
         {
             "key": "豆瓣1",
-            "name": "📢o公告❤更新:11/10❤",
+            "name": "📢o公告❤更新:11/13❤",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 0,
@@ -560,7 +560,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "file://TV/tok.txt",
+                "token": "file://TV/token.txt",
                 "cookie": "file://TV/quark.txt",
                 "uc_cookie": "file://TV/uc.txt",
                 "site": "https://woog.nxog.eu.org",
@@ -576,7 +576,7 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "file://TV/tok.txt",
+                "token": "file://TV/token.txt",
                 "cookie": "file://TV/quark.txt",
                 "uc_cookie": "file://TV/uc.txt",
                 "site": "https://4k.4u4.cn",
@@ -593,7 +593,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "file://TV/tok.txt",
+                "token": "file://TV/token.txt",
                 "cookie": "file://TV/quark.txt",
                 "uc_cookie": "file://TV/uc.txt",
                 "site": "http://mogg.top",
@@ -609,7 +609,7 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "file://TV/tok.txt",
+                "token": "file://TV/token.txt",
                 "cookie": "file://TV/quark.txt",
                 "uc_cookie": "file://TV/uc.txt",
                 "site": "https://yunpan.yunpay.cc",
@@ -625,7 +625,7 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "file://TV/tok.txt",
+                "token": "file://TV/token.txt",
                 "cookie": "file://TV/quark.txt",
                 "uc_cookie": "file://TV/uc.txt",
                 "site": "https://tv.yydsys.top",
@@ -641,7 +641,7 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "file://TV/tok.txt",
+                "token": "file://TV/token.txt",
                 "cookie": "file://TV/quark.txt",
                 "uc_cookie": "file://TV/uc.txt",
                 "site": "http://labipan.com",
@@ -657,7 +657,7 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "file://TV/tok.txt",
+                "token": "file://TV/token.txt",
                 "cookie": "file://TV/quark.txt",
                 "uc_cookie": "file://TV/uc.txt",
                 "site": "https://mihdr.top",
@@ -673,7 +673,7 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "file://TV/tok.txt",
+                "token": "file://TV/token.txt",
                 "cookie": "file://TV/quark.txt",
                 "uc_cookie": "file://TV/uc.txt",
                 "site": "https://vip.omii.top",
@@ -689,7 +689,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "file://TV/tok.txt",
+                "token": "file://TV/token.txt",
                 "danmu": true
             }
         },
@@ -730,7 +730,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "file://TV/tok.txt",
+                "token": "file://TV/token.txt",
                 "danmu": true,
                 "cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf"
             }
@@ -744,7 +744,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "token": "file://TV/tok.txt",
+                "token": "file://TV/token.txt",
                 "danmu": true
             }
         },
@@ -757,7 +757,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "token": "file://TV/tok.txt"
+                "token": "file://TV/token.txt"
             },
             "style": {
                 "type": "list"
@@ -772,7 +772,7 @@
             "changeable": 0,
             "filterable": 0,
             "ext": {
-                "token": "file://TV/tok.txt",
+                "token": "file://TV/token.txt",
                 "share": "./json/alishare.json"
             },
             "style": {
@@ -1308,8 +1308,8 @@
             "filterable": 0,
             "changeable": 0,
             "jar": "./jars/csp_woog.jar",
-            "ext\"": {
-                "token": "file://TV/tok.txt",
+            "ext": {
+                "token": "file://TV/token.txt",
                 "cookie": "file://TV/quark.txt",
                 "uc_cookie": "file://TV/uc.txt"
             }
@@ -1339,11 +1339,6 @@
             "searchable": 0
         }
     ],
-    "lives": [
-        {"name":"TV直播","type":0,"url":"https://tv.iill.top/m3u/Gather","ua":"okhttp/3.15","playerType":2},
-        {"name":"平台直播","type":0,"url":"https://tv.iill.top/m3u/Live","ua":"okhttp/3.15","playerType":2},
-        {"name":"体育直播","type":0,"url":"https://tv.iill.top/m3u/Sport","ua":"okhttp/3.15","playerType":2}
-    ],
     "parses": [
         {
             "name": "-聚合-",
@@ -1351,7 +1346,7 @@
             "url": "Demo"
         },
         {
-            "name": "解析",
+            "name": "欧歌解析",
             "type": "1",
             "url": "https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=0&url=",
             "ext": {

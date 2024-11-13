@@ -715,7 +715,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "./json/qie.json"
+            "ext": "\"./json/qie.json\""
         },
         {
             "key": "Wexmiso",
