@@ -817,23 +817,14 @@
     ],
     "lives": [
         {
-            "name": "live-2",
+            "name": "范明明",
             "type": 0,
-            "url": "./lives/live-2.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "live-3",
-            "type": 0,
-            "url": "./lives/live-3.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "fanmingming",
-            "type": 0,
-            "url": "./lives/fanmingming.txt",
+            "url": "./lives/范明明.txt",
             "epg": ""
-        }
+        },
+        {"name":"TV直播","type":0,"url":"https://tv.iill.top/m3u/Gather","ua":"okhttp/3.15","playerType":2},
+        {"name":"平台直播","type":0,"url":"https://tv.iill.top/m3u/Live","ua":"okhttp/3.15","playerType":2},
+        {"name":"体育直播","type":0,"url":"https://tv.iill.top/m3u/Sport","ua":"okhttp/3.15","playerType":2}
     ],
     "ijk": [
         {
