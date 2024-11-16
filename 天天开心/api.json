@@ -34,6 +34,12 @@
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
         },
         {
+            "name": "抖音、斗鱼、B站、YY、Afreeca、Youtube",
+            "type": 0,
+            "url": "./lives/抖音、斗鱼、B站、YY、Afreeca、Youtube.txt",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+        {
             "name": "猫TV线路",
             "type": 0,
             "url": "./lives/猫TV线路.txt",
@@ -1691,7 +1697,7 @@
             "indexs": 0,
             "ext": {
                 "token": "file://TV/tok.txt",
-                "share": "file://TV/阿里集合.json"
+                "share": "./json/阿里集合.json"
             },
             "style": {
                 "type": "list"

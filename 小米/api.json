@@ -5,7 +5,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🌈豆瓣┃防失联：QQ群：665981772  公众号：叨观荐影 ",
+            "name": "🌈豆瓣┃防失联：QQ群：665981772   接口被屏蔽 加群防止失联 ",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -37,7 +37,7 @@
         },
         {
             "key": "csp_zhizhen",
-            "name": "🌹至臻┃4K4K",
+            "name": "🌹米QK┃4K4K",
             "type": 3,
             "api": "csp_Duopan",
             "changeable": 0,
@@ -45,10 +45,17 @@
             "ext": {
                 "site_urls": [
                     "http://mucpan.cc",
-                    "https://mpanso.com",
                     "http://mihdr.top"
                 ]
             }
+        },
+        {
+            "key": "csp_xiaomi",
+            "name": "🌹米UC┃4K4K",
+            "type": 3,
+            "api": "csp_Duopan",
+            "changeable": 0,
+            "ext": "http://www.mucpan.cc"
         },
         {
             "key": "米搜",
@@ -61,7 +68,7 @@
             "key": "88看球",
             "name": "🏀看球┃直播",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "./api/drpy2.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -104,12 +111,12 @@
             "type": 3,
             "api": "csp_Frong",
             "playerType": 2,
-            "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTd8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc=",
+            "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjgxMzN8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc=",
             "jar": "./jars/天天.jar"
         },
         {
             "key": "csp_LiteApple",
-            "name": "🍎苹果┃1080P",
+            "name": "🍎苹果┃无光",
             "type": 3,
             "searchable": 1,
             "changeable": 1,
@@ -120,7 +127,7 @@
         },
         {
             "key": "csp_JPYY",
-            "name": "🥇文采┃1080P",
+            "name": "🥇文采┃无广",
             "type": 3,
             "searchable": 1,
             "changeable": 1,
@@ -151,7 +158,7 @@
             "key": "xiongmao2",
             "name": "🐼猫咪┃1080P",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "./api/drpy2.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -163,7 +170,7 @@
             "key": "hipy_js_腾云驾雾[官]",
             "name": "🌞腾腾┃解析",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "./api/drpy2.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -175,7 +182,7 @@
             "key": "guoguo",
             "name": "🌞果果┃解析",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "./api/drpy2.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
