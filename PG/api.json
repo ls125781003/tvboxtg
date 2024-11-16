@@ -157,7 +157,7 @@
 				"cookie":""
 			}
 		},
-		{"key":"TGYunPanLocal","name":"TG频道搜索","type":3,"api":"csp_TGYunPanLocal","timeout":120, 
+		{"key":"TGYunPanLocal","name":"TG频道搜索","type":3,"api":"csp_TGYunPanLocal","timeout":120,
 			"ext":{
 				"token":"./lib/tokenm.json",
 				"json":"./lib/tgsearch.json",
