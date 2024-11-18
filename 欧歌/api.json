@@ -8,18 +8,6 @@
             "type": 0,
             "url": "./lives/o.txt",
             "epg": ""
-        },
-        {
-            "name": "o2",
-            "type": 0,
-            "url": "./lives/o2.txt",
-            "epg": ""
-        },
-        {
-            "name": "o3",
-            "type": 0,
-            "url": "./lives/o3.txt",
-            "epg": ""
         }
     ],
     "sites": [
