@@ -45,8 +45,7 @@
             "ext": {
                 "site_urls": [
                     "http://mucpan.cc",
-                    "http://mihdr.top",
-                    "https://xiaomiai.site"
+                    "http://mihdr.top"
                 ]
             }
         },
@@ -103,7 +102,7 @@
             "type": 3,
             "api": "csp_Xdai",
             "playerType": 2,
-            "ext": "caHR0cDovLzE1NC4zNy4yMjAuMTc6NjYyMnw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM=",
+            "ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==",
             "jar": "./jars/天天.jar"
         },
         {
@@ -175,6 +174,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "playerType": 2,
             "order_num": 0,
             "changeable": 0,
             "ext": "./js/tm.js"
