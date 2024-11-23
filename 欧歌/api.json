@@ -20,7 +20,7 @@
         },
         {
             "key": "豆瓣1",
-            "name": "📢o公告❤更新:11/16❤",
+            "name": "📢o公告❤更新:11/21❤",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 0,
@@ -38,7 +38,7 @@
             "jar": "./jars/csp_woog.jar",
             "ext": {
                 "site_urls": [
-                    "https://og.nxog.eu.org",
+                    "https://woog.nxog.eu.org",
                     "https://wog.nxog.eu.org"
                 ]
             }
@@ -545,23 +545,7 @@
                 "token": "file://TV/token.txt",
                 "cookie": "file://TV/quark.txt",
                 "uc_cookie": "file://TV/uc.txt",
-                "site": "https://woog.nxog.eu.org",
-                "danmu": true
-            }
-        },
-        {
-            "key": "玩弹幕2",
-            "name": "❤玩表┃弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
-                "uc_cookie": "file://TV/uc.txt",
-                "site": "https://4k.4u4.cn",
+                "site": "https://wogg.nxog.eu.org",
                 "danmu": true
             }
         },
@@ -578,28 +562,12 @@
                 "token": "file://TV/token.txt",
                 "cookie": "file://TV/quark.txt",
                 "uc_cookie": "file://TV/uc.txt",
-                "site": "http://mogg.top",
+                "site": "http://mogg.小胡.top",
                 "danmu": true
             }
         },
         {
-            "key": "夸克玩弹幕3",
-            "name": "❤玩歌┃弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
-                "uc_cookie": "file://TV/uc.txt",
-                "site": "https://yunpan.yunpay.cc",
-                "danmu": true
-            }
-        },
-        {
-            "key": "夸克玩弹幕4",
+            "key": "夸克玩弹幕2",
             "name": "❤玩姐┃弹幕",
             "type": 3,
             "api": "csp_Wobg",
@@ -615,7 +583,7 @@
             }
         },
         {
-            "key": "夸克玩弹幕5",
+            "key": "夸克玩弹幕3",
             "name": "❤玩妹┃弹幕",
             "type": 3,
             "api": "csp_Wobg",
@@ -631,7 +599,7 @@
             }
         },
         {
-            "key": "夸克玩弹幕6",
+            "key": "夸克玩弹幕4",
             "name": "❤玩弟┃弹幕",
             "type": 3,
             "api": "csp_Wobg",
@@ -643,22 +611,6 @@
                 "cookie": "file://TV/quark.txt",
                 "uc_cookie": "file://TV/uc.txt",
                 "site": "https://mihdr.top",
-                "danmu": true
-            }
-        },
-        {
-            "key": "夸克玩弹幕7",
-            "name": "❤玩欧┃弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
-                "uc_cookie": "file://TV/uc.txt",
-                "site": "https://vip.omii.top",
                 "danmu": true
             }
         },
@@ -686,20 +638,6 @@
             "ext": {
                 "cookie": "file://TV/quark.txt",
                 "site": "https://www.misou.fun",
-                "danmu": true
-            }
-        },
-        {
-            "key": "夸克团长弹幕",
-            "name": "❤团长｜弹幕",
-            "type": 3,
-            "api": "csp_Tzfile",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
                 "danmu": true
             }
         },
@@ -755,7 +693,7 @@
             "filterable": 0,
             "ext": {
                 "token": "file://TV/token.txt",
-                "share": "file://TV/alishare.json"
+                "share": "./json/alishare.json"
             },
             "style": {
                 "type": "list"
@@ -1328,7 +1266,7 @@
             "url": "Demo"
         },
         {
-            "name": "解析",
+            "name": "欧歌解析",
             "type": "1",
             "url": "https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=0&url=",
             "ext": {
@@ -1338,27 +1276,27 @@
             }
         },
         {
-            "name": "1",
+            "name": "-关注-",
             "type": 1,
             "url": "https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=1&url="
         },
         {
-            "name": "2",
+            "name": "-欧歌-",
             "type": 1,
             "url": "https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=2&url="
         },
         {
-            "name": "3",
+            "name": "-公众号-",
             "type": 1,
             "url": "https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=3&url="
         },
         {
-            "name": "4",
+            "name": "欧歌APP",
             "type": 1,
             "url": "https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=8&url="
         },
         {
-            "name": "5",
+            "name": "线路1",
             "type": 0,
             "url": "https://www.8090g.cn/?url=",
             "ext": {
@@ -1368,7 +1306,7 @@
             }
         },
         {
-            "name": "6",
+            "name": "线路2",
             "type": 0,
             "url": "https://bd.jx.cn/?url=",
             "ext": {
@@ -1378,7 +1316,7 @@
             }
         },
         {
-            "name": "7",
+            "name": "线路3",
             "type": 0,
             "url": "https://jx.yparse.com/index.php?url=",
             "ext": {
@@ -1388,7 +1326,7 @@
             }
         },
         {
-            "name": "8",
+            "name": "线路4",
             "type": 0,
             "url": "https://jx.m3u8.tv/jiexi/?url=",
             "ext": {
@@ -1399,17 +1337,17 @@
             }
         },
         {
-            "name": "9",
+            "name": "线路5",
             "type": 0,
             "url": "https://cdn.zyc888.top/?url="
         },
         {
-            "name": "10",
+            "name": "线路6",
             "type": 0,
             "url": "https://jx.yangtu.top?url="
         },
         {
-            "name": "11",
+            "name": "线路7",
             "type": 0,
             "url": "https://player.mrgaocloud.com/player/?url="
         }

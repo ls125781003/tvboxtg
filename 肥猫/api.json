@@ -42,6 +42,21 @@
             }
         },
         {
+            "key": "csp_FeiMaoUC",
+            "name": "🐼┃肥猫┃UC",
+            "type": 3,
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "http://www.mucpan.cc",
+                    "http://ucmi.fun",
+                    "http://www.ucmi.fun"
+                ],
+                "url_key": "FeiMaoUC"
+            }
+        },
+        {
             "key": "csp_SuBaiBai",
             "name": "🏳️┃素白┃影视",
             "type": 3,
@@ -86,21 +101,6 @@
                     "chunksize": 450,
                     "threads": 10
                 }
-            }
-        },
-        {
-            "key": "csp_FeiMaoUC",
-            "name": "🐼┃肥猫┃UC",
-            "type": 3,
-            "api": "csp_Duopan",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "http://www.mucpan.cc",
-                    "http://ucmi.fun",
-                    "http://www.ucmi.fun"
-                ],
-                "url_key": "FeiMaoUC"
             }
         },
         {

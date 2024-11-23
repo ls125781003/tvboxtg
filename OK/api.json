@@ -359,7 +359,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "./api/drpy2.min.txt?file=drpy2.min.js",
-            "ext": "\"./txt/ddys.txt\"",
+            "ext": "./txt/ddys.txt",
             "timeout": 15
         },
         {

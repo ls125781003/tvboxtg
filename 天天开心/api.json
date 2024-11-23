@@ -4,27 +4,27 @@
     "logo": "http://php.540734621.xyz/logo/logo.php",
     "lives": [
         {
-            "name": "①live",
+            "name": "①live(EXO)",
             "type": 0,
-            "url": "./lives/①live.txt",
+            "url": "./lives/①live(EXO).txt",
             "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
         },
         {
-            "name": "②Live(EXO)",
+            "name": "②Live(IJK)",
             "type": 0,
-            "url": "./lives/②Live(EXO).txt",
+            "url": "./lives/②Live(IJK).txt",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
         },
         {
-            "name": "③猫TV线路",
+            "name": "③猫TV线路(EXO)",
             "type": 0,
-            "url": "./lives/③猫TV线路.txt",
+            "url": "./lives/③猫TV线路(EXO).txt",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
         },
         {
-            "name": "④猫TV线路(EXO)",
+            "name": "④猫TV线路(IJK)",
             "type": 0,
-            "url": "./lives/④猫TV线路(EXO).txt",
+            "url": "./lives/④猫TV线路(IJK).txt",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
         },
         {
@@ -505,6 +505,17 @@
             "filterable": 1,
             "order_num": 0,
             "ext": "./js/宝片视频.js"
+        },
+        {
+            "key": "影探4K",
+            "name": "👨‍🍳‍影探4K(drpy_t3)",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./js/影探4K.js"
         },
         {
             "key": "4K-AV_js",
@@ -1411,7 +1422,7 @@
                 "token": "file://TV/tok.txt",
                 "cookie": "file://TV/quark.txt",
                 "uc_cookie": "file://TV/uc.txt",
-                "site": "https://mogg.top",
+                "site": "http://www.mogg.top/",
                 "danmu": true
             },
             "timeout": 25
@@ -2232,44 +2243,9 @@
     ],
     "parses": [
         {
-            "name": "聚合1",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "聚合0",
-            "type": 3,
-            "url": "Web"
-        },
-        {
-            "name": "虾米1",
-            "type": 0,
-            "url": "https://150.138.78.37:4399/api/?key=94b07e0b2c0e8244&url="
-        },
-        {
-            "name": "-777-",
-            "type": 0,
-            "url": "https://jx.777jiexi.com/player/?url="
-        },
-        {
             "name": "-8090g-",
             "type": 0,
             "url": "https://www.8090g.cn/jiexi/?url="
-        },
-        {
-            "name": "-ik9-",
-            "type": 0,
-            "url": "https://yparse.ik9.cc/index.php?url="
-        },
-        {
-            "name": "-杰森-",
-            "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url="
-        },
-        {
-            "name": "-阳途-",
-            "type": 0,
-            "url": "https://jx.yangtu.top/?url="
         },
         {
             "name": "-冰豆-",
@@ -2280,21 +2256,6 @@
             "name": "-m3u8TV-",
             "type": 0,
             "url": "https://jx.m3u8.tv/jiexi/?url="
-        },
-        {
-            "name": "-听乐-",
-            "type": 0,
-            "url": "https://jx.dj6u.com/?url="
-        },
-        {
-            "name": "-云析-",
-            "type": 0,
-            "url": "https://jx.yparse.com/index.php?url="
-        },
-        {
-            "name": "-红狐-",
-            "type": 0,
-            "url": "https://player.mrgaocloud.com/player/?url="
         }
     ],
     "doh": [

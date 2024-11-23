@@ -281,8 +281,19 @@
             "changeable": 0,
             "ext": {
                 "commonConfig": "file://TV/peizhi.json",
-                "siteUrl": "https://www.wogg.net/",
-                "filter": "./json/wogg.json"
+                "siteUrl": "./json/wogg.json"
+            }
+        },
+        {
+            "key": "多多",
+            "name": "🌟多多影音",
+            "type": 3,
+            "api": "csp_kongbai",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "file://TV/peizhi.json",
+                "siteUrl": "./json/wogg.json"
             }
         },
         {
@@ -294,8 +305,19 @@
             "changeable": 0,
             "ext": {
                 "commonConfig": "file://TV/peizhi.json",
-                "siteUrl": "https://duopan.fun",
-                "filter": "./json/wogg.json"
+                "siteUrl": "./json/wogg.json"
+            }
+        },
+        {
+            "key": "至臻",
+            "name": "💌至臻",
+            "type": 3,
+            "api": "csp_kongbai",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "file://TV/peizhi.json",
+                "siteUrl": "./json/wogg.json"
             }
         },
         {
@@ -307,8 +329,7 @@
             "changeable": 0,
             "ext": {
                 "commonConfig": "file://TV/peizhi.json",
-                "siteUrl": "http://mogg.xn--yetu07f.top/",
-                "filter": "./json/wogg.json"
+                "siteUrl": "./json/wogg.json"
             }
         },
         {
@@ -384,7 +405,7 @@
             },
             "ext": {
                 "json": "./json/youtube.json",
-                "cookie": "./json/youtubecookie.json"
+                "cookie": "file://TV/youtubecookie.json"
             }
         },
         {
@@ -395,9 +416,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "siteUrl": "http://127.0.0.1:9999",
-                "channelUsername": "hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-                "commonConfig": "file://TV/peizhi.json",
+                "siteUrl": "file://TV/peizhi.json",
                 "filter": "./json/douban.json"
             }
         },
