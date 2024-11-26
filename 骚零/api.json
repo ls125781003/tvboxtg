@@ -7,6 +7,12 @@
             "type": 0,
             "url": "./lives/tvlive.txt",
             "epg": ""
+        },
+        {
+            "name": "TV",
+            "type": 0,
+            "url": "./lives/TV.txt",
+            "epg": ""
         }
     ],
     "sites": [
