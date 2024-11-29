@@ -1,6 +1,7 @@
 {
     "spider": "./spider.jar",
-    "wallpaper": "https://深色壁纸.xxooo.cf/",
+    "wallpaper": "http://127.0.0.1:9978/file/TVBox/wallpaper.jpg",
+    "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "sites": [
         {
             "key": "豆瓣",
@@ -449,6 +450,15 @@
             "jar": "./wex.jar"
         },
         {
+            "key": "Emby",
+            "name": "Emby｜4K",
+            "type": 3,
+            "api": "csp_Wexemby",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "./wex.jar"
+        },
+        {
             "key": "无忧短剧",
             "name": "无忧｜短剧",
             "type": 3,
@@ -644,7 +654,7 @@
             "name": "采集｜合集",
             "type": 3,
             "api": "./JS/drpy2.min.js",
-            "ext": "./JS/采集之王.js?type=url&params=../JSON/采集静态.json$1"
+            "ext": "./JS/采集之王.js?type=url&params=../JSON/采集静态.json$1$1"
         },
         {
             "key": "厂长资源",
@@ -714,7 +724,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://888.qkw2.cc"
+            "ext": "https://www.91qkw.com"
         },
         {
             "key": "看客影视",
@@ -770,7 +780,8 @@
             "api": "csp_Qiyou",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "http://www.dyxz2.com/"
         },
         {
             "key": "骚火影视",
@@ -780,6 +791,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "可可影视",
+            "name": "可可｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XBPQ/可可影视.json"
         },
         {
             "key": "金牌影视",
@@ -833,7 +854,8 @@
             "api": "csp_Subaibai",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "http://subaibai.com"
         },
         {
             "key": "小苹果",
@@ -1703,8 +1725,8 @@
             "key": "短剧合集",
             "name": "短剧｜合集",
             "type": 3,
-            "api": "./js/quark.min.js",
-            "ext": "./js/短剧合集.js",
+            "api": "./JS/quark.min.js",
+            "ext": "./JS/短剧合集.js",
             "style": {
                 "type": "list"
             }
