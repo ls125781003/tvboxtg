@@ -817,40 +817,10 @@
     ],
     "lives": [
         {
-            "name": "电视Live",
-            "type": 0,
-            "url": "./lives/电视Live.txt",
-            "epg": ""
-        },
-        {
-            "name": "网络Live",
-            "type": 0,
-            "url": "./lives/网络Live.txt",
-            "epg": ""
-        },
-        {
-            "name": "体育Live",
-            "type": 0,
-            "url": "./lives/体育Live.txt",
-            "epg": ""
-        },
-        {
-            "name": "MyTV",
-            "type": 0,
-            "url": "./lives/MyTV.txt",
-            "epg": ""
-        },
-        {
             "name": "范明明",
             "type": 0,
             "url": "./lives/范明明.txt",
             "epg": ""
-        },
-        {
-            "name": "gat",
-            "type": 0,
-            "url": "./lives/gat.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
     ],
     "ijk": [
