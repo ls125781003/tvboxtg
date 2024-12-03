@@ -277,28 +277,6 @@
 			"ext": "./drpy_js/爱看机器人[虫].js"
 		},
 		{
-			"key": "hipy_js_南瓜影视[优]",
-			"name": "南瓜影视[优](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/南瓜影视.js"
-		},
-		{
-			"key": "hipy_js_素白白[优]",
-			"name": "素白白[优](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/素白白.js"
-		},
-		{
 			"key": "hipy_js_一起看[优]",
 			"name": "一起看[优](drpy_t3)",
 			"type": 3,
