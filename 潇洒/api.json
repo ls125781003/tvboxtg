@@ -484,6 +484,15 @@
             "jar": "./wex.jar"
         },
         {
+            "key": "盘他",
+            "name": "盘他｜4K‍",
+            "type": 3,
+            "api": "csp_WexYDpanta",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "./wex.jar"
+        },
+        {
             "key": "Emby",
             "name": "Emby｜4K",
             "type": 3,
@@ -682,7 +691,7 @@
             "name": "采集｜合集",
             "type": 3,
             "api": "./JS/drpy2.min.js",
-            "ext": "./JS/采集之王.js?type=url&params=../JSON/采集静态.json$1"
+            "ext": "./JS/采集之王.js?type=url&params=../JSON/采集静态.json$1$1"
         },
         {
             "key": "厂长资源",
