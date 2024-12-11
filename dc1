@@ -1,6 +1,10 @@
 {
 	"urls": [
         {
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+>>>>>>> Stashed changes
             "url": "https://ghp.ci/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/饭太硬/api.json",
             "name": "饭太硬"
         },
@@ -70,6 +74,80 @@
         },
         {
         	"url": "https://ghp.ci/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/少儿频道/api.json",
+<<<<<<< Updated upstream
+=======
+=======
+            "url": "https://gitdl.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/饭太硬/api.json",
+            "name": "饭太硬"
+        },
+        {
+            "url": "https://gitdl.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/小米/api.json",
+            "name": "小米"
+        },
+        {
+            "url": "https://gitdl.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/肥猫/api.json",
+            "name": "肥猫"
+        },
+        {
+            "url": "https://gitdl.cn/https://raw.githubusercontent.com/ls125781003/xyqonlinerule/main/XYQTVBox.json",
+            "name": "香雅情[原]"
+        },
+        {
+            "url": "https://gitdl.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/drpy_t3/api.json",
+            "name": "drpy_t3精选"
+        },
+        {
+            "url": "https://gitdl.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/南风/api.json",
+            "name": "南风"
+        },
+        {
+            "url": "https://gitdl.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/OK/api.json",
+            "name": "OK"
+        },
+        {
+            "url": "https://gitdl.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/PG/api.json",
+            "name": "PG"
+        },
+        {
+            "url": "https://gitdl.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/摸鱼儿/api.json",
+            "name": "摸鱼儿"
+        },
+        {
+            "url": "https://gitdl.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/短剧频道/api.json",
+            "name": "短剧频道"
+        },
+        {
+            "url": "https://gitdl.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/欧歌/api.json",
+            "name": "欧歌"
+        },
+        {
+            "url": "https://gitdl.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/骚零/api.json",
+            "name": "骚零"
+        },
+        {
+            "url": "https://gitdl.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/天天开心/api.json",
+            "name": "天天开心"
+        },
+        {
+        	"url": "https://gitdl.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/王二小/api.json",
+            "name": "王二小"
+        },
+        {
+            "url": "https://gitdl.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/香雅情/api.json",
+            "name": "香雅情"
+        },
+        {
+            "url": "https://gitdl.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/api.json",
+            "name": "潇洒"
+        },
+        {
+            "url": "https://gitdl.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/戏曲音乐/api.json",
+            "name": "戏曲音乐"
+        },
+        {
+        	"url": "https://gitdl.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/少儿频道/api.json",
+>>>>>>> 868fce8a6dc55ae31bcf7c4230b70cbb58e63835
+>>>>>>> Stashed changes
             "name": "少儿频道"
         }
     ]
