@@ -25,10 +25,6 @@
             "name": "南风" 
         },
         { 
-            "url": "https://ghp.ci/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/OK/api.json", 
-            "name": "OK" 
-        },
-        { 
             "url": "https://ghp.ci/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/PG/api.json", 
             "name": "PG" 
         },

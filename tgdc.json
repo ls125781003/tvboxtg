@@ -21,10 +21,6 @@
             "name": "南风"
         },
         {
-            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/OK/api.json",
-            "name": "OK"
-        },
-        {
             "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/PG/api.json",
             "name": "PG"
         },

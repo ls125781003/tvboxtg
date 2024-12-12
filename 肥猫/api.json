@@ -56,6 +56,21 @@
             }
         },
         {
+            "key": "csp_Bili",
+            "name": "🅱┃️哔哩┃合集",
+            "type": 3,
+            "api": "csp_Bili",
+            "playerType": 2,
+            "ext": {
+                "json": "./json/bili.json",
+                "cookie": "file://TV/bilibili.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.333
+            }
+        },
+        {
             "key": "csp_SuBaiBai",
             "name": "🏳️┃素白┃影视",
             "type": 3,
@@ -110,9 +125,9 @@
                     "https://xiaomiai.site"
                 ],
                 "url_key": "Netfixtv2",
-                "token": "",
-                "ucCookie": "",
-                "quarkCookie": "",
+                "token": "file://TV/token.txt",
+                "ucCookie": "file://TV/uc.txt",
+                "quarkCookie": "file://TV/kk.txt",
                 "threadinfo": {
                     "chunksize": 450,
                     "threads": 10
@@ -403,14 +418,6 @@
             "type": 3,
             "api": "csp_PanSearch",
             "ext": "file://TV/token.txt"
-        },
-        {
-            "key": "drpy_哔哩",
-            "name": "🅱┃哔哩┃合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "playerType": 1,
-            "ext": "./json/bilibili.json"
         },
         {
             "key": "儿童",
