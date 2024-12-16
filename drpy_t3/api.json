@@ -299,6 +299,16 @@
 			"ext": "./drpy_js/老白故事[box].js"
 		},
 		{
+            "key": "Dyls",
+            "name": "采集DYLS|JAR",
+            "type": 3,
+            "api": "csp_Dyls",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "jar": "./jar/custom_spider.jar"
+        },
+		{
 			"key": "push_agent",
 			"name": "推送",
 			"type": 3,
