@@ -153,39 +153,6 @@
 			"ext": "./drpy_js/好趣网[播].js"
 		},
 		{
-			"key": "hipy_js_可可影视[优]",
-			"name": "可可影视[优](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/可可影视[优].js"
-		},
-		{
-			"key": "hipy_js_网飞猫[优]",
-			"name": "网飞猫[优](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/网飞猫[优].js"
-		},
-		{
-			"key": "hipy_js_剧圈圈",
-			"name": "剧圈圈(drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/剧圈圈.js"
-		},
-		{
 			"key": "hipy_js_爱看机器人[虫]",
 			"name": "爱看机器人[虫](drpy_t3)",
 			"type": 3,
