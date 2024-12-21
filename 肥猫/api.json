@@ -127,7 +127,7 @@
                 "url_key": "Netfixtv2",
                 "token": "file://TV/token.txt",
                 "ucCookie": "file://TV/uc.txt",
-                "quarkCookie": "file://TV/kk.txt",
+                "quarkCookie": "file://TV/quark.txt",
                 "threadinfo": {
                     "chunksize": 450,
                     "threads": 10
@@ -410,7 +410,7 @@
             "name": "🌖┃米搜┃网盘",
             "type": 3,
             "api": "csp_MiSou",
-            "ext": "file://TV/kk.txt"
+            "ext": "file://TV/quark.txt"
         },
         {
             "key": "csp_PanSearch",
