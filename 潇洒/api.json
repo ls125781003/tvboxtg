@@ -457,6 +457,23 @@
             }
         },
         {
+            "key": "夸克奥秘弹幕",
+            "name": "奥秘｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wobg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "token": "file://TV/token.txt",
+                "cookie": "file://TV/quark.txt",
+                "uc_cookie": "file://TV/uc.txt",
+                "site": "https://vip.omii.top",
+                "danmu": true
+            }
+        },
+        {
             "key": "115",
             "name": "115｜4K",
             "type": 3,
@@ -565,6 +582,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "新视觉影视",
+            "name": "新视觉｜APP",
+            "type": 3,
+            "api": "./PY/新视觉.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "酷影视",
@@ -678,7 +706,7 @@
             "name": "采集｜合集",
             "type": 3,
             "api": "./JS/drpy2.min.js",
-            "ext": "./JS/采集之王.js?type=url&params=../JSON/采集静态.json$1"
+            "ext": "./JS/采集之王.js?type=url&params=../JSON/采集静态.json$1$1"
         },
         {
             "key": "厂长资源",
@@ -1820,7 +1848,7 @@
         {
             "name": "皮皮虾",
             "type": "1",
-            "url": "http://103.117.123.141:5423/index.php?url=",
+            "url": "http://45.207.215.101:5423/index.php?url=",
             "ext": {
                 "flag": [
                     "PPXLG",
@@ -2072,6 +2100,46 @@
             "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
             "playerType": 2,
             "timeout": 10
+        },
+        {
+            "name": "肥羊国内直播",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "tv.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "肥羊虎牙一起看",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "huyayqk.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "肥羊B站直播",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "bililive.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "肥羊斗鱼一起看",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "douyuyqk.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "肥羊YY轮播",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "yylunbo.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
         }
     ],
     "flags": [
