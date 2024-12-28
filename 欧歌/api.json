@@ -20,7 +20,7 @@
         },
         {
             "key": "豆瓣1",
-            "name": "📢o公告❤更新:12/18❤",
+            "name": "📢o公告❤更新:12/26❤",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 0,
@@ -39,9 +39,8 @@
             "ext": {
                 "site_urls": [
                     "https://woog.nxog.eu.org",
-                    "https://ogog.nxog.eu.org",
-                    "http://woog.nxog.asia",
-                    "http://1.woog.xn--dkw.xn--6qq986b3xl"
+                    "https://woog.xn--dkw0c.news",
+                    "http://woog.nxog.asia"
                 ]
             }
         },
@@ -375,7 +374,7 @@
             "ext": {
                 "主页url": "https://www.gs4x7nq4.com/",
                 "播放请求头": "User-Agent$Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/128.0.0.0Safari/537.36",
-                "简介": "⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+</label>&&</div>",
+                "简介": "特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+</label>&&</div>",
                 "嗅探词": ".mp4#.m3u8#.flv#.m3u8?#.mp4?",
                 "影片类型": "tags\">&&director\">",
                 "影片状态": "bottom\">&&</div>",
@@ -654,7 +653,7 @@
                 "token": "file://TV/token.txt",
                 "cookie": "file://TV/quark.txt",
                 "uc_cookie": "file://TV/uc.txt",
-                "site": "https://woog.nxog.asia",
+                "site": "http://woog.nxog.asia",
                 "danmu": true
             }
         },
@@ -1221,7 +1220,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "简介": "⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗。+简介：&&</p>",
+                "简介": "特别提醒您⚠️请勿相信影片中的广告，以免上当受骗。+简介：&&</p>",
                 "搜索url": "https://dbwyt.com/search.php?searchword={wd}",
                 "分类url": "https://dbwyt.com/wuba/{cateId}-{catePg}.html",
                 "分类": "国产动漫$1#日本动漫$2#欧美动漫$47#海外动漫$3#动漫电影$4"
@@ -1236,7 +1235,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "简介": "⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗。+简介：&&</p>",
+                "简介": "特别提醒您⚠️请勿相信影片中的广告，以免上当受骗。+简介：&&</p>",
                 "线路数组": "<aclass=\"hl-tabs-btnhl-slide-swiper\"&&</a>",
                 "线路标题": "</i>&nbsp;&&</a>+集",
                 "分类url": "https://dingdingdm.com/list/{cateId}-{catePg}.html",
@@ -1330,7 +1329,7 @@
         },
         {
             "key": "豆瓣4",
-            "name": "📢智能AI已过滤广告",
+            "name": "📢长期维护切勿贩卖",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -1343,7 +1342,7 @@
             "url": "Demo"
         },
         {
-            "name": "解析",
+            "name": "欧歌解析",
             "type": "1",
             "url": "https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=0&url=",
             "ext": {
