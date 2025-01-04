@@ -1,7 +1,6 @@
 {
     "spider": "./spider.jar",
     "wallpaper": "http://ceshi.xn--z7x900a.com/ppic/feimao.php",
-    "logo": "http://ceshi.xn--z7x900a.com/panda/0262.png",
     "sites": [
         {
             "key": "drpy_js_豆瓣",
@@ -33,8 +32,7 @@
             "filterable": 1,
             "ext": {
                 "site_urls": [
-                    "http://feimaouc.cloud:666",
-                    "http://feimao.tech:666"
+                    "http://1.95.79.193/"
                 ],
                 "url_key": "FeiMaoUC"
             }

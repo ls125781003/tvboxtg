@@ -229,17 +229,6 @@
             "changeable": 1
         },
         {
-            "key": "贱贱",
-            "name": "🐭贱贱┃P2P",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "playerType": "1",
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/jp.js"
-        },
-        {
             "key": "Auete",
             "name": "🏝奥特┃无广",
             "type": 3,
@@ -526,7 +515,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "./json/bilibili.json"
+                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194e5a5f7474"
             }
         },
         {
@@ -542,7 +531,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "./json/biliych.json"
+                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194f4eb2747e"
             }
         },
         {

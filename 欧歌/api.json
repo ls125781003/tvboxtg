@@ -1,6 +1,5 @@
 {
     "wallpaper": "https://o.nxog.top/m//t/",
-    "logo": "https://o.nxog.top/m//LOGO2.gif",
     "spider": "./spider.jar",
     "lives": [
         {
@@ -40,7 +39,8 @@
                 "site_urls": [
                     "https://woog.nxog.eu.org",
                     "https://woog.xn--dkw0c.news",
-                    "http://woog.nxog.asia"
+                    "http://woog.nxog.asia",
+                    "http://1.woog.xn--dkw.xn--6qq986b3xl"
                 ]
             }
         },

@@ -3,12 +3,6 @@
     "spider": "./spider.jar",
     "lives": [
         {
-            "name": "IPV4",
-            "type": 0,
-            "url": "./lives/IPV4.txt",
-            "epg": ""
-        },
-        {
             "name": "IPV6",
             "type": 0,
             "url": "./lives/IPV6.txt",

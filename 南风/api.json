@@ -392,6 +392,19 @@
             }
         },
         {
+            "key": "闪电",
+            "name": "⚡闪电",
+            "type": 3,
+            "api": "csp_kongbai",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "file://TV/peizhi.json",
+                "siteUrl": "http://1.95.79.193",
+                "filter": "./json/wogg.json"
+            }
+        },
+        {
             "key": "盘Ta",
             "name": "🍥盘Ta",
             "type": 3,
@@ -486,7 +499,7 @@
             },
             "ext": {
                 "json": "./json/youtube.json",
-                "cookie": "./json/youtubecookie.json"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/youtubecookie.json"
             }
         },
         {
