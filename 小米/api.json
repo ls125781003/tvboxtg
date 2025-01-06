@@ -413,6 +413,12 @@
             "epg": ""
         },
         {
+            "name": "4GTV",
+            "type": 0,
+            "url": "./lives/4GTV.txt",
+            "epg": ""
+        },
+        {
             "name": "IPV6",
             "type": 0,
             "url": "./lives/IPV6.txt",
