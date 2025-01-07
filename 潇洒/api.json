@@ -1418,20 +1418,6 @@
             "ext": "./JS/樱花动漫.js"
         },
         {
-            "key": "夸克影搜弹幕",
-            "name": "影搜｜弹幕",
-            "type": 3,
-            "api": "csp_Yingso",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 1,
-            "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
-                "danmu": true
-            }
-        },
-        {
             "key": "搜索弹幕",
             "name": "搜索｜弹幕",
             "type": 3,
@@ -1469,20 +1455,6 @@
             "ext": {
                 "token": "file://TV/token.txt",
                 "cookie": "file://TV/quark.txt",
-                "danmu": true
-            }
-        },
-        {
-            "key": "米搜弹幕",
-            "name": "米搜｜弹幕",
-            "type": 3,
-            "api": "csp_Qkpanso",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": {
-                "cookie": "file://TV/quark.txt",
-                "site": "https://www.misou.fun",
                 "danmu": true
             }
         },
