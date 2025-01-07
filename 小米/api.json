@@ -91,9 +91,9 @@
                     "http://www.ucmi.fun"
                 ],
                 "url_key": "UC",
-                "token": "file://TV/token.txt",
-                "ucCookie": "file://TV/uc.txt",
-                "quarkCookie": "file://TV/quark.txt",
+                "token": "",
+                "ucCookie": "",
+                "quarkCookie": "",
                 "threadinfo": {
                     "chunksize": 450,
                     "threads": 12
@@ -282,7 +282,7 @@
             "playerType": 2,
             "ext": {
                 "json": "./json/bili.json",
-                "cookie": "file://TV/bilibili.txt"
+                "cookie": ""
             },
             "style": {
                 "type": "rect",
