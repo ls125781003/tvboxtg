@@ -745,6 +745,17 @@
             "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
         },
         {
+            "key": "快看",
+            "name": "快看｜APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "http://kkwk123.top/api.php/app/"
+        },
+        {
             "key": "天天影视",
             "name": "天天｜APP",
             "type": 3,
@@ -1723,7 +1734,7 @@
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/Share/main/market.json"
+            "ext": "https://gh.sixyin.com/raw.githubusercontent.com/PizazzGY/Share/main/market.json"
         },
         {
             "key": "push_agent",
