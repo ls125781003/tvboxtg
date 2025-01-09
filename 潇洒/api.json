@@ -697,6 +697,14 @@
             "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
         },
         {
+            "key": "人人",
+            "name": "人人｜APP",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS9qaWVrb3UudHh0fEY1MUY1RDUyRDIzQ0JGMjd8RjUxRjVENTJEMjNDQkYyN3wxOTE="
+        },
+        {
             "key": "雨滴",
             "name": "雨滴｜App",
             "type": 3,
@@ -1733,8 +1741,7 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "indexs": 0,
-            "ext": "https://gh.sixyin.com/raw.githubusercontent.com/PizazzGY/Share/main/market.json"
+            "indexs": 0
         },
         {
             "key": "push_agent",
@@ -2163,7 +2170,7 @@
             "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 1,
+            "playerType": 2,
             "timeout": 10
         },
         {
