@@ -228,16 +228,6 @@
 			"ext": "./drpy_js/老白故事[box].js"
 		},
 		{
-            "key": "Dyls",
-            "name": "采集DYLS|JAR",
-            "type": 3,
-            "api": "csp_Dyls",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "jar": "./jar/custom_spider.jar"
-        },
-		{
 			"key": "push_agent",
 			"name": "推送",
 			"type": 3,
@@ -734,13 +724,17 @@
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
-        {
+            {
 				"name": "最强国内直播",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"catchup": {
+					"type": "append",
+					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+				}
 			},
 			{
 				"name": "肥羊B站直播",
