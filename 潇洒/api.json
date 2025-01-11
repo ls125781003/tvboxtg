@@ -499,7 +499,7 @@
                 "token": "file://TV/token.txt",
                 "cookie": "file://TV/quark.txt",
                 "uc_cookie": "file://TV/uc.txt",
-                "site": "https://smdyo.top",
+                "site": "http://失眠的夜.top",
                 "danmu": true
             }
         },
@@ -515,7 +515,7 @@
                 "token": "file://TV/token.txt",
                 "cookie": "file://TV/quark.txt",
                 "uc_cookie": "file://TV/uc.txt",
-                "site": "https://wp.huban.xyz",
+                "site": "http://wp.huban.xyz",
                 "danmu": true
             }
         },
@@ -661,11 +661,8 @@
             "key": "皮皮虾",
             "name": "皮皮虾｜APP",
             "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://38.55.250.149:1314/api.php/app/"
+            "api": "csp_XBPQ",
+            "ext": "./XBPQ/皮皮虾.json"
         },
         {
             "key": "HG影视",
@@ -695,6 +692,14 @@
             "api": "csp_Shark",
             "playerType": 1,
             "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
+        },
+        {
+            "key": "永夜",
+            "name": "永夜｜App",
+            "type": 3,
+            "api": "csp_Muou",
+            "playerType": 2,
+            "ext": "caHR0cDovL2FwcC55aXlpNTIxLnRvcHxZSVlJ5b2x6KeGfDQuMS44"
         },
         {
             "key": "人人",
@@ -762,24 +767,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "http://kkwk123.top/api.php/app/"
-        },
-        {
-            "key": "天天影视",
-            "name": "天天｜APP",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "热播影视",
-            "name": "热播｜APP",
-            "type": 3,
-            "api": "csp_AppRB",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "洽洽影视",
@@ -1531,16 +1518,6 @@
             }
         },
         {
-            "key": "荐片",
-            "name": "荐片｜磁力",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "New6v",
             "name": "New6V｜磁力",
             "type": 3,
@@ -1741,7 +1718,8 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "indexs": 0
+            "indexs": 0,
+            "ext": "https://9877.kstore.space/Market/market.json"
         },
         {
             "key": "push_agent",
@@ -1821,7 +1799,7 @@
         {
             "name": "臻享",
             "type": "1",
-            "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+            "url": "https://zy.qiaoji8.com/gouzi.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -1877,7 +1855,7 @@
             }
         },
         {
-            "name": "HGvip",
+            "name": "无双",
             "type": 1,
             "url": "http://1.94.221.189:88/algorithm.php?url=",
             "ext": {
@@ -1892,7 +1870,7 @@
         {
             "name": "皮皮虾",
             "type": "1",
-            "url": "http://45.207.215.101:5423/index.php?url=",
+            "url": "http://jiexi.52ppx.top/index.php?url=",
             "ext": {
                 "flag": [
                     "PPXLG",
@@ -1901,71 +1879,34 @@
             }
         },
         {
-            "name": "无双",
-            "type": 0,
-            "url": " http://103.117.123.193:1980/players/?url=",
-            "ext": {
-                "flag": [
-                    "mgtv",
-                    "芒果",
-                    "RY",
-                    "VIP线路"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
-        {
             "name": "线路1",
-            "type": 0,
-            "url": "https://jx.quankan.app/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-                }
-            }
-        },
-        {
-            "name": "线路2",
-            "type": 0,
-            "url": "https://jx.yparse.com/index.php?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-                }
-            }
-        },
-        {
-            "name": "线路3",
-            "type": 0,
-            "url": "https://jx.aidouer.net/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
-                    "referer": "https://jiejie.uk/"
-                }
-            }
-        },
-        {
-            "name": "线路4",
             "type": 0,
             "url": "https://www.8090g.cn/?url="
         },
         {
-            "name": "线路5",
-            "type": 0,
-            "url": "https://jx.yangtu.top?url="
-        },
-        {
-            "name": "线路6",
+            "name": "线路2",
             "type": 0,
             "url": "https://jx.m3u8.tv/jiexi/?url="
         },
         {
-            "name": "线路7",
+            "name": "线路3",
             "type": 0,
             "url": "https://www.ckplayer.vip/jiexi/?url="
+        },
+        {
+            "name": "线路4",
+            "type": 0,
+            "url": "https://yparse.ik9.cc/index.php?url="
+        },
+        {
+            "name": "线路5",
+            "type": 0,
+            "url": "https://bd.jx.cn/?url="
+        },
+        {
+            "name": "线路6",
+            "type": 0,
+            "url": "https://jx.yparse.com/index.php?url="
         }
     ],
     "rules": [
