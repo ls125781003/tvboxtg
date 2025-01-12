@@ -515,7 +515,7 @@
                 "token": "file://TV/token.txt",
                 "cookie": "file://TV/quark.txt",
                 "uc_cookie": "file://TV/uc.txt",
-                "site": "http://wp.huban.xyz",
+                "site": "http://45.207.212.215:12121",
                 "danmu": true
             }
         },
@@ -661,8 +661,11 @@
             "key": "皮皮虾",
             "name": "皮皮虾｜APP",
             "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./XBPQ/皮皮虾.json"
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.ppxys.vip/api.php/app/"
         },
         {
             "key": "HG影视",
@@ -675,15 +678,26 @@
             "ext": "https://cs.hgyx.vip/api2/api.php/app/"
         },
         {
-            "key": "南瓜",
-            "name": "南瓜｜App",
+            "key": "九龙影视",
+            "name": "九龙｜APP",
             "type": 3,
-            "api": "csp_NanGua",
+            "api": "./PY/九龙影视.py",
             "searchable": 1,
+            "changeable": 1,
             "quickSearch": 1,
-            "playerType": 2,
             "filterable": 1,
-            "ext": ""
+            "playerType": 2
+        },
+        {
+            "key": "猎手影视",
+            "name": "猎手｜APP",
+            "type": 3,
+            "api": "./PY/猎手影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "木头",
@@ -833,30 +847,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "农民影视",
-            "name": "农民｜影视",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "立播影视",
-            "name": "立播｜影视",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
-                "uc_cookie": "file://TV/uc.txt",
-                "site": "https://www.libvio.cc"
-            }
         },
         {
             "key": "饺子影视",
@@ -1712,8 +1702,8 @@
             "jar": "./wex.jar"
         },
         {
-            "key": "检查更新",
-            "name": "检查｜更新",
+            "key": "版本信息",
+            "name": "版本｜信息",
             "type": 3,
             "api": "csp_Market",
             "searchable": 0,
@@ -1739,9 +1729,9 @@
     ],
     "parses": [
         {
-            "name": "推荐",
-            "type": 1,
-            "url": "https://jxjson.icu/neibu.php?url=",
+            "name": "臻享",
+            "type": "1",
+            "url": "https://zy.qiaoji8.com/gouzi.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -1771,35 +1761,6 @@
             "name": "优选",
             "type": 1,
             "url": "http://1.94.221.189:88/algorithm.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
-        {
-            "name": "臻享",
-            "type": "1",
-            "url": "https://zy.qiaoji8.com/gouzi.php?url=",
             "ext": {
                 "flag": [
                     "qq",
