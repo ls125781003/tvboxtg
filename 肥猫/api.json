@@ -1,6 +1,7 @@
 {
     "spider": "./spider.jar",
     "wallpaper": "http://ceshi.xn--z7x900a.com/ppic/feimao.php",
+    "logo": "http://ceshi.xn--z7x900a.com/panda/0262.png",
     "sites": [
         {
             "key": "drpy_js_豆瓣",
@@ -61,7 +62,7 @@
             "playerType": 2,
             "ext": {
                 "json": "./json/bili.json",
-                "cookie": "file://TV/bilibili.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
             },
             "style": {
                 "type": "rect",
@@ -123,9 +124,9 @@
                     "https://xiaomiai.site"
                 ],
                 "url_key": "Netfixtv2",
-                "token": "file://TV/token.txt",
-                "ucCookie": "file://TV/uc.txt",
-                "quarkCookie": "file://TV/quark.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "ucCookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "quarkCookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "threadinfo": {
                     "chunksize": 450,
                     "threads": 10
@@ -389,14 +390,14 @@
             "name": "🌖┃米搜┃网盘",
             "type": 3,
             "api": "csp_MiSou",
-            "ext": "file://TV/quark.txt"
+            "ext": "http://127.0.0.1:9978/file/TVBox/quark.txt"
         },
         {
             "key": "csp_PanSearch",
             "name": "🚃┃盘搜┃网盘",
             "type": 3,
             "api": "csp_PanSearch",
-            "ext": "file://TV/token.txt"
+            "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
         },
         {
             "key": "儿童",
@@ -475,7 +476,7 @@
             "api": "csp_Push",
             "playerType": "1",
             "searchable": 0,
-            "ext": "file://TV/token.txt"
+            "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
         }
     ],
     "parses": [

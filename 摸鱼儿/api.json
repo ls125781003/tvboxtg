@@ -1,6 +1,7 @@
 {
     "spider": "./spider.jar",
     "wallpaper": "http://我不是.摸鱼儿.com/wallpaper/moyu.php",
+    "logo": "https://s1.imagehub.cc/images/2024/06/11/80538bfb3835ffebf7c5fd0716280801.jpeg",
     "sites": [
         {
             "key": "豆豆",
@@ -53,7 +54,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "file://TV/Cloud-drive.txt",
+                "Cloud-drive": "http://127.0.0.1:9978/file/TVBox/Cloud-drive.txt",
                 "from": "4k|auto",
                 "siteUrl": "https://www.wogg.net/",
                 "danMu": "弹"
@@ -69,9 +70,9 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
-                "uc_cookie": "file://TV/uc.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
                 "site": "http://mogg.小胡.top",
                 "danmu": true
             }
@@ -108,8 +109,8 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "site": "http://labipan.com/",
                 "danmu": true
             }
@@ -124,9 +125,9 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
-                "uc_cookie": "file://TV/uc.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
                 "site": "https://mihdr.top",
                 "danmu": true
             }
@@ -141,9 +142,9 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
-                "uc_cookie": "file://TV/uc.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
                 "site": "https://vip.omii.top",
                 "danmu": true
             }
@@ -162,7 +163,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "cookie": "file://TV/bilibili.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
             },
             "timeout": 10
         },
@@ -365,7 +366,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": {
-                "Cloud-drive": "file://TV/Cloud-drive.txt",
+                "Cloud-drive": "http://127.0.0.1:9978/file/TVBox/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -825,9 +826,9 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
-                "uc_cookie": "file://TV/uc.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
                 "site": "https://libvio.link"
             }
         },
@@ -880,9 +881,9 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
-                "uc_cookie": "file://TV/uc.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
                 "site": "https://wogg.xxooo.cf",
                 "danmu": true
             }
@@ -897,8 +898,8 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "site": "https://tv.yydsys.top",
                 "danmu": true
             }
@@ -913,9 +914,9 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
-                "uc_cookie": "file://TV/uc.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
                 "site": "https://4k.4u4.cn",
                 "danmu": true
             }
@@ -930,8 +931,8 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -944,7 +945,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "file://TV/Cloud-drive.txt",
+                "Cloud-drive": "http://127.0.0.1:9978/file/TVBox/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -957,7 +958,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "file://TV/Cloud-drive.txt",
+                "Cloud-drive": "http://127.0.0.1:9978/file/TVBox/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -970,7 +971,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "file://TV/Cloud-drive.txt",
+                "Cloud-drive": "http://127.0.0.1:9978/file/TVBox/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -983,7 +984,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "file://TV/Cloud-drive.txt",
+                "Cloud-drive": "http://127.0.0.1:9978/file/TVBox/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -996,7 +997,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "file://TV/Cloud-drive.txt",
+                "Cloud-drive": "http://127.0.0.1:9978/file/TVBox/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -1009,7 +1010,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "file://TV/Cloud-drive.txt",
+                "Cloud-drive": "http://127.0.0.1:9978/file/TVBox/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -1023,8 +1024,8 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -1038,7 +1039,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             }
         },
@@ -1052,7 +1053,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             }
         },
@@ -1066,7 +1067,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             }
         },
@@ -1080,7 +1081,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             }
         },
@@ -1094,7 +1095,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true,
                 "cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf"
             }
@@ -1109,8 +1110,8 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -1124,7 +1125,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "file://TV/quark.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "site": "https://www.misou.fun",
                 "danmu": true
             }
@@ -1139,7 +1140,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "file://TV/quark.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -1153,7 +1154,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "token": "file://TV/token.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             }
         },
@@ -1168,7 +1169,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "cookie": "file://TV/quark.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -1183,7 +1184,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "cookie": "file://TV/quark.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -1197,7 +1198,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "cookie": "file://TV/quark.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -1290,7 +1291,7 @@
             "filterable": 0,
             "indexs": 0,
             "ext": {
-                "token": "file://TV/token.txt"
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt"
             },
             "style": {
                 "type": "list"
@@ -1307,7 +1308,7 @@
             "filterable": 0,
             "indexs": 0,
             "ext": {
-                "cookie": "file://TV/quark.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
             },
             "style": {
                 "type": "list"
@@ -1324,7 +1325,7 @@
             "filterable": 0,
             "indexs": 0,
             "ext": {
-                "uc_cookie": "file://TV/uc.txt"
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"
             },
             "style": {
                 "type": "list"
@@ -1402,9 +1403,9 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
-                "uc_cookie": "file://TV/uc.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
                 "danmu": true
             }
         }

@@ -1,10 +1,5 @@
 {
     "spider": "./spider.jar",
-    "lives": [
-        {"name":"TV直播","type":0,"url":"https://tv.iill.top/m3u/Gather","ua":"okhttp/3.15","playerType":2},
-        {"name":"平台直播","type":0,"url":"https://tv.iill.top/m3u/Live","ua":"okhttp/3.15","playerType":2},
-        {"name":"体育直播","type":0,"url":"https://tv.iill.top/m3u/Sport","ua":"okhttp/3.15","playerType":2}
-    ],
     "sites": [
         {
             "key": "csp_XYQHiker_兔小贝",
@@ -317,7 +312,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "file://TV/token.txt"
+            "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
         }
     ],
     "parses": [
