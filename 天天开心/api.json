@@ -76,6 +76,12 @@
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
         },
         {
+            "name": "⑪V6明线路",
+            "type": 0,
+            "url": "./lives/⑪V6明线路.txt",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+        {
             "name": "②⑥范明线路",
             "type": 0,
             "url": "./lives/②⑥范明线路.txt",
