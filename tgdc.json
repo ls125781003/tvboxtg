@@ -49,6 +49,10 @@
             "name": "戏曲音乐"
         },
         {
+            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/天天开心/api.json",
+            "name": "天天开心"
+        },
+        {
         	"url": "https://bitbucket.org/ls125781003/tvtg/raw/main/少儿频道/api.json",
             "name": "少儿频道"
         }

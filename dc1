@@ -52,6 +52,10 @@
             "url": "https://gh.aptv.app/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/戏曲音乐/api.json", 
             "name": "戏曲音乐" 
         },
+        { 
+            "url": "https://gh.aptv.app/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/天天开心/api.json", 
+            "name": "天天开心" 
+        },
         {   
             "url": "https://gh.aptv.app/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/少儿频道/api.json", 
             "name": "少儿频道" 

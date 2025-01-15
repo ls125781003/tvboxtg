@@ -53,6 +53,10 @@
             "name": "戏曲音乐"
         },
         {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/天天开心/api.json",
+            "name": "天天开心"
+        },
+        {
         	"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/少儿频道/api.json",
             "name": "少儿频道"
         }
