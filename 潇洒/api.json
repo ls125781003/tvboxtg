@@ -282,19 +282,6 @@
             }
         },
         {
-            "key": "荐片弹幕",
-            "name": "荐片｜弹幕",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
             "key": "玩偶弹幕",
             "name": "玩偶｜4K弹幕",
             "type": 3,
@@ -1691,24 +1678,6 @@
             }
         },
         {
-            "key": "Alllive",
-            "name": "聚合｜直播‍",
-            "type": 3,
-            "api": "csp_Wexalllive",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./wex.jar"
-        },
-        {
-            "key": "IKTV",
-            "name": "KTV｜音乐",
-            "type": 3,
-            "api": "csp_WexIktv",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "./wex.jar"
-        },
-        {
             "key": "版本信息",
             "name": "版本｜信息",
             "type": 3,
@@ -1838,7 +1807,7 @@
         {
             "name": "皮皮虾",
             "type": "1",
-            "url": "http://jiexi.52ppx.top/index.php?url=",
+            "url": "http://jiexi.52ppx.top/lxjson.php?url=",
             "ext": {
                 "flag": [
                     "PPXLG",
