@@ -1,0 +1,57 @@
+[
+  {
+    "name": "itvlistIPV4",
+    "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+    "img": "./lives.jpg"
+  },
+  {
+    "name": "范明明IPV6",
+    "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+    "img": "./lives.jpg"
+  },
+  {
+    "name": "CNTV",
+    "url": "./live_cntv.txt",
+    "img": "./lives.jpg"
+  },
+  {
+    "name": "fmm-IPV6",
+    "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+    "img": "./lives.jpg"
+  },
+  {
+    "name": "fmm-itv",
+    "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u",
+    "img": "./lives.jpg"
+  },
+  {
+    "name": "fmm-radioFM",
+    "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/fm.m3u",
+    "img": "./lives.jpg"
+  },
+  {
+    "name": "wwb521TV",
+    "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+    "img": "./lives.jpg"
+  },
+  {
+    "name": "GatherTV",
+    "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+    "img": "./lives.jpg"
+  },
+  {
+    "name": "yoursmile66",
+    "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
+    "img": "./lives.jpg"
+  },
+  {
+    "name": "tvlive",
+    "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+    "img": "./lives.jpg"
+  },
+  {
+    "name": "PizazzGYlive",
+    "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+    "img": "./lives.jpg"
+  }
+]
