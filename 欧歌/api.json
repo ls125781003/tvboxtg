@@ -26,7 +26,7 @@
         },
         {
             "key": "豆瓣1",
-            "name": "📢o公告❤更新:1/12❤",
+            "name": "📢o公告❤更新:1/15❤",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 0,
@@ -356,7 +356,7 @@
             "ext": {
                 "主页url": "https://www.gs4x7nq4.com/",
                 "播放请求头": "User-Agent$Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/128.0.0.0Safari/537.36",
-                "简介": "特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+</label>&&</div>",
+                "简介": "请勿相信影片中的广告，以免上当受骗❗️+</label>&&</div>",
                 "嗅探词": ".mp4#.m3u8#.flv#.m3u8?#.mp4?",
                 "影片类型": "tags\">&&director\">",
                 "影片状态": "bottom\">&&</div>",
@@ -387,7 +387,7 @@
                 "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
                 "副标题": "class=\"pic-texttext-right\"&&</span>",
-                "简介": "特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗+剧情介绍：&&</p>"
+                "简介": "请勿相信影片中的广告，以免上当受骗❗+剧情介绍：&&</p>"
             }
         },
         {
@@ -1172,7 +1172,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "简介": "特别提醒您⚠️请勿相信影片中的广告，以免上当受骗。+简介：&&</p>",
+                "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</p>",
                 "搜索url": "https://dbwyt.com/search.php?searchword={wd}",
                 "分类url": "https://dbwyt.com/wuba/{cateId}-{catePg}.html",
                 "分类": "国产动漫$1#日本动漫$2#欧美动漫$47#海外动漫$3#动漫电影$4"
@@ -1187,7 +1187,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "简介": "特别提醒您⚠️请勿相信影片中的广告，以免上当受骗。+简介：&&</p>",
+                "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</p>",
                 "线路数组": "<aclass=\"hl-tabs-btnhl-slide-swiper\"&&</a>",
                 "线路标题": "</i>&nbsp;&&</a>+集",
                 "分类url": "https://dingdingdm.com/list/{cateId}-{catePg}.html",
@@ -1263,7 +1263,7 @@
         },
         {
             "key": "应用商店",
-            "name": "🛒影视应用商店",
+            "name": "🛒本地包更新",
             "type": 3,
             "api": "csp_Market",
             "searchable": 0,
