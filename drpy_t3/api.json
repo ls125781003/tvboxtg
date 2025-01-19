@@ -667,7 +667,7 @@
         {
             "name": "itvlistIPV4",
             "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+            "url": "https://ghproxy.net/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
@@ -679,49 +679,49 @@
         {
             "name": "fmm-IPV6",
             "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+            "url": "https://ghproxy.net/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
             "name": "fmm-itv",
             "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u",
+            "url": "https://ghproxy.net/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
             "name": "fmm-radioFM",
             "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/fm.m3u",
+            "url": "https://ghproxy.net/raw.githubusercontent.com/fanmingming/live/main/radio/m3u/fm.m3u",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
             "name": "wwb521TV",
             "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+            "url": "https://ghproxy.net/raw.githubusercontent.com/wwb521/live/main/tv.m3u",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
             "name": "GatherTV",
             "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+            "url": "https://ghproxy.net/raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
             "name": "yoursmile66",
             "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
+            "url": "https://ghproxy.net/raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
             "name": "tvlive",
             "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+            "url": "https://ghproxy.net/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
             "name": "PizazzGYlive",
             "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+            "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
             {
