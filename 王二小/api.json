@@ -1049,6 +1049,12 @@
             "epg": ""
         },
         {
+            "name": "IPV62",
+            "type": 0,
+            "url": "./lives/IPV62.txt",
+            "epg": ""
+        },
+        {
             "name": "奇迹live1",
             "type": 0,
             "url": "./lives/奇迹live1.txt",

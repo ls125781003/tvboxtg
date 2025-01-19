@@ -1,5 +1,5 @@
 { 
-    "urls": [
+	"urls": [
         { 
             "url": "https://ghgo.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/饭太硬/api.json", 
             "name": "饭太硬" 
@@ -41,7 +41,7 @@
             "name": "欧歌" 
         },
         {   
-            "url": "https://ghgo.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/王二小/api.json", 
+        	"url": "https://ghgo.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/王二小/api.json", 
             "name": "王二小" 
         },
         { 
@@ -57,8 +57,49 @@
             "name": "天天开心" 
         },
         {   
-            "url": "https://ghgo.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/少儿频道/api.json", 
+        	"url": "https://ghgo.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/少儿频道/api.json", 
             "name": "少儿频道" 
+        },
+        {
+            "url": "https://ghgo.xyz/https://raw.githubusercontent.com/ls125781003/testboxapi/main/tvbox/api.json",
+            "name": "精简多线-聚"
+        },
+        {
+            "url": "https://ghgo.xyz/https://raw.githubusercontent.com/ls125781003/testboxapi/main/test1/api.json",
+            "name": "精简多线-选"
+        },
+
+        {
+            "url": "https://ghgo.xyz/https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/影视/api.json",
+            "name": "精简多线-影视"
+        },
+        {
+            "url": "https://ghgo.xyz/https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/动漫/api.json",
+            "name": "精简多线-动漫"
+        },
+        {
+            "url": "https://ghgo.xyz/https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/文艺/api.json",
+            "name": "精简多线-文艺"
+        },
+        {
+            "url": "https://ghgo.xyz/https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/体育/api.json",
+            "name": "精简多线-体育"
+        },
+        {
+            "url": "https://ghgo.xyz/https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/教育/api.json",
+            "name": "精简多线-教育"
+        },
+        {
+            "url": "https://ghgo.xyz/https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/直播/api.json",
+            "name": "精简多线-直播"
+        },
+        {
+            "url": "https://ghgo.xyz/https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/磁力/api.json",
+            "name": "精简多线-磁力"
+        },
+        {
+            "url": "https://ghgo.xyz/https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/云盘/api.json",
+            "name": "精简多线-云盘"
         }
     ]
 }
