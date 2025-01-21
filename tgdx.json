@@ -58,44 +58,44 @@
         },
         {
             "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/tvbox/api.json",
-            "name": "聚"
+            "name": "精简多线-聚"
         },
         {
             "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/test1/api.json",
-            "name": "选"
+            "name": "精简多线-选"
         },
 
         {
             "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/影视/api.json",
-            "name": "影视"
+            "name": "精简多线-影视"
         },
         {
             "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/动漫/api.json",
-            "name": "动漫"
+            "name": "精简多线-动漫"
         },
         {
             "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/文艺/api.json",
-            "name": "文艺"
+            "name": "精简多线-文艺"
         },
         {
             "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/体育/api.json",
-            "name": "体育"
+            "name": "精简多线-体育"
         },
         {
             "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/教育/api.json",
-            "name": "教育"
+            "name": "精简多线-教育"
         },
         {
             "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/直播/api.json",
-            "name": "直播"
+            "name": "精简多线-直播"
         },
         {
             "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/磁力/api.json",
-            "name": "磁力"
+            "name": "精简多线-磁力"
         },
         {
             "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/云盘/api.json",
-            "name": "云盘"
+            "name": "精简多线-云盘"
         }
     ]
 }
