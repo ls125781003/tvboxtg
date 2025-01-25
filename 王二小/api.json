@@ -1094,6 +1094,12 @@
             "epg": ""
         },
         {
+            "name": "奇迹live2",
+            "type": 0,
+            "url": "./lives/奇迹live2.txt",
+            "epg": ""
+        },
+        {
             "name": "网络直播",
             "type": 0,
             "url": "./lives/网络直播.txt",
