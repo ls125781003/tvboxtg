@@ -1783,6 +1783,12 @@
             "type": 0,
             "url": "./lives/自动更新.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "IPV6",
+            "type": 0,
+            "url": "./lives/IPV6.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
     ],
     "flags": [
