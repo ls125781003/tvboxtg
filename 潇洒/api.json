@@ -2095,14 +2095,6 @@
             "ua": "okhttp/3.15"
         },
         {
-            "name": "CIPTV直播",
-            "type": 3,
-            "api": "csp_Feiyang",
-            "url": "https://9877.kstore.space/Market/ciptv.m3u",
-            "timeout": 10,
-            "ua": "okhttp/3.15"
-        },
-        {
             "name": "AI直播",
             "type": 0,
             "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
@@ -2114,7 +2106,7 @@
         {
             "name": "AI直播+",
             "type": 0,
-            "url": "https://pan.ly93.cc/f/l2W9sx/user_result.txt",
+            "url": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.cn/tv/{name}.png",
             "playerType": 2,
