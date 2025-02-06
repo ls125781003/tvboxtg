@@ -102,8 +102,9 @@
             "ext": {
                 "site_urls": [
                     "http://www.mucpan.cc",
+                    "http://milvdou.fun",
                     "http://ucmi.fun",
-                    "http://www.ucmi.fun"
+                    "http://mucpan.cc"
                 ],
                 "url_key": "UC",
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
@@ -355,6 +356,12 @@
             "name": "IPV6",
             "type": 0,
             "url": "./lives/IPV6.txt",
+            "epg": ""
+        },
+        {
+            "name": "平台直播",
+            "type": 0,
+            "url": "./lives/平台直播.txt",
             "epg": ""
         }
     ],
