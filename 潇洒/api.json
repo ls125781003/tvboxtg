@@ -440,7 +440,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "http://45.207.212.215:12121",
+                "site": "http://103.45.162.207:20720",
                 "danmu": true
             }
         },
@@ -694,6 +694,15 @@
             "ext": "saHR0cDovL3R4dC55eXlzLm5ld3MvdjQudHh0fGlsYnZ6d3o1MGthZ3U5eHR8aWxidnp3ejUwa2FndTl4dHw1NDQ="
         },
         {
+            "key": "闹闹",
+            "name": "闹闹｜App",
+            "type": 3,
+            "api": "csp_Xdai",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "caHR0cDovLzExMC40Mi4zLjE5NTo4OTg5fEQ2cTdoamI4N0ZKMDlGNzd8RDZxN2hqYjg3RkowOUY3Nw"
+        },
+        {
             "key": "蝴蝶",
             "name": "蝴蝶｜App",
             "type": 3,
@@ -787,6 +796,62 @@
             "name": "尘落｜APP",
             "type": 3,
             "api": "csp_Wetv"
+        },
+        {
+            "key": "小米虎虎",
+            "name": "虎虎｜APP",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "csp_AppHuhu"
+        },
+        {
+            "key": "小米眼镜",
+            "name": "眼镜｜APP",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "csp_AppYanjing"
+        },
+        {
+            "key": "小米米兔",
+            "name": "米兔｜APP",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "csp_MiTuApp"
+        },
+        {
+            "key": "小米玉米",
+            "name": "玉米｜APP",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "csp_YuMiApp"
+        },
+        {
+            "key": "小米电影",
+            "name": "电影｜APP",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "csp_MovieApp"
+        },
+        {
+            "key": "小米多多",
+            "name": "多多｜APP",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "csp_DuoDuoApp"
+        },
+        {
+            "key": "小米良人",
+            "name": "良人｜APP",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "csp_LiangRenApp"
         },
         {
             "key": "西瓜视频",
