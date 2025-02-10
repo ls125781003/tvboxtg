@@ -12,7 +12,7 @@
         {
             "name": "胖羊直播",
             "type": 3,
-            "url": "tv.m3u",
+            "url": "./lives/胖羊直播.txt",
             "epg": ""
         },
         {
@@ -58,7 +58,7 @@
             "ext": {
                 "site_urls": [
                     "https://woog.nxog.eu.org",
-                    "https://1.woog.xn--dkw.xn--6qq986b3xl"
+                    "https://woog.xn--dkw.xn--6qq986b3xl"
                 ],
                 "url_key": "woog",
                 "threadinfo": {
@@ -79,7 +79,7 @@
             "ext": {
                 "site_urls": [
                     "https://wooguc.nxog.eu.org",
-                    "https://wooguc.xn--dkw.xn--6qq986b3xl"
+                    "https://oguc.xn--dkw.xn--6qq986b3xl"
                 ],
                 "url_key": "UC",
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
@@ -103,7 +103,7 @@
             "ext": {
                 "site_urls": [
                     "https://woog.nxog.eu.org",
-                    "https://1.woog.xn--dkw.xn--6qq986b3xl"
+                    "https://woog.xn--dkw.xn--6qq986b3xl"
                 ]
             }
         },
