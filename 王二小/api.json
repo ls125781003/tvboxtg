@@ -933,6 +933,12 @@
             "type": 0,
             "url": "./lives/钵钵鸡.txt",
             "epg": ""
+        },
+        {
+            "name": "范明明",
+            "type": 0,
+            "url": "./lives/范明明.txt",
+            "epg": ""
         }
     ]
 }
