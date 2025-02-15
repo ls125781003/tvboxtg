@@ -38,7 +38,7 @@
         },
         {
             "key": "豆瓣1",
-            "name": "📢o公告❤更新:2/12❤",
+            "name": "📢o公告❤更新:2/13❤",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 0,
@@ -72,7 +72,7 @@
             "jar": "./jars/csp_woog.jar",
             "ext": {
                 "site_urls": [
-                    "https://wooguc.nxog.eu.org"
+                    "https://oguc.xn--dkw.xn--6qq986b3xl"
                 ]
             }
         },
@@ -87,8 +87,8 @@
             "jar": "./jars/csp_woog2.jar",
             "ext": {
                 "site_urls": [
-                    "https://woog.nxog.eu.org",
-                    "https://woog.xn--dkw.xn--6qq986b3xl"
+                    "https://ogkk.nxog.eu.org",
+                    "https://ogkk.xn--dkw.xn--6qq986b3xl"
                 ]
             }
         },
@@ -686,7 +686,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://tv.yydsys.top",
+                "site": "https://wooguc.nxog.eu.org",
                 "danmu": true
             }
         },
@@ -702,7 +702,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "http://labipan.com",
+                "site": "https://mihdr.top",
                 "danmu": true
             }
         },
@@ -718,7 +718,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://mihdr.top",
+                "site": "https://www.milvdou.fun",
                 "danmu": true
             }
         },
@@ -1637,7 +1637,7 @@
             ]
         },
         {
-            "name": "智能AI已过滤广告",
+            "name": "智能AI已过滤广告🥨欢迎继续收看节目",
             "hosts": [
                 "http"
             ],
@@ -1664,7 +1664,7 @@
             "toLog": 0
         },
         {
-            "name": "智能AI已过滤广告",
+            "name": "智能AI已过滤广告🥨欢迎继续收看节目",
             "hosts": [
                 "http"
             ],

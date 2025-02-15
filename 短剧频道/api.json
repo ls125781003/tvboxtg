@@ -16,14 +16,14 @@
                 "图片": "data-original=\"&&\"",
                 "副标题": "✨+item-text\">&&<",
                 "线路数组": "dropdown&&</div>",
-                "线路标题": "✨乐哥推荐✨+<span>&&</+【共+<small>&&<+集】",
+                "线路标题": "✨推荐✨+<span>&&</+【共+<small>&&<+集】",
                 "播放数组": "id=\"sort-item&&</div>",
                 "播放列表": "<a&&a>",
                 "播放链接": "href=\"&&\"",
                 "播放标题": "✨+<span>&&</",
                 "搜索模式": "1",
                 "搜索url": "https://wo.ikan4k.com/index.php/vod/search/page/{pg}/wd/{wd}.html",
-                "简介": "✨指间的黑客为您介绍剧情✨+vod_content\">&&</span>",
+                "简介": "✨为您介绍剧情✨+vod_content\">&&</span>",
                 "分类url": "https://wo.ikan4k.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
                 "分类": "女频恋爱$32#反转爽剧$33#脑洞悬疑$34#年代穿越$35#古装仙侠$36#现代都市$37"
             }
