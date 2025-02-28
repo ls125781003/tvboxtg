@@ -16,10 +16,6 @@
             "url": "https://raw.kkgithub.com/ls125781003/tvboxtg/xyqonlinerule/main/XYQTVBox.json", 
             "name": "香雅情[原]" 
         },
-        { 
-            "url": "https://raw.kkgithub.com/ls125781003/tvboxtg/main/drpy_t3/api.json", 
-            "name": "drpy_t3精选" 
-        },
         {  
             "url": "https://raw.kkgithub.com/ls125781003/tvboxtg/main/南风/api.json", 
             "name": "南风" 
@@ -64,7 +60,6 @@
             "url": "https://raw.kkgithub.com/ls125781003/tvboxtg/testboxapi/main/test1/api.json",
             "name": "精简多线-选"
         },
-
         {
             "url": "https://raw.kkgithub.com/ls125781003/tvboxtg/testboxapi/main/cang/影视/api.json",
             "name": "精简多线-影视"
