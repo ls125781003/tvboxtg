@@ -36,7 +36,7 @@
 "thunder_username":"",
 "thunder_password":"",
 "thunder_captchatoken":"",
-"yd_auth":"",
+"yd_auth":"cGM6MTg3NzQ5NzMzNjM6YWdkYlRhWGR8MXxSQ1N8MTc0NDM3NDUxNjIxOHxkRnRScENBOFpZdm9EemFmVFNWZVdndlBWa0tSZjdkU3pBdnlkR0s4anZ2VFBlenl6OWVJX1VfNl94V2o1ZUZOSzdtOUtENXIuRHVPOG43RWdmV2lWc1J5YnZiSmF3NjhSMnhuMHlrSzVMd19Vcm0zZTQyOExUblFfTW1lMVRNNjIxdWRIa2U1NUJTdC5yMk1NbTc5RkxQZDAubHluMjFvVkNwa1FDTWNtYVkt",
 "yd_thread_limit":4,
 "yd_flags":"auto|4kz",
 "yd_danmu":true,
@@ -87,7 +87,7 @@
 "tgsearch_api_url":"http://127.0.0.1:10199/",
 "tgsearch_media_url":"http://127.0.0.1:10199/",
 "allinone_url":"./allinone.tar.xz",
-"pan123_username":"",
-"pan123_password":"",
+"pan123_username":"18774973363",
+"pan123_password":"lxc123456+",
 "pan123_flags":"4kz"
 }
