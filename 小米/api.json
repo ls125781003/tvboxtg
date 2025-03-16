@@ -217,7 +217,7 @@
         },
         {
             "key": "csp_Lgyy",
-            "name": "⏳️️流光┃1080P",
+            "name": "⏳️流光┃1080P",
             "type": 3,
             "api": "csp_FreeOkGuard"
         },
@@ -252,7 +252,7 @@
             "type": 3,
             "api": "csp_PushGuard",
             "searchable": 0,
-            "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
+            "ext": ""
         }
     ],
     "parses": [
@@ -289,6 +289,12 @@
     ],
     "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739415605613/015dae5bcd1ff5a801213dea55f8c4.jpg",
     "lives": [
+        {
+            "name": "央卫",
+            "type": 0,
+            "url": "./lives/央卫.txt",
+            "epg": ""
+        },
         {
             "name": "V4聚合（卡顿请按左┃右键换线）",
             "type": 0,
