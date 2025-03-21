@@ -508,6 +508,17 @@
             "ext": "KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
         },
         {
+            "key": "爱看短剧",
+            "name": "爱看｜短剧",
+            "type": 3,
+            "api": "./PY/爱看短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
             "key": "爱我短剧",
             "name": "爱我｜短剧",
             "type": 3,
@@ -558,6 +569,50 @@
             "name": "猎手｜APP",
             "type": 3,
             "api": "./PY/猎手影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "光速影视",
+            "name": "光速｜APP",
+            "type": 3,
+            "api": "./PY/光速影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "火车影视",
+            "name": "火车｜APP",
+            "type": 3,
+            "api": "./PY/火车影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "美帕影视",
+            "name": "美帕｜APP",
+            "type": 3,
+            "api": "./PY/美帕影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "嗨皮影视",
+            "name": "嗨皮｜APP",
+            "type": 3,
+            "api": "./PY/嗨皮影视.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
