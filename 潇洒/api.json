@@ -70,6 +70,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "playerType": 1,
             "ext": {
                 "danmu": true,
                 "site": "aHR0cDovL3R0LnlzZHFqcy5jbg=="
