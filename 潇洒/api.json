@@ -403,7 +403,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "http://2xiaopan.fun",
+                "site": "https://erxiao.banye.tech:7086",
                 "danmu": true
             }
         },
@@ -435,7 +435,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://woss.fenwe.eu.org",
+                "site": "https://woss.banye.tech:7086",
                 "danmu": true
             }
         },
@@ -451,7 +451,23 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "http://149.88.87.18:6688",
+                "site": "https://dawo.banye.tech:7086",
+                "danmu": true
+            }
+        },
+        {
+            "key": "夸克虎斑弹幕",
+            "name": "虎斑｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "https://huban.banye.tech:7086",
                 "danmu": true
             }
         },
@@ -669,6 +685,14 @@
             "api": "csp_Muou",
             "playerType": 2,
             "ext": "caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA=="
+        },
+        {
+            "key": "龙虾",
+            "name": "龙虾｜APP",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "jaHR0cDovL3BweC5iangzNjUudG9wfHBpcGl4aWEyMTc1MjIzMjR8cGlwaXhpYTIxNzUyMjMyNHw1MDY="
         },
         {
             "key": "时常",
