@@ -4,9 +4,9 @@
     "spider": "./spider.jar",
     "lives": [
         {
-            "name": "【公众号欧歌APP网络收集】接口即将关闭,请勿演示",
+            "name": "【公众号欧歌APP网络收集】测试完请删除,请勿贩卖",
             "type": 0,
-            "url": "./lives/【公众号欧歌APP网络收集】接口即将关闭,请勿演示.txt",
+            "url": "./lives/【公众号欧歌APP网络收集】测试完请删除,请勿贩卖.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
         },
         {
@@ -31,20 +31,20 @@
     "sites": [
         {
             "key": "豆瓣2",
-            "name": "📢【公众号欧歌APP网络收集】接口即将关闭,请勿演示",
+            "name": "📢【公众号欧歌APP网络收集】测试完请删除,请勿贩卖",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
         {
             "key": "豆瓣1",
-            "name": "📢【公众号欧歌APP网络收集】接口即将关闭,请勿演示公告❤更新:3/26❤",
+            "name": "📢【公众号欧歌APP网络收集】测试完请删除,请勿贩卖公告❤更新:3/26❤",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 0,
             "changeable": 0,
             "jar": "./jars/豆瓣1.jar",
-            "ext": "https://欧歌.yy.nxog.top/公告.php?b=【公众号欧歌APP网络收集】接口即将关闭,请勿演示"
+            "ext": "https://欧歌.yy.nxog.top/公告.php?b=【公众号欧歌APP网络收集】测试完请删除,请勿贩卖"
         },
         {
             "key": "欧歌弹幕",
