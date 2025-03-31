@@ -172,7 +172,7 @@
             },
             "ext": {
                 "json": "./json/哔哩合集.json",
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
         },
         {
