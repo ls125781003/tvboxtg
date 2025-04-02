@@ -118,6 +118,20 @@
             }
         },
         {
+            "key": "西瓜视频",
+            "name": "西瓜｜视频",
+            "type": 3,
+            "api": "csp_AmuXiguaV2",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
             "key": "阿里云盘",
             "name": "阿里｜云盘",
             "type": 3,
@@ -343,13 +357,13 @@
             "filterable": 1,
             "changeable": 1,
             "style": {
-                "type": "rect",
+                "type": "list",
                 "ratio": 1.433
             },
             "ext": "./json/lj.json?"
         },
         {
-            "key": "概念",
+            "key": "海绵",
             "name": "海绵｜4K",
             "type": 3,
             "api": "csp_PanWebShareCloudHM",
@@ -358,7 +372,7 @@
             "filterable": 1,
             "changeable": 1,
             "style": {
-                "type": "rect",
+                "type": "list",
                 "ratio": 1.433
             },
             "ext": "./json/hm.json?"
@@ -373,7 +387,7 @@
             "filterable": 1,
             "changeable": 1,
             "style": {
-                "type": "rect",
+                "type": "list",
                 "ratio": 1.433
             },
             "ext": "./json/pan1.json?"
@@ -830,7 +844,8 @@
             "type": 3,
             "api": "csp_Wetv",
             "searchable": 1,
-            "quickSearch": 1
+            "quickSearch": 1,
+            "ext": "https://v.wetv.wang"
         },
         {
             "key": "低端影视",
@@ -878,20 +893,6 @@
             "filterable": 1
         },
         {
-            "key": "西瓜视频",
-            "name": "西瓜｜视频",
-            "type": 3,
-            "api": "csp_AmuXiguaV2",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-        {
             "key": "采集之王",
             "name": "采集｜合集",
             "type": 3,
@@ -902,7 +903,7 @@
             "key": "爱看机器人",
             "name": "爱看｜影视",
             "type": 3,
-            "api": "csp_IkanBot",
+            "api": "csp_Ikanbot",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
