@@ -83,7 +83,7 @@
             "searchable": 1,
             "ext": {
                 "json": "./json/bili.json",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+                "cookie": ""
             },
             "style": {
                 "type": "rect",
