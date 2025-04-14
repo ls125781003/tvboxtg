@@ -1027,13 +1027,13 @@
             "name": "BJTV",
             "type": 0,
             "url": "./lives/BJTV.txt",
-            "epg": ""
+            "playerType":1
         },
         {
             "name": "钵钵鸡(四网通用)",
             "type": 0,
             "url": "./lives/钵钵鸡(四网通用).txt",
-            "epg": ""
+            "playerType":1
         }
     ]
 }
