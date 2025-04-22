@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆",
-            "name": "【神秘的哥哥们】",
+            "name": "修复无效链接【神秘的哥哥们】",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
@@ -695,7 +695,7 @@
             "name": "平台直播",
             "type": 0,
             "url": "./lives/平台直播.txt",
-            "ua":"okhttp/3.15",
+             "ua":"okhttp/3.15",
             "playerType":2
         }
     ]
