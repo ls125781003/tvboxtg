@@ -670,6 +670,12 @@
     "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
     "lives": [
         {
+            "name": "V6范明明",
+            "type": 0,
+            "url": "./lives/V6范明明.txt",
+            "playerType":2
+        },
+        {
             "name": "牛播一（仅新版影视仓┃ok影视）",
             "type": 0,
             "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
@@ -686,16 +692,10 @@
             "logo":"https://epg.v1.mk/logo/{name}.png"
         },
         {
-            "name": "V6范明明",
-            "type": 0,
-            "url": "./lives/V6范明明.txt",
-            "playerType":2
-        },
-        {
             "name": "平台直播",
             "type": 0,
             "url": "./lives/平台直播.txt",
-             "ua":"okhttp/3.15",
+            "ua":"okhttp/3.15",
             "playerType":2
         }
     ]
