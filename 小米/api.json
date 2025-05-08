@@ -43,7 +43,7 @@
         },
         {
             "key": "csp_Netfixtv2",
-            "name": "🐂二小┃4K弹幕",
+            "name": "✈️二小┃4K弹幕",
             "type": 3,
             "changeable": "0",
             "quickSearch": 1,
@@ -56,7 +56,7 @@
                     "https://erxiaofn.click/",
                     "https://www.xhww.net/"
                 ],
-                "url_key": "Miuc",
+                "url_key": "UC",
                 "token": "",
                 "ucCookie": "",
                 "quarkCookie": "",
@@ -170,7 +170,7 @@
         },
         {
             "key": "光速",
-            "name": "🌟云端┃1080P",
+            "name": "☁️云端┃1080P",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGetGuard",
@@ -288,6 +288,15 @@
             "ext": "http://www.6yueting.com"
         },
         {
+            "key": "巧技",
+            "name": "🚗聚搜┃1080P",
+            "type": 3,
+            "api": "csp_qiao2",
+            "playerType": 2,
+            "jar": "./jars/巧技.jar",
+            "ext": "./txt/cksp.txt"
+        },
+        {
             "key": "Aid",
             "name": "🚑有来┃急救",
             "type": 3,
@@ -337,6 +346,21 @@
                     "User-Agent": "okhttp/4.9.1"
                 }
             }
+        },
+        {
+            "name": "8090g",
+            "type": 0,
+            "url": ""
+        },
+        {
+            "name": "虾米",
+            "type": 0,
+            "url": ""
+        },
+        {
+            "name": "夜幕",
+            "type": 0,
+            "url": ""
         }
     ],
     "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739415605613/015dae5bcd1ff5a801213dea55f8c4.jpg",
