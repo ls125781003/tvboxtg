@@ -4,18 +4,9 @@
     "spider": "./spider.jar",
     "lives": [
         {
-            "name": "【公众号光歌软件分享】永久免费,请勿演示贩卖",
+            "name": "【光歌软件分享】请勿演示贩卖，接口即将关停",
             "type": 0,
-            "url": "./lives/【公众号光歌软件分享】永久免费,请勿演示贩卖.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo":"https://live.fanmingming.cn/tv/{name}.png",
-            "playerType":2,
-            "timeout":10
-        },
-        {
-            "name": "欧歌直播",
-            "type": 3,
-            "url": "./lives/欧歌直播.txt",
+            "url": "./lives/【光歌软件分享】请勿演示贩卖，接口即将关停.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "logo":"https://live.fanmingming.cn/tv/{name}.png",
             "playerType":2,
@@ -26,59 +17,25 @@
             "type": 0,
             "url": "./lives/AI直播.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
-        },
-        {
-            "name": "咪咕直播",
-            "type": 0,
-            "url": "./lives/咪咕直播.txt",
-            "timeout":10
-        },
-        {
-            "name": "虎牙一起看",
-            "type": 3,
-            "url": "./lives/虎牙一起看.txt",
-            "timeout":10,
-            "ua":"okhttp/3.15"
-        },
-        {
-            "name": "斗鱼一起看",
-            "type": 3,
-            "url": "./lives/斗鱼一起看.txt",
-            "timeout":10,
-            "ua":"okhttp/3.15"
-        },
-        {
-            "name": "YY轮播",
-            "type": 3,
-            "url": "./lives/YY轮播.txt",
-            "timeout":10,
-            "ua":"okhttp/3.15"
-        },
-        {
-            "name": "B站直播",
-            "type": 3,
-            "url": "./lives/B站直播.txt",
-            "timeout":10,
-            "ua":"okhttp/3.15"
         }
     ],
     "sites": [
         {
             "key": "豆瓣2",
-            "name": "📢【公众号光歌软件分享】永久免费,请勿演示贩卖",
+            "name": "📢【光歌软件分享】请勿演示贩卖，接口即将关停",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
         {
             "key": "豆瓣1",
-            "name": "📢【公众号光歌软件分享】永久免费,请勿演示贩卖公告❤更新:5/12❤",
+            "name": "📢【光歌软件分享】请勿演示贩卖，接口即将关停公告❤更新:5/12❤",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 0,
             "changeable": 0,
             "jar": "./jars/豆瓣1.jar",
-            "ext": "https://xn--dkw0c.v.nxog.top/m/公告.php?b=【公众号光歌软件分享】永久免费,请勿演示贩卖"
+            "ext": "https://xn--dkw0c.v.nxog.top/m/公告.php?b=【光歌软件分享】请勿演示贩卖，接口即将关停"
         },
         {
             "key": "csp_woog",
@@ -95,8 +52,8 @@
                 ],
                 "url_key": "woog",
                 "threadinfo": {
-                    "chunksize": 213,
-                    "threads": 10
+                    "chunksize": 206,
+                    "threads": 15
                 }
             }
         },
@@ -121,9 +78,9 @@
                     "hhttps://ogkk.nxog.eu.org",
                     "https://ogkk.xn--dkw.xn--6qq986b3xl"
                 ],
-                "url_key": "woogkk",
+                "url_key": "UC",
                 "threadinfo": {
-                    "chunksize": 255,
+                    "chunksize": 290,
                     "threads": 60
                 }
             }
