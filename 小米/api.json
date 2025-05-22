@@ -359,21 +359,6 @@
                     "User-Agent": "okhttp/4.9.1"
                 }
             }
-        },
-        {
-            "name": "8090g",
-            "type": 0,
-            "url": ""
-        },
-        {
-            "name": "虾米",
-            "type": 0,
-            "url": ""
-        },
-        {
-            "name": "夜幕",
-            "type": 0,
-            "url": ""
         }
     ],
     "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739415605613/015dae5bcd1ff5a801213dea55f8c4.jpg",
