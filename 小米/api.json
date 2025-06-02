@@ -405,6 +405,12 @@
             "logo":"https://epg.v1.mk/logo/{name}.png"
         },
         {
+            "name": "IPV6",
+            "type": 0,
+            "url": "./lives/IPV6.txt",
+            "playerType":2
+        },
+        {
             "name": "平台直播",
             "type": 0,
             "url": "./lives/平台直播.txt",
