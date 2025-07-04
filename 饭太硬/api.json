@@ -684,10 +684,10 @@
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo":"https://epg.v1.mk/logo/{name}.png"
         },
-        {   
-            "name":"平台直播",
-            "type":0,
-            "url":"http://tv.iill.top/m3u/Live",
+        {
+            "name": "平台直播",
+            "type": 0,
+            "url": "./lives/平台直播.txt",
             "ua":"okhttp/3.15",
             "playerType":2
         }
