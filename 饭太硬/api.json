@@ -687,7 +687,7 @@
         {
             "name": "平台直播",
             "type": 0,
-            "url": "./lives/平台直播.txt",
+            "url": "http://tv.iill.top/m3u/Live",
             "ua":"okhttp/3.15",
             "playerType":2
         }
