@@ -4,9 +4,9 @@
     "spider": "./spider.jar",
     "lives": [
         {
-            "name": "公众号【杰歌软件APP】如有收费,直接找退款！",
+            "name": "公众号【光歌软件分享】严谨用于任何商业用途！",
             "type": 0,
-            "url": "./lives/公众号【杰歌软件APP】如有收费,直接找退款！.txt",
+            "url": "./lives/公众号【光歌软件分享】严谨用于任何商业用途！.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "logo":"https://live.fanmingming.cn/tv/{name}.png",
             "playerType":2,
@@ -22,7 +22,7 @@
     "sites": [
         {
             "key": "豆瓣2",
-            "name": "📢公众号【杰歌软件APP】如有收费,直接找退款！",
+            "name": "📢公众号【光歌软件分享】严谨用于任何商业用途！",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -35,7 +35,7 @@
             "searchable": 0,
             "changeable": 0,
             "jar": "./jars/豆瓣1.jar",
-            "ext": "https://xn--dkw0c.v.nxog.top/m/公告.php?b=公众号【杰歌软件APP】如有收费,直接找退款！"
+            "ext": "https://xn--dkw0c.v.nxog.top/m/公告.php?b=公众号【光歌软件分享】严谨用于任何商业用途！"
         },
         {
             "key": "csp_woog",
@@ -54,7 +54,7 @@
                 ],
                 "url_key": "woog",
                 "threadinfo": {
-                    "chunksize": 290,
+                    "chunksize": 223,
                     "threads": 16
                 }
             }
@@ -83,7 +83,7 @@
                 ],
                 "url_key": "UC",
                 "threadinfo": {
-                    "chunksize": 258,
+                    "chunksize": 283,
                     "threads": 60
                 }
             }
@@ -114,7 +114,7 @@
                 ],
                 "url_key": "woog2",
                 "threadinfo": {
-                    "chunksize": 201,
+                    "chunksize": 212,
                     "threads": 16
                 }
             }
