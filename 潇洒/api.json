@@ -86,6 +86,51 @@
             }
         },
         {
+            "key": "乐达",
+            "name": "乐达｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://ledayy.com",
+                "site": "",
+                "dataKey": "hjjp68c2okw12345",
+                "dataIv": "hjjp68c2okw12345",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "灵虎",
+            "name": "灵虎｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "",
+                "site": "https://bind.315999.xyz/89.txt",
+                "dataKey": "#getapp@TMD@2025",
+                "dataIv": "#getapp@TMD@2025",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
+        {
+            "key": "旗星",
+            "name": "旗星｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://ys.qist.top",
+                "site": "",
+                "dataKey": "2SWSPFxugBLPPOKo",
+                "dataIv": "2SWSPFxugBLPPOKo",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
+        {
             "key": "云云",
             "name": "云云｜APP",
             "type": 3,
@@ -279,6 +324,7 @@
             "key": "米诺",
             "name": "米诺｜APP",
             "type": 3,
+            "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
                 "url": "http://www.milkidc.cn",
@@ -765,38 +811,64 @@
             }
         },
         {
-            "key": "爱搜",
-            "name": "爱搜｜4K弹幕",
-            "type": 3,
-            "api": "./js/cloud.min.js",
-            "ext": "./js/爱搜.js",
-            "style": {
-                "type": "list"
-            }
-        },
-        {
             "key": "糖果",
             "name": "糖果｜搜索",
             "type": 3,
             "api": "csp_TGSou",
             "searchable": 1,
-            "changeable": 0
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "音海夸克",
+            "name": "音海｜夸克",
+            "type": 3,
+            "api": "csp_YinHaiQuark",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "音海UC",
+            "name": "音海｜UC",
+            "type": 3,
+            "api": "csp_YinHaiUC",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "音海天翼",
+            "name": "音海｜天翼",
+            "type": 3,
+            "api": "csp_YinHaiTianyi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "音海123",
+            "name": "音海｜123",
+            "type": 3,
+            "api": "csp_YinHai123",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "音海百度",
+            "name": "音海｜百度",
+            "type": 3,
+            "api": "csp_YinHaiBaidu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "米搜",
             "name": "米搜｜搜索",
             "type": 3,
             "api": "csp_MiSou"
-        },
-        {
-            "key": "人人分享站",
-            "name": "人人｜搜索",
-            "type": 3,
-            "api": "./js/cloud.min.js",
-            "ext": "./js/人人分享站.js",
-            "style": {
-                "type": "list"
-            }
         },
         {
             "key": "全盘",
@@ -825,8 +897,7 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
+            "filterable": 1
         },
         {
             "key": "偷乐短剧",
@@ -836,8 +907,7 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
+            "filterable": 1
         },
         {
             "key": "爱看短剧",
@@ -847,8 +917,7 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
+            "filterable": 1
         },
         {
             "key": "锦鲤短剧",
@@ -858,8 +927,17 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
+            "filterable": 1
+        },
+        {
+            "key": "剧王短剧",
+            "name": "剧王｜短剧",
+            "type": 3,
+            "api": "./py/剧王短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "短剧屋",
@@ -895,7 +973,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "playerType": 2,
             "ext": {
                 "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
             }
@@ -908,8 +985,7 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
+            "filterable": 1
         },
         {
             "key": "零度影视",
@@ -919,8 +995,7 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
+            "filterable": 1
         },
         {
             "key": "追星影视",
@@ -930,8 +1005,7 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
+            "filterable": 1
         },
         {
             "key": "厂长影视",
@@ -984,8 +1058,7 @@
             "key": "饺子影视",
             "name": "饺子｜影视",
             "type": 3,
-            "api": "csp_Jiaozi",
-            "playerType": 2
+            "api": "csp_Jiaozi"
         },
         {
             "key": "鸭梨影视",
