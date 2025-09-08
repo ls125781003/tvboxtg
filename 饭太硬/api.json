@@ -627,7 +627,7 @@
             "type": 0,
             "url": "./lives/V4-mursor（卡顿请换源）.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "ua": "okHttp/Mod-1.2.0.1"
+            "ua": "okHttp/Mod-1.3.0.0"
         },
         {
             "name": "V6-范明明（需开启V6网络）",
