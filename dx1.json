@@ -48,6 +48,14 @@
         	"url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/少儿频道/api.json", 
             "name": "少儿频道" 
         },
+        {   
+            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/OK/api.json", 
+            "name": "OK" 
+        },
+        {   
+            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/巧技/api.json", 
+            "name": "巧技" 
+        },
         {
             "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/testboxapi/main/tvbox/api.json",
             "name": "精简多线-聚"
