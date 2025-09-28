@@ -28,10 +28,6 @@
             "url": "https://raw.githubusercontent.com/ls125781003/tvboxtg/main/摸鱼儿/api.json", 
             "name": "摸鱼儿" 
         },
-        { 
-            "url": "https://raw.githubusercontent.com/ls125781003/tvboxtg/main/欧歌/api.json", 
-            "name": "欧歌" 
-        },
         {   
         	"url": "https://raw.githubusercontent.com/ls125781003/tvboxtg/main/王二小/api.json", 
             "name": "王二小" 
