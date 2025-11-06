@@ -1,10 +1,10 @@
 {
     "spider": "./spider.jar",
-    "wallpaper": "https://xn--4kq62z5rby2qupqba63sb41h.999888987.xyz/",
+    "wallpaper": "https://api.fw1028.top/scenery.php?return=img",
     "sites": [
         {
             "key": "豆豆",
-            "name": "🌈热播┃推荐（非开源软件内置会崩溃基本适配主流软件）",
+            "name": "🌈热播┃推荐项目链接：https://link3.cc/lovemm",
             "type": 3,
             "quickSearch": 0,
             "filterable": 0,
@@ -14,7 +14,7 @@
         },
         {
             "key": "config",
-            "name": "⚙网盘┃配置项目链接：https://link3.cc/lovemm",
+            "name": "⚙4K网盘┃配置中心",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0
@@ -210,8 +210,8 @@
             "quickSearch": 1,
             "searchable": 1,
             "type": 3,
-            "api": "csp_AppGet",
-            "ext": "KgJbeb5sUfDKrPR2kL+eSnS2/p1vUzgiO9/kBzkhPIPRpqLXPCDc4tA9MXMdokFN"
+            "api": "csp_AppQi",
+            "ext": "lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZs2oYEHsmeJ7qO916dp7EwGSHrLa99AaS96nuzx3wbRg9O4Syz4DgXRB/Lb2vvIW/H"
         },
         {
             "key": "天天",
@@ -228,14 +228,6 @@
             "type": 3,
             "quickSearch": 0,
             "api": "csp_FreeOk"
-        },
-        {
-            "key": "追忆",
-            "name": "🐖追忆┃APP",
-            "type": 3,
-            "api": "csp_AppSy",
-            "quickSearch": 0,
-            "ext": "oJGDh+VBrPcwnx19VbSGqy9EkivA/Gc+cSt3uSBzyPzDTmKYyoi6Wr4VgqU2u0Sh7AAuGc4/a7UWVU6BEmFetA=="
         },
         {
             "key": "热热",
@@ -271,21 +263,7 @@
             "quickSearch": 0,
             "searchable": 1,
             "api": "csp_AppQi",
-            "ext": "Ruh/okyt5lxEpcdQOao0NkSkj8M9vdB0soaZbGJldzA3817rfAzlvyWHCewZEFD4+BBCXxVVHkmAtv6gi+JRQlKwhK1WjuT8blTygReol77ICMmtZZPsmzfgjOtOXiEJ"
-        },
-        {
-            "key": "QD4K",
-            "name": "🐷猪猪┃影视",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 0,
-            "api": "./api/AppV2.py",
-            "playerType": 2,
-            "ext": {
-                "api": "http://dmmax.kuailezhuiju2.com/icciu_api.php/v1.vod",
-                "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
-                "apisignkey": "lvdoutv-1.0.0"
-            }
+            "ext": "9ee0oa0Y30GapSvZ2C2RVE2HwH08KKvP0VhAZCVWpnluXpZNLRZrNCMeKyCWw1JOnmBt4WntUB96Gzw7GkroAUK4RePU806mDtHSmD09164W8EWpaWaU/Gg8nPkgUt5F"
         },
         {
             "key": "csp_SaoHuo",
@@ -449,13 +427,12 @@
     ],
     "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752137757797/ab67656300005f1f66fff1b2f972193c3d6433eb.jpg",
     "lives": [
-        {
-            "name": "平台直播",
-            "type": 0,
-            "url": "https://sub.ottiptv.cc/iptv.m3u",
-            "ua": "okhttp/3.15",
-            "playerType":2
-        }
+        {"name":"V4-develop202","type":0,"url":"https://gh.llkk.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
+        {"name":"V6-范明明（需开启V6网络）","type":0,"url":"https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u","playerType":2},
+        {"name":"虎牙一起看","type":0,"url":"https://sub.ottiptv.cc/huyayqk.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
+        {"name":"斗鱼一起看","type":0,"url":"https://sub.ottiptv.cc/douyuyqk.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
+        {"name":"B站直播","type":0,"url":"https://sub.ottiptv.cc/bililive.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
+        {"name":"YY轮播","type":0,"url":"https://sub.ottiptv.cc/yylunbo.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"}
     ],
     "rules": [
         {
