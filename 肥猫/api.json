@@ -78,7 +78,7 @@
             "ext": {
                 "site_urls": [
                     "http://xiaomi666.fun",
-                    "https://xiaomiai.site",
+                    "https://zhizhen1.top",
                     "https://mihdr.top",
                     "https://www.mihdr.top",
                     "http://www.miqk.cc",
@@ -625,11 +625,10 @@
     ],
     "lives": [
         {
-            "name":"冰茶",
-            "type":0,
-            "playerType":2,
-            "url":"https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true",
-            "ua":"bingcha/1.1(mianfeifenxiang)"
+            "name": "冰茶",
+            "type": 0,
+            "url": "./lives/冰茶.txt",
+            "ua": "bingcha/1.1 (mianfeifenxiang)"
         }
     ],
     "headers": [
