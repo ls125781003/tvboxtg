@@ -273,6 +273,19 @@
             }
         },
         {
+            "key": "火花",
+            "name": "火花｜APP",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "site": "http://php.itcxo.cn/txt/1.txt",
+                "dataKey": "PoiUytRedFghjklm",
+                "dataIv": "PoiUytRedFghjklm"
+            }
+        },
+        {
             "key": "椰子",
             "name": "椰子｜APP",
             "type": 3,
@@ -916,26 +929,13 @@
             "key": "人人",
             "name": "人人｜4K",
             "type": 3,
-            "api": "csp_RenRen",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
+            "api": "csp_RenRen"
         },
         {
             "key": "即刻",
             "name": "即刻｜4K",
             "type": 3,
             "api": "csp_Jike",
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "双星",
-            "name": "双星｜4K",
-            "type": 3,
-            "api": "csp_ShuangXing",
             "style": {
                 "type": "list"
             }
@@ -1608,16 +1608,28 @@
             "api": "csp_MiSou"
         },
         {
-            "key": "酷乐搜索",
+            "key": "酷乐搜l",
             "name": "酷乐｜搜索",
             "type": 3,
             "api": "csp_KuLe"
         },
         {
-            "key": "鬼鬼搜索",
+            "key": "鬼鬼",
             "name": "鬼鬼｜搜索",
             "type": 3,
             "api": "csp_GuiGui"
+        },
+        {
+            "key": "混合",
+            "name": "混合｜搜索",
+            "type": 3,
+            "api": "csp_HunHePan"
+        },
+        {
+            "key": "兄弟",
+            "name": "兄弟｜搜索",
+            "type": 3,
+            "api": "csp_XiongDiPan"
         },
         {
             "key": "趣盘",
