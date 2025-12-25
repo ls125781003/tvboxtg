@@ -69,6 +69,7 @@
 {"key":"讴歌","name":"🅾讴歌","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"./json/peizhi.json","siteUrl":"https://woog.nxog.eu.org","filter":"./json/wogg.json"}},
 {"key":"多多","name":"🌟多多","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"./json/peizhi.json","siteUrl":"https://tv.yydsys.top","filter":"./json/wogg.json"}},
 {"key":"星剧社","name":"⭐️星剧社","type":3,"api":"csp_Star2","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"https://1.star2.cn","commonConfig":"./json/peizhi.json"}},
+{"key":"闪电","name":"⚡闪电","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"./json/peizhi.json","siteUrl":"https://sduc.cloud/","filter":"./json/wogg.json"}},
 {"key":"csp_PanSearch","name":"📀盘搜索","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":{"commonConfig":"./json/peizhi.json"}},
 {"key":"盘Ta","name":"🍥盘Ta","type":3,"api":"csp_PanTa","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"https://www.91panta.cn/","commonConfig":"./json/peizhi.json"}},
 {"key":"AList","name":"🅰AList","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"./json/alist.json"},
