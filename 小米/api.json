@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "🌈热播┃公众号关注 >✨搬运分享屋✨",
+            "name": "🌈热播┃新年快乐！关注 >✨搬运分享屋✨",
             "type": 3,
             "quickSearch": 0,
             "filterable": 0,
@@ -50,19 +50,18 @@
             "key": "csp_Netfixtv2",
             "name": "📟二小┃网盘✨",
             "type": 3,
-            "changeable": "1",
+            "changeable": "0",
             "quickSearch": 1,
             "api": "csp_Duopan",
             "filterable": 1,
             "ext": {
                 "site_urls": [
+                    "https://zhizhen1.top",
                     "https://www.wexwp.cc",
                     "https://wexwp.cc",
                     "https://www.2xiaopan.fun/",
                     "https://2xiaopan.fun/",
-                    "https://www.2xiaoyun.fun/",
-                    "https://www.xhww.net/",
-                    "https://zhizhen1.top"
+                    "https://www.2xiaoyun.fun/"
                 ],
                 "url_key": "UC",
                 "token": "",
@@ -120,7 +119,7 @@
             "changeable": 1,
             "api": "./api/fox.js",
             "ext": {
-                "host": "http://103.109.20.117:550/"
+                "host": "https://www.70yyw.cc"
             }
         },
         {
@@ -464,12 +463,11 @@
     ],
     "logo": "https://wkphoto.bj.bcebos.com/bba1cd11728b47106798119ad3cec3fdfc032335.jpg",
     "lives": [
-        {"name":"冰茶","type":0,"url":"https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true","playerType":2,"timeout":10,"ua":"bingcha/1.1(mianfeifenxiang)"},
-        {"name":"develop202","type":0,"url":"https://gh.llkk.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
+        {"name":"冰茶","type":0,"url":"https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true","timeout":10,"ua":"bingcha/1.1(mianfeifenxiang)"},
         {"name":"范明明（需开启V6网络）","type":0,"url":"https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u","playerType":2},
-        {"name":"虎牙一起看","type":0,"url":"https://sub.ottiptv.cc/huyayqk.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
-        {"name":"斗鱼一起看","type":0,"url":"https://sub.ottiptv.cc/douyuyqk.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
-        {"name":"B站直播","type":0,"url":"https://sub.ottiptv.cc/bililive.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
-        {"name":"YY轮播","type":0,"url":"https://sub.ottiptv.cc/yylunbo.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"}
+        {"name":"虎牙一起看","type":0,"url":"https://sub.ottiptv.cc/huyayqk.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
+        {"name":"斗鱼一起看","type":0,"url":"https://sub.ottiptv.cc/douyuyqk.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
+        {"name":"B站直播","type":0,"url":"https://sub.ottiptv.cc/bililive.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
+        {"name":"YY轮播","type":0,"url":"https://sub.ottiptv.cc/yylunbo.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"}
     ]
 }
