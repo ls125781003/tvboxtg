@@ -1,95 +1,95 @@
 { 
 	"urls": [
         { 
-            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/饭太硬/api.json", 
+            "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/tvboxtg/main/饭太硬/api.json", 
             "name": "饭太硬" 
         },
         { 
-            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/小米/api.json", 
+            "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/tvboxtg/main/小米/api.json", 
             "name": "小米" 
         },
         { 
-            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/肥猫/api.json", 
+            "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/tvboxtg/main/肥猫/api.json", 
             "name": "肥猫" 
         },
         { 
-            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/xyqonlinerule/main/XYQTVBox.json", 
+            "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/xyqonlinerule/main/XYQTVBox.json", 
             "name": "香雅情[原]" 
         },
         {  
-            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/南风/api.json", 
+            "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/tvboxtg/main/南风/api.json", 
             "name": "南风" 
         },
         { 
-            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/PG/api.json", 
+            "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/tvboxtg/main/PG/api.json", 
             "name": "PG" 
         },
         { 
-            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/摸鱼儿/api.json", 
+            "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/tvboxtg/main/摸鱼儿/api.json", 
             "name": "摸鱼儿" 
         },
         {   
-        	"url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/王二小/api.json", 
+        	"url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/tvboxtg/main/王二小/api.json", 
             "name": "王二小" 
         },
         { 
-            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/api.json", 
+            "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/api.json", 
             "name": "潇洒" 
         },
         { 
-            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/戏曲音乐/api.json", 
+            "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/tvboxtg/main/戏曲音乐/api.json", 
             "name": "戏曲音乐" 
         },
         {   
-        	"url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/少儿频道/api.json", 
+        	"url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/tvboxtg/main/少儿频道/api.json", 
             "name": "少儿频道" 
         },
         {   
-            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/OK/api.json", 
+            "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/tvboxtg/main/OK/api.json", 
             "name": "OK" 
         },
         {
-            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/testboxapi/main/aowu/api.json",
+            "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/testboxapi/main/aowu/api.json",
             "name": "嗷呜"
         },
         {
-            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/testboxapi/main/tvbox/api.json",
+            "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/testboxapi/main/tvbox/api.json",
             "name": "精简多线-聚"
         },
         {
-            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/testboxapi/main/test1/api.json",
+            "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/testboxapi/main/test1/api.json",
             "name": "精简多线-选[小虎斑]"
         },
         {
-            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/testboxapi/main/cang/影视/api.json",
+            "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/testboxapi/main/cang/影视/api.json",
             "name": "精简多线-影视"
         },
         {
-            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/testboxapi/main/cang/动漫/api.json",
+            "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/testboxapi/main/cang/动漫/api.json",
             "name": "精简多线-动漫"
         },
         {
-            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/testboxapi/main/cang/文艺/api.json",
+            "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/testboxapi/main/cang/文艺/api.json",
             "name": "精简多线-文艺"
         },
         {
-            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/testboxapi/main/cang/体育/api.json",
+            "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/testboxapi/main/cang/体育/api.json",
             "name": "精简多线-体育"
         },
         {
-            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/testboxapi/main/cang/教育/api.json",
+            "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/testboxapi/main/cang/教育/api.json",
             "name": "精简多线-教育"
         },
         {
-            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/testboxapi/main/cang/直播/api.json",
+            "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/testboxapi/main/cang/直播/api.json",
             "name": "精简多线-直播"
         },
         {
-            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/testboxapi/main/cang/磁力/api.json",
+            "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/testboxapi/main/cang/磁力/api.json",
             "name": "精简多线-磁力"
         },
         {
-            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/ls125781003/testboxapi/main/cang/云盘/api.json",
+            "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/testboxapi/main/cang/云盘/api.json",
             "name": "精简多线-云盘"
         }
     ]
