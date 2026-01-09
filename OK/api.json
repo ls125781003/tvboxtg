@@ -619,17 +619,6 @@
             "timeout": 10
         },
         {
-            "key": "甜圈短剧",
-            "name": "🌸甜圈┃短剧",
-            "type": 3,
-            "api": "csp_TianQuanGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "timeout": 10
-        },
-        {
             "key": "yhdm",
             "name": "🌸樱花┃动漫",
             "type": 3,
@@ -1167,25 +1156,25 @@
             "name": "肥羊虎牙一起看",
             "type": 0,
             "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/huyayqk.m3u",
-            "ua": "okHttp/Mod-1.5.0.0"
+            "ua": "okHttp/Mod-1.4.0.0"
         },
         {
             "name": "肥羊B站直播",
             "type": 0,
             "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/bililive.m3u",
-            "ua": "okHttp/Mod-1.5.0.0"
+            "ua": "okHttp/Mod-1.4.0.0"
         },
         {
             "name": "肥羊斗鱼一起看",
             "type": 0,
             "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/douyuyqk.m3u",
-            "ua": "okHttp/Mod-1.5.0.0"
+            "ua": "okHttp/Mod-1.4.0.0"
         },
         {
             "name": "肥羊YY轮播",
             "type": 0,
             "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/yylunbo.m3u",
-            "ua": "okHttp/Mod-1.5.0.0"
+            "ua": "okHttp/Mod-1.4.0.0"
         }
     ],
     "ijk": [
