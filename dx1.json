@@ -53,6 +53,10 @@
             "name": "嗷呜"
         },
         {
+            "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/testboxapi/main/newwex/api.json",
+            "name": "newwex"
+        },
+        {
             "url": "https://hk.gh-proxy.org/raw.githubusercontent.com/ls125781003/testboxapi/main/tvbox/api.json",
             "name": "精简多线-聚"
         },
