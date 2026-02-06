@@ -57,44 +57,36 @@
             "name": "newwex"
         },
         {
-            "url": "https://raw.githubusercontent.com/ls125781003/testboxapi/main/tvbox/api.json",
-            "name": "精简多线-聚"
+            "url": "https://raw.githubusercontent.com/ls125781003/testboxapi/main/huban/api.json",
+            "name": "小虎斑"
         },
         {
-            "url": "https://raw.githubusercontent.com/ls125781003/testboxapi/main/test1/api.json",
-            "name": "精简多线-选[小虎斑]"
+            "url": "https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosa/api.json",
+            "name": "潇洒单线路"
         },
         {
-            "url": "https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/影视/api.json",
-            "name": "精简多线-影视"
+            "url": "https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosac/影视/api.json",
+            "name": "潇洒多线-影视"
         },
         {
-            "url": "https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/动漫/api.json",
-            "name": "精简多线-动漫"
+            "url": "https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosac/动漫/api.json",
+            "name": "潇洒多线-动漫"
         },
         {
-            "url": "https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/文艺/api.json",
-            "name": "精简多线-文艺"
+            "url": "https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosac/文艺/api.json",
+            "name": "潇洒多线-文艺"
         },
         {
-            "url": "https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/体育/api.json",
-            "name": "精简多线-体育"
+            "url": "https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosac/教育/api.json",
+            "name": "潇洒多线-教育"
         },
         {
-            "url": "https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/教育/api.json",
-            "name": "精简多线-教育"
+            "url": "https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosac/磁力/api.json",
+            "name": "潇洒多线-磁力"
         },
         {
-            "url": "https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/直播/api.json",
-            "name": "精简多线-直播"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/磁力/api.json",
-            "name": "精简多线-磁力"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/ls125781003/testboxapi/main/cang/云盘/api.json",
-            "name": "精简多线-云盘"
+            "url": "https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosac/云盘/api.json",
+            "name": "潇洒多线-云盘"
         }
     ]
 }
