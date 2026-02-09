@@ -57,6 +57,7 @@
 {"key":"csp_FirstAid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"style":{"type":"rect","ratio":3.8}},
 
 {"key":"玩偶gg","name":"👽玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"commonConfig":"./json/peizhi.json","siteUrl":"https://wogg.xxooo.cf","filter":"./json/wogg.json"}},
+{"key":"观影","name":"🎥观影(需要账号登录)","type":3,"api":"csp_GuanYing","searchable":1,"changeable":0,"ext":{"commonConfig":"./json/peizhi.json","siteUrl":"https://www.gyg.la/","username":"","password":""}},
 {"key":"片库","name":"🅿片库","type":3,"api":"csp_Qiwei","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"https://www.qwnull.com","commonConfig":"./json/peizhi.json"}},
 {"key":"pansou|fish","name":"🅿pansou|fish","type":3,"api":"csp_PanSouFish","searchable":1,"changeable":0,"ext":{"siteUrl":"https://pansou-latest-hv4k.onrender.com","filter":{"include":["HDR","高码"],"exclude":["预告","花絮"]},"commonConfig":"./json/peizhi.json"}},
 {"key":"二小","name":"😈二小","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"./json/peizhi.json","siteUrl":"https://erxiaofn.click/","filter":"./json/wogg.json"}},
