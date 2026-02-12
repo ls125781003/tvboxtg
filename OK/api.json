@@ -402,21 +402,6 @@
       "timeout": 10
     },
     {
-      "key": "小猪弹幕版",
-      "name": "🐖小猪┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "XiaoZhu",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
       "key": "一起弹幕版",
       "name": "📺一起┃弹幕",
       "type": 3,
@@ -714,6 +699,20 @@
       "filterable": 1,
       "ext": {
         "sp": "AppXY"
+      },
+      "timeout": 10
+    },
+    {
+      "key": "碎片短剧",
+      "name": "🧸碎片┃短剧",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "SuiPian"
       },
       "timeout": 10
     },
@@ -1196,6 +1195,19 @@
       "changeable": 0,
       "ext": {
         "sp": "Djps"
+      },
+      "timeout": 25
+    },
+    {
+      "key": "djso",
+      "name": "🔍剧搜┃搜索",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "sp": "Djso"
       },
       "timeout": 25
     },
