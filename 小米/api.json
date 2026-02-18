@@ -342,11 +342,10 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "冰 茶",
+            "name": "Kimentanm",
             "type": 0,
-            "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
-            "timeout": 10,
-            "ua": "bingcha/1.1(mianfeifenxiang)"
+            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "playerType": 2
         },
         {
             "name": "范明明（需开启V6网络）",
