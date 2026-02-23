@@ -372,21 +372,6 @@
       "timeout": 10
     },
     {
-      "key": "一起弹幕版",
-      "name": "📺一起┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Yqs",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
       "key": "奇奇弹幕版",
       "name": "🐵奇奇┃弹幕",
       "type": 3,
@@ -635,13 +620,34 @@
     },
     {
       "key": "电影天堂",
-      "name": "🎞️天堂┃采集",
-      "type": 1,
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+      "name": "🎞️天堂┃弹幕",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "量子",
+      "name": "📷量子┃弹幕",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/m3u8/",
+        "danmu": true
+      },
       "timeout": 10
     },
     {
