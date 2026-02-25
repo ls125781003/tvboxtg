@@ -551,10 +551,11 @@
     ],
     "lives": [
         {
-            "name": "冰茶",
+            "name": "综合直播",
             "type": 0,
-            "url": "./lives/冰茶.txt",
-            "ua": "bingcha/1.1 (mianfeifenxiang)"
+            "playerType": 2,
+            "url": "https://ds65.tv1288.xyz",
+            "ua": "bingcha/1.1 (mianfeifenxiang) "
         }
     ],
     "headers": [
