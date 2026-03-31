@@ -245,7 +245,7 @@
       "name": "⭐指南┃4K原盘",
       "type": 3,
       "api": "csp_AweSomeGuard",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 0,
@@ -1048,6 +1048,21 @@
         "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/531DD35_773_biligzkt_20251204150243460newMediaFile.bmp"
       },
       "timeout": 20
+    },
+    {
+      "key": "115分享",
+      "name": "🌷115┃分享",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "ext": {
+        "sp": "Pan115Share"
+      },
+      "timeout": 30
     },
     {
       "key": "csp_AListGuard",
