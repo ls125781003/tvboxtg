@@ -375,21 +375,6 @@
       "timeout": 10
     },
     {
-      "key": "雄鹰弹幕版",
-      "name": "🦅雄鹰┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "XiongYing",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
       "key": "奇奇弹幕版",
       "name": "🐵奇奇┃弹幕",
       "type": 3,
@@ -631,7 +616,7 @@
       "filterable": 1,
       "ext": {
         "sp": "Caiji",
-        "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+        "api": "http://dyttzy5.tv/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
         "danmu": true
       },
       "timeout": 10
@@ -871,19 +856,6 @@
       "timeout": 10
     },
     {
-      "key": "六月听书",
-      "name": "🎤六月┃听书",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "sp": "WeiTing"
-      },
-      "timeout": 10
-    },
-    {
       "key": "bilimd",
       "name": "🅱哔哩┃影视",
       "type": 3,
@@ -1059,6 +1031,9 @@
       "changeable": 0,
       "filterable": 0,
       "indexs": 0,
+      "style": {
+        "type": "list"
+      },
       "ext": {
         "sp": "Pan115Share"
       },
