@@ -217,7 +217,7 @@ var rule = {
                     parse: 0,
                     url: bata.url,
                     jx: 0,
-                    danmaku: "http://127.0.0.1:9978/proxy?do=danmu&url=" + input.split("?")[0]
+                    danmaku: "http://127.0.0.1:9997/api/v2/comment?format=xml&url=" + encodeURIComponent(input.split("?")[0])
                 };
             } else {
                 input = {
@@ -225,7 +225,7 @@ var rule = {
                     parse: 0,
                     url: input.split("?")[0],
                     jx: 1,
-                    danmaku: "http://127.0.0.1:9978/proxy?do=danmu&url=" + input.split("?")[0]
+                    danmaku: "http://127.0.0.1:9997/api/v2/comment?format=xml&url=" + encodeURIComponent(input.split("?")[0])
                 };
             }
         } catch {
@@ -234,7 +234,7 @@ var rule = {
                 parse: 0,
                 url: input.split("?")[0],
                 jx: 1,
-                danmaku: "http://127.0.0.1:9978/proxy?do=danmu&url=" + input.split("?")[0]
+                danmaku: "http://127.0.0.1:9997/api/v2/comment?format=xml&url=" + encodeURIComponent(input.split("?")[0])
             };
         }
     }),
